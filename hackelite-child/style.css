@@ -16,3 +16,8 @@ This theme, like WordPress, is licensed under the GPL.
 
 /* Theme customization starts here
 -------------------------------------------------------------- */
+
+
+.openjobs, .time-ago, .job-item .job-info .job-type{
+	display:none;
+}
