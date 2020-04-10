@@ -1,0 +1,3274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InJob\n"
+"POT-Creation-Date: 2018-06-29 10:14+0700\n"
+"PO-Revision-Date: 2018-06-29 10:14+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+# We are sorry, but the page you are looking for does not exist.
+#: 404.php:12
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "Es tut uns leid, aber die von Ihnen gesuchte Seite existiert nicht."
+
+#: 404.php:14
+msgid "You could go back to"
+msgstr "You could go back to"
+
+#: 404.php:14
+msgid "Home Page"
+msgstr "Startseite"
+
+#: blocks/breadcrumbs.php:5 blocks/page-heading.php:75
+#: woocommerce/global/breadcrumb.php:26
+msgid "Home"
+msgstr "Startseite"
+
+#: blocks/breadcrumbs.php:6 blocks/page-heading.php:76
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: blocks/breadcrumbs.php:7 blocks/page-heading.php:77
+#, php-format
+msgid "Archive for \"%s\""
+msgstr "Archiv für \"%s\""
+
+#: blocks/breadcrumbs.php:8 blocks/page-heading.php:78
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Suchergebnisse für \"%s\" Anfrage"
+
+#: blocks/breadcrumbs.php:9 blocks/page-heading.php:79
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Artikel mit dem Stichwort \"%s\""
+
+#: blocks/breadcrumbs.php:10 blocks/page-heading.php:80
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artikel gepostet von% s"
+
+#: blocks/breadcrumbs.php:11
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: blocks/breadcrumbs.php:151
+msgid "&nbsp;Page"
+msgstr "&nbsp; Seite"
+
+#: blocks/page-heading.php:27
+msgid "Find jobs"
+msgstr "Arbeitsplätze finden"
+
+#: blocks/page-heading.php:30
+msgid "You are browsing: "
+msgstr "Sie durchsuchen:"
+
+#: blocks/page-heading.php:81
+msgid "Oops! That page can&rsquo;t be found"
+msgstr "Hoppla! Diese Seite kann nicht gefunden werden"
+
+#: blocks/paging.php:4
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: blocks/paging.php:5
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: blocks/panel-settings.php:9
+msgid "LAYOUT"
+msgstr "LAYOUT"
+
+#: blocks/panel-settings.php:11
+msgid "WIDE"
+msgstr "BREIT"
+
+#: blocks/panel-settings.php:12
+msgid "BOXED"
+msgstr "BOXED"
+
+#: blocks/panel-settings.php:16
+msgid "SAMPLE COLOR"
+msgstr "Beispielfarbe"
+
+#: blocks/panel-settings.php:28
+msgid ""
+"Please read our documentation file to know how to change colors as you want"
+msgstr ""
+"Bitte lesen Sie unsere Dokumentationsdatei, um zu erfahren, wie Sie die "
+"Farben ändern können, wie Sie möchten"
+
+#: blocks/panel-settings.php:33
+msgid "BACKGROUND COLOR"
+msgstr "HINTERGRUNDFARBE"
+
+#: blocks/panel-settings.php:46
+msgid "BACKGROUND TEXTURE"
+msgstr "HINTERGRUND-BESCHAFFENHEIT"
+
+#: blocks/panel-settings.php:65
+msgid "LEFT TO RIGHT"
+msgstr "LINKS NACH RECHTS"
+
+#: blocks/panel-settings.php:66
+msgid "RIGHT TO LEFT"
+msgstr "RECHTS NACH LINKS"
+
+#: blocks/panel-settings.php:72
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "Kommentarfunktion ist geschlossen."
+
+#: comments.php:33
+#, php-format
+msgid "<span>%d</span> Comment"
+msgid_plural "<span>%d</span> Comments"
+msgstr[0] "<span>% d </ span> Kommentar"
+msgstr[1] "<span>% d </ span> Kommentare"
+
+#: comments.php:38 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "& larr; ältere Kommentare"
+
+#: comments.php:40 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare & rarr;"
+
+#: comments.php:69
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Erforderliche Felder sind mit% s gekennzeichnet"
+
+#: comments.php:71
+msgid "Name *"
+msgstr "Name*"
+
+#: comments.php:72
+msgid "Email address *"
+msgstr "E-Mail-Addresse*"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:74
+msgid "Your comment *"
+msgstr "Ihr Kommentar *"
+
+#: comments.php:82
+msgid ""
+"Save my name, email, and website in this browser for the next time comment."
+msgstr ""
+
+#: comments.php:96
+msgctxt "noun"
+msgid "Comment*"
+msgstr "Kommentar*"
+
+#: content-gallery.php:46 content-image.php:30 content-single.php:33
+#: content-video.php:41
+msgid "Sticky post"
+msgstr "Klebriger Beitrag"
+
+#: content-gallery.php:55 content-image.php:39 content-page.php:14
+#: content-single.php:42 content-video.php:50
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-gallery.php:65 content-image.php:49 content-video.php:60
+msgid "by: "
+msgstr "durch:"
+
+#: content-gallery.php:70 content-image.php:54 content-video.php:65
+msgid "0 comment"
+msgstr "0 Kommentar"
+
+#: content-gallery.php:70 content-image.php:54 content-video.php:65
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content-gallery.php:70 content-image.php:54 content-video.php:65
+msgid "% Comments"
+msgstr "% Bemerkungen"
+
+#: content-gallery.php:79 content-image.php:63 content-single.php:69
+#: content-video.php:74
+msgid "Share : "
+msgstr "Aktie :"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit Deinen ersten Post zu veröffentlichen? <a href=\"%1$s\">Fang hier an</"
+"a>."
+
+#: content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, aber nichts entspricht Ihren Suchbegriffen. Bitte versuchen "
+"Sie es erneut mit verschiedenen Keywords."
+
+#: content-none.php:25
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: content-page.php:23
+#: framework/option-framework/inc/class.options_machine.php:909
+#: framework/option-framework/inc/class.options_machine.php:988
+#: framework/option-framework/inc/class.options_machine.php:1033
+#: framework/theme-function.php:114
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-single.php:53
+msgid "Tags:"
+msgstr "Etikette"
+
+#: content-single.php:61
+msgid "Next Article : "
+msgstr "Nächster Artikel:"
+
+#: content-single.php:90
+msgid "Author: "
+msgstr "Autor"
+
+#: framework/importer/importer.php:41
+msgid "Preparing"
+msgstr "Vorbereitung"
+
+#: framework/importer/importer.php:42
+msgid "Importing media"
+msgstr "Importieren von Medien"
+
+#: framework/importer/importer.php:43
+msgid "Importing posts"
+msgstr "Beiträge importieren"
+
+#: framework/importer/importer.php:44
+msgid "Importing sliders"
+msgstr ""
+
+#: framework/importer/importer.php:45
+msgid "Importing widgets"
+msgstr "Widgets importieren"
+
+#: framework/importer/importer.php:46
+msgid "Importing theme options"
+msgstr "Importieren von Designoptionen"
+
+#: framework/importer/importer.php:47
+msgid "Finish"
+msgstr "Fertig"
+
+#: framework/importer/importer.php:196
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+"Prost! Die Demodaten wurden erfolgreich importiert! Bitte laden Sie diese "
+"Seite neu, um zu beenden!"
+
+#: framework/inc/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr "Installation erfordert Plugins"
+
+#: framework/inc/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr "Installiere Plugins"
+
+#: framework/inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin installieren:%s"
+
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Plugin aktualisieren:%s"
+
+#: framework/inc/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist schief gelaufen mit dem Plugin-API."
+
+#: framework/inc/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dies Thema benötigt das folgende Plugin: %1$s."
+msgstr[1] "Dies Thema benötigt das folgende Plugins: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Thema empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Thema empfiehlt das folgende Plugins: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Das folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+"maximale Kompatibilität mit diesem Thema zu gewährleisten:"
+msgstr[1] ""
+"Die folgenden Plugins müssen auf ihre neueste Version aktualisiert werden, "
+"um maximale Kompatibilität mit diesem Thema zu gewährleisten:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es gibt ein Update für:%1$s."
+msgstr[1] "Für die folgenden Plugins sind Updates verfügbar: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist derzeit inaktiv:%1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv:%1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne die Installation des Plugins"
+msgstr[1] "Beginnen Sie mit der Installation von Plugins"
+
+#: framework/inc/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginne das Plugin zu aktualisieren"
+msgstr[1] "Beginne das Plugins zu aktualisieren"
+
+#: framework/inc/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne das Plugin zu aktivieren"
+msgstr[1] "Beginne das Plugins zu aktivieren"
+
+#: framework/inc/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr "Kehren Sie zum erforderlichen Plugins Installer zurück"
+
+#: framework/inc/class-tgm-plugin-activation.php:391
+#: framework/inc/class-tgm-plugin-activation.php:793
+#: framework/inc/class-tgm-plugin-activation.php:867
+#: framework/inc/class-tgm-plugin-activation.php:2576
+#: framework/inc/class-tgm-plugin-activation.php:3634
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: framework/inc/class-tgm-plugin-activation.php:392
+#: framework/inc/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "Das Plugin wurde erfolgreich aktiviert."
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Das folgende Plugins wurde erfolgreich aktiviert:"
+
+# No action is taken. Plugin %1$s was already active.
+#: framework/inc/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Aktion ausgeführt. Das Plugin%1$s war bereits aktiv."
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nicht aktiviert. Für dieses Thema wird eine höhere Version von% s "
+"benötigt. Bitte aktualisiere das Plugin."
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr "Ignoriere die Nachricht"
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Es gibt ein oder mehrere erforderliche oder empfohlene Plugins zum "
+"Installieren, Aktualisieren oder Aktivieren."
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte kontaktieren Sie den Administrator dieser Website für Hilfe."
+
+#: framework/inc/class-tgm-plugin-activation.php:544
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Dieses Plugin muss aktualisiert werden, damit es mit deinem Thema kompatibel "
+"ist."
+
+#: framework/inc/class-tgm-plugin-activation.php:545
+msgid "Update Required"
+msgstr "Aktualisierung erforderlich"
+
+#: framework/inc/class-tgm-plugin-activation.php:788
+msgid "<p>Updated successfully!</p>"
+msgstr "<p> Erfolgreich aktualisiert! </ p>"
+
+#: framework/inc/class-tgm-plugin-activation.php:790
+#: framework/inc/class-tgm-plugin-activation.php:2936
+msgid "There was an error unzipping the file."
+msgstr "Beim Entpacken der Datei ist ein Fehler aufgetreten."
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Slug und "
+"das Umbenennen hat nicht funktioniert."
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Bitte kontaktieren Sie den Plugin-Anbieter und bitten Sie ihn, sein Plugin "
+"gemäß den WordPress-Richtlinien zu packen."
+
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Das Remote-Plug-in-Paket besteht aus mehr als einer Datei, aber die Dateien "
+"sind nicht in einem Ordner gepackt."
+
+#: framework/inc/class-tgm-plugin-activation.php:1164
+#: framework/inc/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#: framework/inc/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2316
+msgid "Required"
+msgstr "Erforderlich"
+
+#: framework/inc/class-tgm-plugin-activation.php:2319
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: framework/inc/class-tgm-plugin-activation.php:2335
+msgid "WordPress Repository"
+msgstr "WordPress-Repository"
+
+#: framework/inc/class-tgm-plugin-activation.php:2338
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: framework/inc/class-tgm-plugin-activation.php:2341
+msgid "Pre-Packaged"
+msgstr "abgepacktes "
+
+#: framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: framework/inc/class-tgm-plugin-activation.php:2362
+msgid "Installed But Not Activated"
+msgstr "Installiert aber nicht aktiviert"
+
+#: framework/inc/class-tgm-plugin-activation.php:2364
+msgid "Active"
+msgstr "Aktiv"
+
+#: framework/inc/class-tgm-plugin-activation.php:2370
+msgid "Required Update not Available"
+msgstr "Erforderliches Update nicht verfügbar"
+
+#: framework/inc/class-tgm-plugin-activation.php:2373
+msgid "Requires Update"
+msgstr "Benötigt ein Update"
+
+#: framework/inc/class-tgm-plugin-activation.php:2376
+msgid "Update recommended"
+msgstr "Aktualisierung empfohlen"
+
+#: framework/inc/class-tgm-plugin-activation.php:2385
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2431
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "installieren <span class=\"count\">(%s)</span>"
+msgstr[1] "installieren <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2439
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update verfügbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update verfügbar <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2443
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "aktivieren  <span class=\"count\">(%s)</span>"
+msgstr[1] "aktivieren  <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2525
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#: framework/inc/class-tgm-plugin-activation.php:2533
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2541
+msgid "Minimum required version:"
+msgstr "Mindestversion erforderlich:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2553
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2576
+msgid "No plugins to install, update or activate."
+msgstr "Keine Plugins zum Installieren, Aktualisieren oder Aktivieren."
+
+#: framework/inc/class-tgm-plugin-activation.php:2590
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:2591
+msgid "Source"
+msgstr "Quelle"
+
+#: framework/inc/class-tgm-plugin-activation.php:2592
+msgid "Type"
+msgstr "Art"
+
+#: framework/inc/class-tgm-plugin-activation.php:2596
+msgid "Version"
+msgstr "Version "
+
+#: framework/inc/class-tgm-plugin-activation.php:2597
+msgid "Status"
+msgstr "Status"
+
+#: framework/inc/class-tgm-plugin-activation.php:2646
+#, php-format
+msgid "Install %2$s"
+msgstr "Installieren  %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2651
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2727
+msgid "Upgrade message from the plugin author:"
+msgstr "Aktualisiere Nachricht vom Plugin des Autors:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2760
+msgid "Install"
+msgstr "Installieren "
+
+#: framework/inc/class-tgm-plugin-activation.php:2766
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Activate"
+msgstr "Aktiviere"
+
+# No plugins were selected to be installed. No action is taken.
+#: framework/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Für die Installation wurden keine plugins ausgewählt. Es wird keine aktion "
+"ausgeführt."
+
+# No plugins were selected to be updated. No action is taken.
+#: framework/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Es wurden keine Plugins ausgewählt, die aktualisiert werden sollen. Es wird "
+"keine Aktion ausgeführt."
+
+#: framework/inc/class-tgm-plugin-activation.php:2843
+msgid "No plugins are available to be installed at this time."
+msgstr "Zurzeit sind keine Plugins verfügbar, die installiert werden können."
+
+#: framework/inc/class-tgm-plugin-activation.php:2845
+msgid "No plugins are available to be updated at this time."
+msgstr "Zurzeit sind keine Plugins verfügbar, die aktualisiert werden können."
+
+# No action is taken.
+#: framework/inc/class-tgm-plugin-activation.php:2965
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Es wurden keine Plugins ausgewählt, um aktiviert zu werden. Es wird keine "
+"Aktion ausgeführt."
+
+#: framework/inc/class-tgm-plugin-activation.php:2991
+msgid "No plugins are available to be activated at this time."
+msgstr "Zurzeit sind keine Plugins verfügbar, die aktiviert werden können."
+
+#: framework/inc/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#: framework/inc/class-tgm-plugin-activation.php:3552
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin aktualisieren  %1$s (%2$d/%3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3555
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Während der Installation ist ein Fehler aufgetreten %1$s: <strong>%2$s</"
+"strong>."
+
+#: framework/inc/class-tgm-plugin-activation.php:3557
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s  ist fehlgeschlagen."
+
+#: framework/inc/class-tgm-plugin-activation.php:3561
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess wird gestartet. Dieser vorgang "
+"kann bei einigen hosts eine weile dauern, also bitte etwas Geduld."
+
+#: framework/inc/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s wurde erfolgreich installiert und aktiviert."
+
+#: framework/inc/class-tgm-plugin-activation.php:3564
+msgid "All installations and activations have been completed."
+msgstr "Alle installationen und aktivierungen sind abgeschlossen."
+
+#: framework/inc/class-tgm-plugin-activation.php:3566
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installieren und aktivieren %1$s (%2$d/%3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsprozess wird gestartet. Dieser prozess kann bei einigen "
+"hosts eine weile dauern, also bitte etwas Geduld."
+
+#: framework/inc/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert"
+
+#: framework/inc/class-tgm-plugin-activation.php:3572
+msgid "All installations have been completed."
+msgstr "Alle Installationen wurden abgeschlossen."
+
+#: framework/inc/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installieren %1$s (%2$d/%3$d)"
+
+#: framework/inc/custom-nav.php:146
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (ungültig)"
+
+#: framework/inc/custom-nav.php:150
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (steht aus)"
+
+#: framework/inc/custom-nav.php:174
+msgid "Move up"
+msgstr "Nach oben gehen"
+
+#: framework/inc/custom-nav.php:187
+msgid "Move down"
+msgstr "Sich abwärts bewegen"
+
+#: framework/inc/custom-nav.php:189 framework/inc/custom-nav.php:191
+msgid "Edit Menu Item"
+msgstr "Menüeintrag bearbeiten"
+
+#: framework/inc/custom-nav.php:200
+msgid "URL"
+msgstr "URL"
+
+#: framework/inc/custom-nav.php:207
+msgid "Navigation Label"
+msgstr "Navigations Etikett"
+
+#: framework/inc/custom-nav.php:213
+msgid "Title Attribute"
+msgstr "Titel Attribut"
+
+#: framework/inc/custom-nav.php:220
+msgid "Open link in a new window/tab"
+msgstr "Link in einem neuen Fenster / Tab öffnen"
+
+#: framework/inc/custom-nav.php:225
+msgid "CSS Classes (optional)"
+msgstr "CSS klasses (wahlweise)"
+
+#: framework/inc/custom-nav.php:231
+msgid "Link Relationship (XFN)"
+msgstr "Verknüpfung Beziehung (XFN)"
+
+#: framework/inc/custom-nav.php:237 framework/widgets/info-footer.php:126
+#: framework/widgets/subscribe.php:33
+msgid "Description"
+msgstr "Beschreibung"
+
+#: framework/inc/custom-nav.php:239
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Die Beschreibung wird im Menü angezeigt, wenn das aktuelle Thema dies "
+"unterstützt."
+
+#: framework/inc/custom-nav.php:247
+msgid "Input Icon"
+msgstr "Eingabe symbol"
+
+#: framework/inc/custom-nav.php:257
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: framework/inc/custom-nav.php:270
+#: framework/option-framework/inc/class.options_machine.php:842
+#: framework/option-framework/inc/class.options_machine.php:922
+msgid "Remove"
+msgstr "entfernen"
+
+#: framework/inc/custom-nav.php:271
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: framework/inc/helper.php:174
+msgid "No Slider"
+msgstr "Kein Schieberegler"
+
+#: framework/option-framework/inc/class.options_machine.php:273
+msgid "Line height"
+msgstr "Zeilen höhe"
+
+#: framework/option-framework/inc/class.options_machine.php:287
+msgid "Font family"
+msgstr "Schriftfamilie"
+
+#: framework/option-framework/inc/class.options_machine.php:290
+msgid "Arial"
+msgstr "Arial"
+
+#: framework/option-framework/inc/class.options_machine.php:291
+msgid "Verdana"
+msgstr "Verdana"
+
+#: framework/option-framework/inc/class.options_machine.php:292
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: framework/option-framework/inc/class.options_machine.php:293
+msgid "Georgia"
+msgstr "Georgia"
+
+#: framework/option-framework/inc/class.options_machine.php:294
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: framework/option-framework/inc/class.options_machine.php:295
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: framework/option-framework/inc/class.options_machine.php:296
+msgid "Palatino"
+msgstr "Palatino"
+
+#: framework/option-framework/inc/class.options_machine.php:297
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: framework/option-framework/inc/class.options_machine.php:421
+msgid "System Requirements"
+msgstr "System Anforderungen"
+
+#: framework/option-framework/inc/class.options_machine.php:469
+msgid "Add New Slide"
+msgstr "Füge einen neuen Schieber hinzu"
+
+#: framework/option-framework/inc/class.options_machine.php:478
+msgid "Option"
+msgstr "Möglichkeit"
+
+#: framework/option-framework/inc/class.options_machine.php:479
+msgid "Add New Option"
+msgstr "Neue möglichkeit hinzufügen"
+
+#: framework/option-framework/inc/class.options_machine.php:499
+msgid "Social"
+msgstr "Soziale "
+
+#: framework/option-framework/inc/class.options_machine.php:500
+msgid "Add New Social"
+msgstr "Neue soziale hinzufügen"
+
+#: framework/option-framework/inc/class.options_machine.php:629
+msgid "Last Backup : "
+msgstr "Letzte Sicherung:"
+
+#: framework/option-framework/inc/class.options_machine.php:630
+#: framework/theme-option.php:939
+msgid "Backup Options"
+msgstr "Sicherungsoptionen"
+
+#: framework/option-framework/inc/class.options_machine.php:631
+msgid "Restore Options"
+msgstr "Wiederherstellungsoptionen"
+
+#: framework/option-framework/inc/class.options_machine.php:645
+msgid "Import Options"
+msgstr "Importoptionen"
+
+#: framework/option-framework/inc/class.options_machine.php:839
+#: framework/option-framework/inc/class.options_machine.php:919
+msgid "Upload"
+msgstr "Hochladen"
+
+#: framework/option-framework/inc/class.options_machine.php:846
+msgid "Upgrade your version of WordPress for full media support"
+msgstr ""
+"Bitte aktualisieren Sie Ihre Version von WordPress für volle "
+"Medienunterstützung"
+
+#: framework/option-framework/inc/class.options_machine.php:904
+msgid "Slide"
+msgstr "Rutsche"
+
+#: framework/option-framework/inc/class.options_machine.php:913
+#: framework/widgets/info-footer.php:125 framework/widgets/subscribe.php:32
+msgid "Title"
+msgstr "Titel"
+
+#: framework/option-framework/inc/class.options_machine.php:916
+msgid "Image URL"
+msgstr "Bild URL"
+
+#: framework/option-framework/inc/class.options_machine.php:933
+msgid "Link URL (optional)"
+msgstr "Link UR (wahlweise)"
+
+#: framework/option-framework/inc/class.options_machine.php:936
+msgid "Description (optional)"
+msgstr "Beschreibung (wahlweise)"
+
+#: framework/option-framework/inc/class.options_machine.php:939
+#: framework/option-framework/inc/class.options_machine.php:992
+#: framework/option-framework/inc/class.options_machine.php:1046
+msgid "Delete"
+msgstr "Löschen"
+
+#: framework/option-framework/inc/class.options_machine.php:1068
+msgid "<span class=\"label1\">PHP Version: </span>"
+msgstr "<span class=\"label1\">PHP Version: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+#: framework/option-framework/inc/class.options_machine.php:1072
+#: framework/option-framework/inc/class.options_machine.php:1080
+#: framework/option-framework/inc/class.options_machine.php:1082
+#: framework/option-framework/inc/class.options_machine.php:1090
+#: framework/option-framework/inc/class.options_machine.php:1092
+#, php-format
+msgid "<span class=\"label2\">Currently: %s</span>"
+msgstr "<span class=\"label2\">Currently: %s</span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+msgid "Min: 5.3"
+msgstr "Min: 5.3"
+
+#: framework/option-framework/inc/class.options_machine.php:1078
+msgid "<span class=\"label1\">Maximum execution time: </span>"
+msgstr "<span class=\"label1\">Maximale Ausführungszeit: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1080
+msgid "Min: 90"
+msgstr "Min: 90"
+
+#: framework/option-framework/inc/class.options_machine.php:1088
+msgid "<span class=\"label1\">Memory Limit: </span>"
+msgstr "<span class=\"label1\"> Speicherlimit : </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1090
+msgid "Min: 128M"
+msgstr "Min: 128M"
+
+#: framework/option-framework/inc/class.options_machine.php:1098
+msgid "<span class=\"label1\">Uploads folder writable: </span>"
+msgstr "<span class=\"label1\">Uploads folder writable: </span> </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1108
+msgid "<span class=\"label1\">Connect InwaveThemes Server: </span>"
+msgstr "<span class=\"label1\">Verbinden Sie den InwaveThemes-Server </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1118
+msgid "<span class=\"label1\">Start Session: </span>"
+msgstr "<span class=\"label1\"> Starten Sie die Sitzung: </span>"
+
+# Failed to start a session. Please check session save_path in your PHP setting
+#: framework/option-framework/inc/class.options_machine.php:1124
+msgid ""
+"<span class=\"label2\">Failed to start session. Please check session "
+"save_path in your php setting</span>"
+msgstr ""
+"<span class=\"label2\"></span> Fehler beim starten einer sitzung. Bitte "
+"überprüfe die session save_path in deiner PHP-Einstellung </span>"
+
+#: framework/option-framework/inc/view.fontend_options.php:4
+msgid "Options Updated"
+msgstr "Optionen aktualisiert"
+
+#: framework/option-framework/inc/view.fontend_options.php:8
+msgid "Options Reset"
+msgstr "Optionen zurücksetzen"
+
+#: framework/option-framework/inc/view.fontend_options.php:12
+msgid "Error!"
+msgstr "Fehler!"
+
+#: framework/option-framework/inc/view.fontend_options.php:33
+msgid "Working..."
+msgstr "arbeitend"
+
+#: framework/option-framework/inc/view.fontend_options.php:36
+msgid "Save Change"
+msgstr "Änderungen speichern"
+
+#: framework/option-framework/inc/view.fontend_options.php:56
+msgid "Imported successfully!"
+msgstr "Erfolgreich importiert!"
+
+#: framework/theme-function.php:90
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: framework/theme-function.php:90
+msgid "(Edit)"
+msgstr "Bearbeiten"
+
+#: framework/theme-function.php:106
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid " %s ago"
+msgstr " %s vor"
+
+#: framework/theme-function.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Beitrag wartet auf die Moderation."
+
+#: framework/theme-function.php:114
+msgid "Reply"
+msgstr "Antworten"
+
+#: framework/theme-function.php:192 framework/theme-function.php:241
+#: framework/theme-function.php:412
+msgctxt "title"
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+#: framework/theme-function.php:196 framework/theme-function.php:249
+msgctxt "title"
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+#: framework/theme-function.php:200
+msgctxt "title"
+msgid "Share on Linkedin"
+msgstr "Auf LinkedIn teilen"
+
+#: framework/theme-function.php:204 framework/theme-function.php:245
+msgctxt "title"
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-function.php:208
+msgctxt "title"
+msgid "Share on Tumblr"
+msgstr "Auf Tumblr teilen"
+
+#: framework/theme-function.php:212
+msgctxt "title"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-function.php:215
+msgctxt "title"
+msgid "I wanted you to see this site"
+msgstr "Ich wollte, dass du diese Seite siehst"
+
+#: framework/theme-function.php:216
+msgctxt "title"
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-metabox.php:41
+msgid "Page Options"
+msgstr "Seitenoptionen"
+
+#: framework/theme-metabox.php:48
+msgid "Main Color"
+msgstr "Hauptfarbe"
+
+#: framework/theme-metabox.php:54
+msgid "Background Color Page"
+msgstr "Hintergrundfarbe Seite"
+
+#: framework/theme-metabox.php:60
+msgid "Select Revolution  Slider"
+msgstr "Wählen Sie Revolution Slider"
+
+#: framework/theme-metabox.php:67 framework/theme-option.php:76
+msgid "Show preload"
+msgstr "Preload anzeigen"
+
+#: framework/theme-metabox.php:71 framework/theme-metabox.php:109
+#: framework/theme-metabox.php:125 framework/theme-metabox.php:177
+#: framework/theme-metabox.php:187 framework/theme-metabox.php:197
+#: framework/theme-metabox.php:212 framework/theme-metabox.php:222
+#: framework/theme-metabox.php:232 framework/theme-metabox.php:242
+#: framework/theme-metabox.php:266 framework/theme-metabox.php:319
+#: framework/theme-metabox.php:371
+msgid "Default"
+msgstr "Standard"
+
+#: framework/theme-metabox.php:72 framework/theme-metabox.php:126
+#: framework/theme-metabox.php:178 framework/theme-metabox.php:188
+#: framework/theme-metabox.php:198 framework/theme-metabox.php:213
+#: framework/theme-metabox.php:223 framework/theme-metabox.php:233
+#: framework/theme-metabox.php:243 framework/theme-metabox.php:253
+#: framework/theme-metabox.php:267 framework/theme-metabox.php:299
+#: framework/theme-metabox.php:320 framework/theme-metabox.php:357
+#: framework/theme-metabox.php:372 framework/theme-metabox.php:408
+#: framework/theme-metabox.php:435 framework/theme-option.php:716
+#: framework/theme-option.php:777
+msgid "Yes"
+msgstr "Ja"
+
+#: framework/theme-metabox.php:73 framework/theme-metabox.php:127
+#: framework/theme-metabox.php:179 framework/theme-metabox.php:189
+#: framework/theme-metabox.php:199 framework/theme-metabox.php:214
+#: framework/theme-metabox.php:224 framework/theme-metabox.php:234
+#: framework/theme-metabox.php:244 framework/theme-metabox.php:252
+#: framework/theme-metabox.php:268 framework/theme-metabox.php:298
+#: framework/theme-metabox.php:321 framework/theme-metabox.php:358
+#: framework/theme-metabox.php:373 framework/theme-metabox.php:409
+#: framework/theme-metabox.php:436 framework/theme-option.php:717
+#: framework/theme-option.php:778
+msgid "No"
+msgstr "Nein"
+
+#: framework/theme-metabox.php:77 framework/theme-register.php:238
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: framework/theme-metabox.php:83
+msgid "Show Page For"
+msgstr "Seite anzeigen für"
+
+#: framework/theme-metabox.php:88
+msgid "Anyone"
+msgstr "Jemand"
+
+#: framework/theme-metabox.php:89
+msgid "Only Users Registered"
+msgstr "Nur Benutzer registriert"
+
+#: framework/theme-metabox.php:93 framework/theme-metabox.php:391
+msgid "Extra class"
+msgstr "zusätzliche Klasse"
+
+#: framework/theme-metabox.php:94 framework/theme-metabox.php:392
+msgid "Add extra class for page content"
+msgstr "Fügen Sie eine zusätzliche Klasse für den Seiteninhalt hinzu"
+
+#: framework/theme-metabox.php:100 framework/theme-option.php:393
+msgid "Header Options"
+msgstr "Kopfzeilenoptionen"
+
+#: framework/theme-metabox.php:105
+msgid "Header style"
+msgstr "Kopfzeilenstil"
+
+#: framework/theme-metabox.php:110 framework/theme-option.php:9
+msgid "None"
+msgstr "Keiner"
+
+#: framework/theme-metabox.php:111
+msgid "Header Style 1"
+msgstr "Kopfzeilenstil 1"
+
+#: framework/theme-metabox.php:112
+msgid "Header Style 2"
+msgstr "Kopfzeilenstil 2"
+
+#: framework/theme-metabox.php:113
+msgid "Header Style 3"
+msgstr "Kopfzeilenstil 3"
+
+#: framework/theme-metabox.php:114
+msgid "Header Style 4"
+msgstr "Kopfzeilenstil 4"
+
+#: framework/theme-metabox.php:115
+msgid "Header Style 5"
+msgstr "Kopfzeilenstil 5"
+
+#: framework/theme-metabox.php:116
+msgid "Header Style 6"
+msgstr "Kopfzeilenstil 6"
+
+#: framework/theme-metabox.php:117
+msgid "Header Style 7"
+msgstr ""
+
+#: framework/theme-metabox.php:121 framework/theme-option.php:416
+msgid "Sticky Header"
+msgstr "Klebrige Kopfzeile"
+
+#: framework/theme-metabox.php:131
+msgid "Change logo"
+msgstr "Ändern Sie das Logo"
+
+#: framework/theme-metabox.php:136
+msgid "Change logo sticky"
+msgstr "Ändern Sie das Logo klebrig"
+
+#: framework/theme-metabox.php:141
+msgid "Change logo mobile"
+msgstr "Ändern Sie das Logo mobil"
+
+#: framework/theme-metabox.php:146 framework/theme-option.php:467
+msgid "Background Color Header"
+msgstr "Hintergrundfarbe Header"
+
+#: framework/theme-metabox.php:151 framework/theme-option.php:473
+msgid "Opacity Background Color Header"
+msgstr ""
+
+#: framework/theme-metabox.php:154 framework/theme-metabox.php:165
+#: framework/theme-metabox.php:312
+msgid "Allow value from 0 to 1 (style 2)"
+msgstr ""
+
+#: framework/theme-metabox.php:157 framework/theme-option.php:479
+msgid "Background Color Top Bar Header"
+msgstr "Hintergrundfarbe Obere Leiste Header"
+
+#: framework/theme-metabox.php:162 framework/theme-option.php:485
+msgid "Opacity Background Color Top Bar Header"
+msgstr ""
+
+#: framework/theme-metabox.php:168 framework/theme-option.php:499
+msgid "Background Color Header Sticky"
+msgstr "Hintergrundfarbe Header Sticky"
+
+#: framework/theme-metabox.php:173 framework/theme-option.php:511
+msgid "Show login/register button"
+msgstr ""
+
+#: framework/theme-metabox.php:183 framework/theme-option.php:517
+msgid "Show post a job button"
+msgstr "Zeigen Sie eine Job-Schaltfläche an"
+
+#: framework/theme-metabox.php:193 framework/theme-option.php:523
+msgid "Show Buy Package button"
+msgstr "Schaltfläche \"Paket kaufen\" anzeigen"
+
+#: framework/theme-metabox.php:203
+msgid "Buy Package URL"
+msgstr "Paket-URL kaufen"
+
+#: framework/theme-metabox.php:208 framework/theme-option.php:535
+msgid "Show search form button"
+msgstr "Suchformular-Schaltfläche anzeigen"
+
+#: framework/theme-metabox.php:218 framework/theme-option.php:541
+msgid "Show Cart Button"
+msgstr "Warenkorb-Schaltfläche anzeigen"
+
+#: framework/theme-metabox.php:228 framework/theme-option.php:547
+msgid "Show Notification"
+msgstr ""
+
+#: framework/theme-metabox.php:238 framework/theme-option.php:564
+msgid "Show Social Header"
+msgstr "Zeige soziale Kopfzeile"
+
+#: framework/theme-metabox.php:248
+msgid "Show Search Form On Header"
+msgstr ""
+
+#: framework/theme-metabox.php:257 framework/theme-option.php:573
+msgid "Page Heading Options"
+msgstr "Seitenüberschriftenoptionen"
+
+#: framework/theme-metabox.php:262 framework/theme-option.php:65
+msgid "Show page heading"
+msgstr "Seitenüberschrift anzeigen"
+
+#: framework/theme-metabox.php:272
+msgid "Page heading background image"
+msgstr "Seitenüberschrift-Hintergrundbild"
+
+#: framework/theme-metabox.php:277
+msgid "Page heading background color"
+msgstr "Seitenüberschrift-Hintergrundfarbe"
+
+#: framework/theme-metabox.php:282 framework/theme-option.php:576
+msgid "Page Heading Padding Top"
+msgstr "Seite Heading Padding Top"
+
+#: framework/theme-metabox.php:285 framework/theme-metabox.php:291
+#: framework/theme-option.php:577 framework/theme-option.php:583
+msgid "In pixels, ex: 10px"
+msgstr "In Pixeln, Beispiel: 10px"
+
+#: framework/theme-metabox.php:288 framework/theme-option.php:582
+msgid "Page Heading Padding Bottom"
+msgstr "Seite Überschrift Padding Bottom"
+
+#: framework/theme-metabox.php:294
+msgid "Show Search Form On Page Heading"
+msgstr "Zeige Suchformular auf Seitenüberschrift"
+
+#: framework/theme-metabox.php:303
+msgid "Search Form background color"
+msgstr ""
+
+#: framework/theme-metabox.php:306
+msgid "Only for Show Search Form at style 2"
+msgstr ""
+
+#: framework/theme-metabox.php:309
+msgid "Search Form background color opacity"
+msgstr ""
+
+#: framework/theme-metabox.php:315
+msgid "Show page breadcrumb"
+msgstr "Zeige Seite Breadcrumb"
+
+#: framework/theme-metabox.php:325
+msgid "Sidebar Options"
+msgstr "Seitenleiste-Optionen"
+
+#: framework/theme-metabox.php:330 framework/theme-metabox.php:413
+#: framework/theme-option.php:689 framework/theme-option.php:754
+msgid "Sidebar Position"
+msgstr "Seitenleiste Position"
+
+#: framework/theme-metabox.php:334 framework/theme-metabox.php:380
+#: framework/theme-metabox.php:417 framework/theme-metabox.php:434
+msgid "Default Theme Option"
+msgstr "Standard-Theme Option"
+
+#: framework/theme-metabox.php:335 framework/theme-metabox.php:418
+#: framework/theme-option.php:695 framework/theme-option.php:760
+msgid "Without Sidebar"
+msgstr "Ohne Seitenleiste"
+
+#: framework/theme-metabox.php:336 framework/theme-metabox.php:419
+#: framework/theme-option.php:696 framework/theme-option.php:761
+msgid "Right"
+msgstr "Rechts"
+
+#: framework/theme-metabox.php:337 framework/theme-metabox.php:420
+#: framework/theme-option.php:697 framework/theme-option.php:762
+msgid "Left"
+msgstr "Links"
+
+#: framework/theme-metabox.php:341 framework/theme-metabox.php:424
+#: framework/theme-option.php:675
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: framework/theme-metabox.php:347
+msgid "Sidebar 2"
+msgstr "Seitenleiste 2"
+
+#: framework/theme-metabox.php:353 framework/theme-metabox.php:430
+#: framework/theme-option.php:711 framework/theme-option.php:772
+msgid "Sticky Sidebar"
+msgstr "Klebrige Seitenleiste"
+
+#: framework/theme-metabox.php:362
+msgid "Footer Options"
+msgstr ""
+
+#: framework/theme-metabox.php:367 framework/theme-option.php:636
+msgid "Show Footer"
+msgstr ""
+
+#: framework/theme-metabox.php:384
+msgid "Post Options"
+msgstr "Beitragsoptionen"
+
+#: framework/theme-metabox.php:398
+msgid "Heading image"
+msgstr "Überschrift Bild"
+
+#: framework/theme-metabox.php:399
+msgid "If blank we will use the featured image."
+msgstr "Wenn sie leer sind, verwenden sie das vorgestellte Bild."
+
+#: framework/theme-metabox.php:404
+msgid "Show Featured Image"
+msgstr "Zeige vorgestellte Bild."
+
+#: framework/theme-option.php:57
+msgid "General setting"
+msgstr "Allgemeine Einstellung"
+
+#: framework/theme-option.php:60
+msgid "Show demo setting panel"
+msgstr "Demo-Einstellungsfenster anzeigen"
+
+#: framework/theme-option.php:61
+msgid ""
+"Check this box to active the setting panel. This panel should be shown only "
+"in demo mode"
+msgstr ""
+"Aktivieren sie dieses kontrollkästchen, um das einstellungsfeld zu "
+"aktivieren.  Dieses panel sollte nur im demo-modus angezeigt werden"
+
+#: framework/theme-option.php:66
+msgid "Check this box to show or hide page heading"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, um die Seitenüberschrift ein- oder "
+"ausblenden"
+
+#: framework/theme-option.php:71
+msgid "Show breadcrumbs"
+msgstr "Breadcrumbs anzeigen"
+
+#: framework/theme-option.php:72
+msgid "Check to display the breadcrumbs in general. Uncheck to hide them."
+msgstr ""
+"Aktivieren sie diese option, um die breadcrumbs allgemein anzuzeigen. "
+"Deaktivieren um sie auszublenden."
+
+#: framework/theme-option.php:77
+msgid "Check to display the preload page."
+msgstr "Aktivieren Sie diese Option, um die Vorladeseite anzuzeigen."
+
+#: framework/theme-option.php:81
+msgid "Develop mode"
+msgstr "Entwicklungsmodus"
+
+#: framework/theme-option.php:82
+msgid ""
+"Check this box to active develop theme mode. For example, it will always "
+"compile the color file"
+msgstr ""
+
+#: framework/theme-option.php:87
+msgid "Layout"
+msgstr "Layout"
+
+#: framework/theme-option.php:88
+msgid "Select boxed or wide layout."
+msgstr "Wählen Sie ein umrahmtes oder breites Layout."
+
+#: framework/theme-option.php:93
+msgid "Boxed"
+msgstr "Boxed"
+
+#: framework/theme-option.php:94
+msgid "Wide"
+msgstr "Breit"
+
+#: framework/theme-option.php:96
+msgid "Include WooCommerce libraries globally"
+msgstr ""
+
+#: framework/theme-option.php:97
+msgid "Load WooCommerce styles and scripts on all pages"
+msgstr ""
+
+#: framework/theme-option.php:102
+msgid ""
+"Please choose an image or insert an image url to use for the background."
+msgstr ""
+"Bitte wählen Sie ein Bild oder fügen Sie eine Bild-URL für den Hintergrund "
+"ein."
+
+#: framework/theme-option.php:109 framework/theme-option.php:602
+msgid "Background Image Size"
+msgstr "Hintergrundbild Größe"
+
+#: framework/theme-option.php:110
+msgid "Select background image size."
+msgstr "Wählen Sie Hintergrundbild Größe."
+
+#: framework/theme-option.php:114 framework/theme-option.php:608
+msgid "auto"
+msgstr "automatisch"
+
+#: framework/theme-option.php:114 framework/theme-option.php:609
+msgid "cover"
+msgstr "Abdeckung"
+
+#: framework/theme-option.php:114 framework/theme-option.php:610
+msgid "contain"
+msgstr "enthalten"
+
+#: framework/theme-option.php:117 framework/theme-option.php:614
+msgid "Background Repeat"
+msgstr "Hintergrund Wiederholung"
+
+#: framework/theme-option.php:118 framework/theme-option.php:615
+msgid "Choose how the background image repeats."
+msgstr "Wählen sie wie das hintergrundbild wiederholt werden soll."
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat"
+msgstr "wiederholen"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat-x"
+msgstr "wiederholen-x"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat-y"
+msgstr "wiederholen-y"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "no-repeat"
+msgstr "Keine-wiederholen"
+
+#: framework/theme-option.php:126
+msgid "Typography"
+msgstr "Typografie"
+
+#: framework/theme-option.php:129
+msgid "Body Font Family"
+msgstr "Schriftfamilie"
+
+#: framework/theme-option.php:130
+msgid "Select a font family for body text"
+msgstr "Wählen Sie eine schriftfamilie für fließtext aus"
+
+#: framework/theme-option.php:135
+msgid "Body Font Settings"
+msgstr "Körper Schriftart Einstellungen"
+
+#: framework/theme-option.php:136 framework/theme-option.php:147
+#: framework/theme-option.php:158
+msgid ""
+"Adjust the settings below to load different character sets and types for "
+"fonts. More character sets and types equals to slower page load."
+msgstr ""
+"Passen Sie die folgenden Einstellungen an, um verschiedene Zeichensätze und "
+"Typen für Schriftarten zu laden. Weitere Zeichensätze und Typen entsprechen "
+"einer langsameren Seitenauslastung."
+
+#: framework/theme-option.php:140
+msgid "Headings Font"
+msgstr "Überschriften Schriftart"
+
+#: framework/theme-option.php:141
+msgid "Select a font family for headings"
+msgstr "Wählen Sie eine Schriftfamilie für Überschriften"
+
+#: framework/theme-option.php:146
+msgid "Headings Font Settings"
+msgstr "Überschriften Schriftart Einstellungen"
+
+#: framework/theme-option.php:151
+msgid "Menu Font"
+msgstr "Menüschriftart"
+
+#: framework/theme-option.php:152
+msgid "Select a font family for navigation"
+msgstr "Wählen Sie eine Schriftfamilie für die Navigation aus"
+
+#: framework/theme-option.php:157
+msgid "Menu Font Settings"
+msgstr "Menü Schrifteinstellungen"
+
+#: framework/theme-option.php:162
+msgid "Default Font Size"
+msgstr "Standard Schriftgröße"
+
+#: framework/theme-option.php:163
+msgid "Default is 15px"
+msgstr "Standard ist 15px"
+
+#: framework/theme-option.php:168
+msgid "Default Font Line Height"
+msgstr "Standardschrift Linienhöhe"
+
+#: framework/theme-option.php:169
+msgid "Default is 28px"
+msgstr "Standard ist 28px"
+
+#: framework/theme-option.php:176
+msgid "Color presets"
+msgstr "Farbvoreinstellungen"
+
+#: framework/theme-option.php:180
+msgid "Primary Color"
+msgstr "Primärfarbe"
+
+#: framework/theme-option.php:181
+msgid "Controls several items, ex: link hovers, highlights, and more."
+msgstr "Steuert einige Gegenstände, Beispiel: Hyperlinks, Highlights und mehr"
+
+#: framework/theme-option.php:185
+msgid "Content Background Color"
+msgstr "Inhalt Hintergrundfarbe"
+
+#: framework/theme-option.php:186
+msgid "Controls the background color of the main content area."
+msgstr "Steuert die Hintergrundfarbe des Hauptinhaltsbereichs."
+
+#: framework/theme-option.php:190
+msgid "Body Background Color"
+msgstr "Körper Hintergrundfarbe"
+
+#: framework/theme-option.php:191
+msgid ""
+"Select a background color. Only show when you select General setting > "
+"layout > box."
+msgstr ""
+"Wählen Sie eine Hintergrundfarbe. Nur anzeigen, wenn Sie \"Allgemeine "
+"Einstellung> Layout>\" auswählen."
+
+#: framework/theme-option.php:195
+msgid "Body Text Color"
+msgstr "Textfarbe des Körpers"
+
+#: framework/theme-option.php:196
+msgid "Controls the text color of body font."
+msgstr "Steuert die Textfarbe der Körperschriftart."
+
+#: framework/theme-option.php:200
+msgid "Link Color"
+msgstr "Verknüpfung Farbe"
+
+#: framework/theme-option.php:201
+msgid "Controls the link color."
+msgstr "Steuert die Linkfarbe."
+
+#: framework/theme-option.php:205
+msgid "Link Hover Color"
+msgstr " Link-Hover-Farbe."
+
+#: framework/theme-option.php:206
+msgid "Controls the link hover color."
+msgstr "Steuert die Link-Hover-Farbe."
+
+#: framework/theme-option.php:210
+msgid "Blockquote Color"
+msgstr "Blockquote Farbe"
+
+#: framework/theme-option.php:211
+msgid "Controls the color of blockquote."
+msgstr "Steuert die Farbe von blockquote."
+
+#: framework/theme-option.php:216 framework/theme-option.php:256
+#: framework/theme-option.php:307 framework/theme-option.php:361
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: framework/theme-option.php:219
+msgid "Page Title & Breadcrumb Color"
+msgstr "Seitentitel und Breadcrumb-Farbe"
+
+#: framework/theme-option.php:223
+msgid "Page Title Color"
+msgstr "Seitentitel Farbe"
+
+#: framework/theme-option.php:224
+msgid "Controls the text color of the page title."
+msgstr "Steuert die Textfarbe des Seitentitels."
+
+#: framework/theme-option.php:228
+msgid "Page Title Background Color"
+msgstr "Seitentitel Hintergrundfarbe"
+
+#: framework/theme-option.php:229
+msgid "Controls background color of the page title."
+msgstr "Steuert die Hintergrundfarbe des Seitentitels."
+
+#: framework/theme-option.php:233
+msgid "Breadcrumbs Background Color"
+msgstr "Breadcrumb-Hintergrundfarbe"
+
+#: framework/theme-option.php:234
+msgid "Controls the background color of the breadcrumb."
+msgstr "Steuert die Hintergrundfarbe des Breadcrumbs."
+
+#: framework/theme-option.php:238
+msgid "Breadcrumbs Text Color"
+msgstr "Breadcrumbs Textfarbe"
+
+#: framework/theme-option.php:239
+msgid "Controls the text color of the breadcrumb."
+msgstr "Steuert die Textfarbe des Breadcrumbs."
+
+#: framework/theme-option.php:243
+msgid "Breadcrumbs Link Color"
+msgstr "Breadcrumbs Linkfarbe"
+
+#: framework/theme-option.php:244
+msgid "Controls the link color of the breadcrumb."
+msgstr "Steuert die Linkfarbe des Breadcrumbs."
+
+#: framework/theme-option.php:248
+msgid "Breadcrumbs Link Hover Color"
+msgstr "Breadcrumbs Link Hover Farbe"
+
+#: framework/theme-option.php:249
+msgid "control the color when user hovers on the links on the breadcrumb."
+msgstr ""
+
+#: framework/theme-option.php:259
+msgid "Header Color"
+msgstr "Kopfzeile Farbe"
+
+#: framework/theme-option.php:263
+msgid "Top bar Color"
+msgstr "Obere Leiste Farbe"
+
+#: framework/theme-option.php:264
+msgid "Select a color for the top bar text."
+msgstr "Wählen Sie eine Farbe für den oberen Balkentext."
+
+#: framework/theme-option.php:268
+msgid "Menu Link Color"
+msgstr "Menü Link Farbe"
+
+#: framework/theme-option.php:269
+msgid "Select a color for the header link."
+msgstr "Wählen Sie eine Farbe für den Headerlink aus."
+
+#: framework/theme-option.php:273
+msgid "Menu Header Sticky Link Color"
+msgstr "Menüüberschrift Klebrige Link Farbe"
+
+#: framework/theme-option.php:274
+msgid "Select a color for the menu header sticky link hover."
+msgstr "Wählen Sie eine Farbe für die Menüüberschrift sticky link hover."
+
+#: framework/theme-option.php:278
+msgid "Menu Link Hover Color"
+msgstr "Menü Link Hover Farbe"
+
+#: framework/theme-option.php:279
+msgid "Select a color for the header link hover."
+msgstr "Wählen Sie eine Farbe für den Header-Hyperlink aus."
+
+#: framework/theme-option.php:283
+msgid "Sub Menu Link Color"
+msgstr "Untermenü Link Farbe"
+
+#: framework/theme-option.php:284
+msgid "Select a color for the header sub link."
+msgstr "Wählen Sie eine Farbe für den Header-Unterlink."
+
+#: framework/theme-option.php:288
+msgid "Sub Menu Link Hover Color"
+msgstr "Link Hover-Farbe des Untermenüs"
+
+#: framework/theme-option.php:289
+msgid "Select a color for the header sub link hover."
+msgstr "Wählen Sie eine Farbe für den Header-Unterlink-Hover aus."
+
+#: framework/theme-option.php:293
+msgid "Submenu Background Color"
+msgstr "Untermenü Hintergrundfarbe"
+
+#: framework/theme-option.php:294
+msgid "Select a background color for submenu."
+msgstr "Wählen Sie eine Hintergrundfarbe für das Untermenü."
+
+#: framework/theme-option.php:298
+msgid "SubMenu Border Color"
+msgstr "Untermenü Randfarbe"
+
+#: framework/theme-option.php:299
+msgid "Select a border color for the submenu."
+msgstr "Wählen Sie eine Randfarbe für das Untermenü."
+
+#: framework/theme-option.php:310
+msgid "Footer Color"
+msgstr "Fußzeile Farbe"
+
+#: framework/theme-option.php:315
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: framework/theme-option.php:316
+msgid "Select a color for the footer background."
+msgstr "Wählen Sie eine Farbe für den Hintergrund der Fußzeile aus."
+
+#: framework/theme-option.php:321
+msgid "Footer Border Color"
+msgstr "Fußzeile Randfarbe"
+
+#: framework/theme-option.php:322
+msgid "Select a color for the footer border."
+msgstr "Wählen Sie eine farbe für den fußzeilen rand aus."
+
+#: framework/theme-option.php:328
+msgid "Footer Headings Color"
+msgstr "Fußzeile Überschriften Farbe"
+
+#: framework/theme-option.php:329
+msgid "Controls the text color of the footer heading font."
+msgstr "Steuert die Textfarbe der Fußzeile Überschrift."
+
+#: framework/theme-option.php:334
+msgid "Footer Text Color"
+msgstr "Fußzeile Textfarbe"
+
+#: framework/theme-option.php:335
+msgid "Controls the text color of the footer."
+msgstr "Steuert die Textfarbe der Fußzeile."
+
+#: framework/theme-option.php:340
+msgid "Footer Link Color"
+msgstr "Fußzeile Link Farbe"
+
+#: framework/theme-option.php:341
+msgid "Controls the text color of the footer link font."
+msgstr "Steuert die Textfarbe der Fußzeile Link  Schrift."
+
+#: framework/theme-option.php:346
+msgid "Footer Link Hover Color"
+msgstr "Footer Link Hover Farbe"
+
+#: framework/theme-option.php:347
+msgid "Controls the link hover color of the footer link."
+msgstr "Steuert die Link-Hover-Farbe der Fußzeile Link"
+
+#: framework/theme-option.php:352
+msgid "Footer Link Border Color"
+msgstr "Footer Link Randfarbe"
+
+#: framework/theme-option.php:353
+msgid "Controls the link border color of the footer link."
+msgstr "Steuert die Link RandFarbe der Fußzeile Link"
+
+#: framework/theme-option.php:364
+msgid "Copyright Color"
+msgstr "Copyright-Farbe"
+
+#: framework/theme-option.php:368
+msgid "Copyright Background Color"
+msgstr "Copyright-Hintergrundfarbe"
+
+#: framework/theme-option.php:369
+msgid "Controls the background color of the copyright section."
+msgstr "Steuert die Hintergrundfarbe des Urheberrechts Bereichs."
+
+#: framework/theme-option.php:373
+msgid "Copyright Text Color"
+msgstr "Copyright-Textfarbe"
+
+#: framework/theme-option.php:374
+msgid "Controls the text color of the breadcrumb font."
+msgstr "Steuert die Textfarbe der Breadcrumb-Schriftart."
+
+#: framework/theme-option.php:378
+msgid "Copyright Link Color"
+msgstr "Copyright-Linkfarbe"
+
+#: framework/theme-option.php:379
+msgid "Controls the link color of the breadcrumb font."
+msgstr "Steuert die Linkfarbe der Breadcrumb-Schriftart."
+
+#: framework/theme-option.php:383
+msgid "Copyright Link Hover Color"
+msgstr "Copyright Link Hover Color"
+
+#: framework/theme-option.php:384
+msgid "Controls the link hover color of the Copyright."
+msgstr "Steuert die Link-Hover-Farbe des Copyright."
+
+#: framework/theme-option.php:396 framework/theme-option.php:570
+msgid "Header Info"
+msgstr "Kopfzeileninformationen"
+
+#: framework/theme-option.php:399
+msgid "Header Content Options"
+msgstr "Header Inhalt Optionen"
+
+#: framework/theme-option.php:402
+msgid "Select a Header Layout"
+msgstr "Wählen Sie ein Kopfzeilen Layout"
+
+#: framework/theme-option.php:417
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+"Wählen Sie diese Option um beim Scrollen eine feste Kopfzeile zu aktivieren, "
+"deaktivieren Sie zu deaktivieren."
+
+#: framework/theme-option.php:422
+msgid "Sticky Header On Mobile"
+msgstr "Klebrige Überschrift auf Mobile"
+
+#: framework/theme-option.php:423
+msgid ""
+"Check to enable a fixed header when scrolling, uncheck to disable on Mobile."
+msgstr ""
+"Wählen Sie diese Option aus, um beim Scrollen eine feste Kopfzeile zu "
+"aktivieren. Deaktivieren Sie diese Option, um sie auf Mobilgeräten zu "
+"deaktivieren."
+
+#: framework/theme-option.php:429
+msgid "Logo"
+msgstr "Logo"
+
+#: framework/theme-option.php:430
+msgid "Please choose an image file for your logo."
+msgstr "Bitte wählen Sie eine Bilddatei für Ihr Logo."
+
+#: framework/theme-option.php:437
+msgid "Logo Sticky"
+msgstr "Logo Klebrig"
+
+#: framework/theme-option.php:438
+msgid "Please choose an image file for your logo sticky."
+msgstr "Bitte wählen Sie eine Bilddatei für Ihr Logo Sticky."
+
+#: framework/theme-option.php:445
+msgid "Logo Mobile"
+msgstr "Logo Mobil"
+
+#: framework/theme-option.php:446
+msgid "Please choose an image file for your logo mobile."
+msgstr "Bitte wählen Sie eine Bilddatei für Ihr Logo-Handy."
+
+#: framework/theme-option.php:452
+msgid "Link Logo"
+msgstr ""
+
+#: framework/theme-option.php:453
+msgid "Default links point to the home page"
+msgstr ""
+
+#: framework/theme-option.php:460
+msgid "Background Image Header"
+msgstr "Hintergrundbild-Header"
+
+#: framework/theme-option.php:461
+msgid "Please choose an image file for your background header."
+msgstr "Bitte wählen Sie eine Bilddatei für Ihre Hintergrundüberschrift."
+
+#: framework/theme-option.php:468
+msgid "Please choose an color for your background header."
+msgstr ""
+
+#: framework/theme-option.php:474 framework/theme-option.php:486
+#: framework/theme-option.php:627
+msgid "Please enter the value from 0 to 1."
+msgstr ""
+
+#: framework/theme-option.php:480
+msgid "Please choose an color for your background top b header."
+msgstr ""
+
+#: framework/theme-option.php:492
+msgid "Background Image Header Sticky"
+msgstr "Hintergrund Bild Header Sticky"
+
+#: framework/theme-option.php:493
+msgid "Please choose an image file for your background header sticky."
+msgstr "Bitte wählen Sie eine Bilddatei für Ihre Hintergrund header sticky."
+
+#: framework/theme-option.php:500
+msgid "Please choose an color for your background header sticky."
+msgstr "Bitte wählen Sie eine farbe für Ihre Hintergrund header sticky."
+
+#: framework/theme-option.php:505
+msgid "Header contact"
+msgstr "Kopfzeilenkontakt"
+
+#: framework/theme-option.php:506
+msgid "Enter information contact for default header."
+msgstr "Geben Sie den Informationskontakt für den Standardheader ein."
+
+#: framework/theme-option.php:512
+msgid "Show or hidden Button Login and User register in Header."
+msgstr ""
+
+# Show or hide
+#: framework/theme-option.php:518
+msgid "Show or hidden post a job button in Header."
+msgstr "Zeigen oder verbergen Sie eine Job-Schaltfläche in der Kopfzeile."
+
+# Show or hide
+#: framework/theme-option.php:524
+msgid "Show or hidden Buy Package button in Header."
+msgstr "Schaltfläche \"Paket kaufen\" in der Kopfzeile ein- oder ausblenden"
+
+#: framework/theme-option.php:529
+msgid "Buy Package URL "
+msgstr "Paket-URL kaufen"
+
+#: framework/theme-option.php:530
+msgid "You can leave blank OR set an url OR an ID of the element"
+msgstr ""
+"Sie können leer lassen ODER eine URL ODER eine ID des Elements festlegen"
+
+# show or hide
+#: framework/theme-option.php:536
+msgid "Show or hidden search form button in Header."
+msgstr "Schaltfläche \"Suchformular ein- oder ausblenden\" in \"Kopfzeile\""
+
+# Show or hide Cart button in Header.
+#: framework/theme-option.php:542
+msgid "Show or hidden Cart button in Header."
+msgstr "Schaltfläche \"Warenkorb\" in der Kopfzeile ein- oder ausblenden"
+
+#: framework/theme-option.php:548
+msgid "Show or hidden Notification in Header."
+msgstr ""
+
+#: framework/theme-option.php:553
+msgid "Show Buy Theme Button"
+msgstr ""
+
+#: framework/theme-option.php:554
+msgid "Show or hidden Buy Theme button in Header."
+msgstr ""
+
+#: framework/theme-option.php:559
+msgid "Buy Theme Button URL "
+msgstr ""
+
+#: framework/theme-option.php:565
+msgid "Show or hidden Social in Header."
+msgstr "Zeige oder versteckte Social in Header."
+
+#: framework/theme-option.php:588
+msgid "Page Heading Background Image"
+msgstr "Seite Überschrift Hintergrundbild"
+
+#: framework/theme-option.php:589
+msgid ""
+"Please choose an image or insert an image url to use for the page heading "
+"background."
+msgstr ""
+
+#: framework/theme-option.php:595
+msgid "Page Heading Background Color"
+msgstr "Seite Überschrift Hintergrundfarbe"
+
+#: framework/theme-option.php:596
+msgid "Please choose an color to use for the page heading background."
+msgstr ""
+
+#: framework/theme-option.php:603
+msgid "Select Page Heading background image size."
+msgstr ""
+
+#: framework/theme-option.php:621
+msgid "Search Form Background Color"
+msgstr ""
+
+#: framework/theme-option.php:622
+msgid ""
+"Please choose an color to use for the search form background of style 2."
+msgstr ""
+
+#: framework/theme-option.php:626
+msgid "Search Form Background Color Opacity"
+msgstr ""
+
+#: framework/theme-option.php:633
+msgid "Footer options"
+msgstr "Fußzeilenoptionen"
+
+#: framework/theme-option.php:637
+msgid "Show or hidden footer."
+msgstr ""
+
+#: framework/theme-option.php:641
+msgid "Footer style"
+msgstr "Fußzeilenstil"
+
+#: framework/theme-option.php:649
+msgid "Footer Default columns"
+msgstr "Fußzeile Standardspalten"
+
+#: framework/theme-option.php:660
+msgid "Footer copyright"
+msgstr "Fußzeilencopyright"
+
+# Please enter the copyright text for the footer.
+#: framework/theme-option.php:661
+msgid "Please enter text copyright for footer."
+msgstr "Bitte geben Sie den Copyright-Text für die Fußzeile ein."
+
+#: framework/theme-option.php:663
+msgid "© <a href='#'>Inwavethemes</a> All rights reserved."
+msgstr "© <a href='#'>Inwavethemes</a>Alle Rechte vorbehalten."
+
+#: framework/theme-option.php:668 framework/theme-option.php:671
+msgid "Custom Sidebar"
+msgstr "Benutzerdefinierte Seitenleiste"
+
+#: framework/theme-option.php:672
+msgid "Custom sidebar"
+msgstr "Benutzerdefinierte Seitenleiste"
+
+#: framework/theme-option.php:676
+msgid "Add New Sidebar"
+msgstr "Neue Seitenleiste hinzufügen"
+
+#: framework/theme-option.php:679
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/theme-option.php:682 framework/theme-option.php:685
+msgid "Blog Listing"
+msgstr "Blog-Auflistung"
+
+#: framework/theme-option.php:690 framework/theme-option.php:755
+msgid "Select slide bar position"
+msgstr "Wählen Sie die Position der Schieberegler"
+
+#: framework/theme-option.php:704 framework/theme-option.php:765
+msgid "Sidebar Name"
+msgstr "Schieberegler name"
+
+#: framework/theme-option.php:705 framework/theme-option.php:766
+msgid "Select slidebar"
+msgstr "Wählen Sie die Schieberegler"
+
+#: framework/theme-option.php:719
+msgid "Show Categories"
+msgstr "Kategorien anzeigen"
+
+#: framework/theme-option.php:720
+msgid "Check the box to display the post categories."
+msgstr "Aktivieren Sie das Kontrollkästchen um die Postkategorien anzuzeigen."
+
+#: framework/theme-option.php:725 framework/theme-option.php:786
+msgid "Show Post Date"
+msgstr "Postdatum anzeigen"
+
+#: framework/theme-option.php:726 framework/theme-option.php:787
+msgid "Check the box to display blog post date"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Datum des Blog-Posts anzuzeigen"
+
+#: framework/theme-option.php:730
+msgid "Show Post Author"
+msgstr "Zeige Postautor"
+
+#: framework/theme-option.php:731
+msgid "Check the box to display blog post author"
+msgstr "Aktivieren Sie das Kontrollkästchen, um den Blogpost-Autor anzuzeigen"
+
+#: framework/theme-option.php:735
+msgid "Show Post Comment"
+msgstr "Zeige Kommentar anzeigen"
+
+#: framework/theme-option.php:736
+msgid "Check the box to display blog post comment"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um einen Blogpost-Kommentar anzuzeigen"
+
+#: framework/theme-option.php:741 framework/theme-option.php:797
+msgid "Show Social Sharing"
+msgstr "Zeige soziale Freigabe"
+
+#: framework/theme-option.php:742 framework/theme-option.php:798
+msgid "Check the box to display the social sharing"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um die soziale Freigabe anzuzeigen"
+
+#: framework/theme-option.php:747 framework/theme-option.php:750
+msgid "Blog Single Post"
+msgstr "Blog Einzelner Beitrag"
+
+#: framework/theme-option.php:781
+msgid "Post Categories"
+msgstr "Post Kategorien"
+
+#: framework/theme-option.php:782
+msgid "Check the box to display the post categories"
+msgstr "Aktivieren Sie das Kontrollkästchen, um die Postkategorien anzuzeigen"
+
+#: framework/theme-option.php:791
+msgid "Show Author Info"
+msgstr "Autorinfos anzeigen"
+
+#: framework/theme-option.php:792
+msgid "Check the box to display the author info in the post"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um die Autorinformationen im Beitrag "
+"anzuzeigen"
+
+#: framework/theme-option.php:803
+msgid "Show Tags"
+msgstr "Tags anzeigen"
+
+#: framework/theme-option.php:804
+msgid "Check the box to display the post tags"
+msgstr "Aktivieren Sie das Kontrollkästchen, um die Post-Tags anzuzeigen"
+
+#: framework/theme-option.php:829
+msgid "Social Media"
+msgstr "Sozialen Medien"
+
+#: framework/theme-option.php:832 framework/theme-option.php:835
+msgid "Social Sharing"
+msgstr "Soziales Teilen"
+
+#: framework/theme-option.php:837 framework/theme-option.php:894
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/theme-option.php:838
+msgid ""
+"Check the box to show the facebook sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Facebook-Freigabesymbol auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:843 framework/theme-option.php:899
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/theme-option.php:844
+msgid ""
+"Check the box to show the twitter sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Twitter-Freigabesymbol auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:849
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: framework/theme-option.php:850
+msgid ""
+"Check the box to show the linkedin sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das LinkedIn-Freigabesymbol auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:855
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-option.php:856
+msgid ""
+"Check the box to show the g+ sharing icon in blog, woocommerce and portfolio "
+"detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Symbol g + sharing auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:861
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: framework/theme-option.php:862
+msgid ""
+"Check the box to show the tumblr sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Symbol zum Freigeben von Tumblr "
+"auf der Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:867
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-option.php:868
+msgid ""
+"Check the box to show the pinterest sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Pinterest-Freigabesymbol auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:873
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-option.php:874
+msgid ""
+"Check the box to show the email sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das E-Mail-Freigabesymbol auf der "
+"Blog-, Woocommerce- und Portfolio-Detailseite anzuzeigen."
+
+#: framework/theme-option.php:880 framework/theme-option.php:883
+msgid "Social Link Configs"
+msgstr "Social Link-Konfigurationen"
+
+#: framework/theme-option.php:886
+msgid "Social links"
+msgstr "Soziale Link"
+
+#: framework/theme-option.php:887
+msgid ""
+"Add new social links. Awesome icon You can get at <a target='_blank' "
+"href='https://fortawesome.github.io/Font-Awesome/'>here</a>"
+msgstr ""
+"Hinzufügen neue soziale Link Awesome icon Sie können <a target='_blank' "
+"href='https://fortawesome.github.io/Font-Awesome/'> hier </a> erreichen"
+
+# Google Plus
+#: framework/theme-option.php:904
+msgid "Google Plush"
+msgstr "Google Plush"
+
+#: framework/theme-option.php:912
+msgid "Map"
+msgstr "Karte"
+
+#: framework/theme-option.php:915
+msgid "Google Map API"
+msgstr "Google Map-API"
+
+#: framework/theme-option.php:916
+msgid ""
+"Use for process data from google service. Eg: map, photo, video... To get "
+"Google api, you can access via <a href=\"https://console.developers.google."
+"com/\" target=\"_blank\">here</a>."
+msgstr ""
+"Use for process data from google service. Eg: map, photo, video... To get "
+"Google api, you can access via <a href=\"https://console.developers.google."
+"com/\" target=\"_blank\">here</a>."
+
+#: framework/theme-option.php:921
+msgid "Map Styles"
+msgstr "Kartenstile"
+
+#: framework/theme-option.php:922
+msgid ""
+"Using for contact map. You can get <a href=\"https://snazzymaps.com\" target="
+"\"_blank\">here</a>."
+msgstr ""
+"Verwenden für die Kontaktkarte. Du kannst bekommen <a href=\"https://"
+"snazzymaps.com\" target=\"_blank\">here</a>."
+
+#: framework/theme-option.php:928
+msgid "Import Demo"
+msgstr "Demo importieren"
+
+#: framework/theme-option.php:931 framework/theme-option.php:935
+msgid "Import Demo Content"
+msgstr "Demo-Inhalt importieren"
+
+#: framework/theme-option.php:932
+msgid ""
+"We recommend you to <a href='https://wordpress.org/plugins/wordpress-reset/' "
+"target='_blank'>reset data</a>  & clean wp-content/uploads before import to "
+"prevent duplicate content!"
+msgstr ""
+"Wir empfehlen Ihnen  <a href='https://wordpress.org/plugins/wordpress-"
+"reset/' target='_blank'>reset data</a,   und wp-Inhalte / Uploads vor dem "
+"Import zu säubern, um doppelte Inhalte zu vermeiden"
+
+#: framework/theme-option.php:942
+msgid "Backup and Restore Options"
+msgstr "Backup und Wiederherstellung Optionen"
+
+#: framework/theme-option.php:946
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"Sie können die beiden folgenden Schaltflächen verwenden, um Ihre aktuellen "
+"Optionen zu sichern und sie zu einem späteren Zeitpunkt wiederherzustellen. "
+"Dies ist nützlich, wenn Sie mit den Optionen experimentieren möchten, aber "
+"die alten Einstellungen beibehalten möchten, falls Sie sie wieder benötigen."
+
+#: framework/theme-option.php:949
+msgid "Transfer Theme Options Data"
+msgstr "Übertragen von Theme Optionen Daten"
+
+# You can transfer the saved options data between different installs by copying the text from the text box.
+#: framework/theme-option.php:953
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"Sie können die gespeicherten Optionsdaten zwischen verschiedenen "
+"Installationen übertragen, indem Sie den Text aus dem Textfeld kopieren. Um "
+"Daten aus einer anderen Installation zu importieren, ersetzen Sie die Daten "
+"in dem Textfeld durch die aus einer anderen Installation und klicken Sie auf "
+"\"Import Options\"."
+
+#: framework/theme-plugin-load.php:31
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: framework/theme-plugin-load.php:42
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: framework/theme-plugin-load.php:52
+msgid "InWave Jobs"
+msgstr "InWave Jobs"
+
+#: framework/theme-plugin-load.php:62
+msgid "InWave Common for Jobs"
+msgstr "InWave Common for Jobs"
+
+#: framework/theme-plugin-load.php:72
+msgid "Contact form 7"
+msgstr "Contact form 7"
+
+#: framework/theme-plugin-load.php:77
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: framework/theme-plugin-load.php:82
+msgid "YITH Woocommerce Wishlist"
+msgstr "YITH Woocommerce Wishlist"
+
+#: framework/theme-register.php:10
+msgid "Sidebar Default"
+msgstr "Seitenleiste Standard"
+
+#: framework/theme-register.php:21
+msgid "Sidebar Job Details"
+msgstr "Seitenleiste Jobdetails"
+
+#: framework/theme-register.php:31
+msgid "Sidebar Job Details V2"
+msgstr ""
+
+#: framework/theme-register.php:41
+msgid "Sidebar Candidate Details"
+msgstr "Seitenleiste Kandidaten Details"
+
+#: framework/theme-register.php:51
+msgid "Sidebar Candidate Details V2"
+msgstr "Seitenleiste Kandidat Details V2"
+
+#: framework/theme-register.php:61
+msgid "Sidebar Employer Details"
+msgstr "Seitenleiste Arbeitgeber Details"
+
+#: framework/theme-register.php:71
+msgid "Sidebar Employer Details V2"
+msgstr "Seitenleiste Arbeitgeber Details V2"
+
+#: framework/theme-register.php:81
+msgid "Sidebar Jobs 1"
+msgstr "Sidebar-Jobs 1"
+
+#: framework/theme-register.php:90
+msgid "Sidebar Jobs 2"
+msgstr "Sidebar Jobs 2"
+
+#: framework/theme-register.php:99
+msgid "Sidebar Candidates 1"
+msgstr "Sidebar-Kandidaten 1"
+
+#: framework/theme-register.php:108
+msgid "Sidebar Candidates 2"
+msgstr "Sidebar-Kandidaten 2"
+
+#: framework/theme-register.php:117
+msgid "Sidebar Employers 1"
+msgstr "Seitenleiste Arbeitgeber 1"
+
+#: framework/theme-register.php:126
+msgid "Sidebar Employers 2"
+msgstr "Seitenleiste Arbeitgeber 2"
+
+#: framework/theme-register.php:140
+msgid "Sidebar Product"
+msgstr "Seitenleiste Produkt"
+
+#: framework/theme-register.php:157
+msgid "Footer widget 4"
+msgstr "Fußzeilen-Widget 4"
+
+#: framework/theme-register.php:159 framework/theme-register.php:173
+#: framework/theme-register.php:187 framework/theme-register.php:201
+msgid "This is footer widget location"
+msgstr "Dies ist der Fußzeilen-Widget-Standort"
+
+#: framework/theme-register.php:171
+msgid "Footer widget 3"
+msgstr "Fußzeilen-Widget 3"
+
+#: framework/theme-register.php:185
+msgid "Footer widget 2"
+msgstr "Fußzeilen-Widget 2"
+
+#: framework/theme-register.php:199
+msgid "Footer widget 1"
+msgstr "Fußzeilen-Widget 1"
+
+#: framework/widgets/info-footer.php:8
+msgid "Inwave Contact Information"
+msgstr "Inwave Kontaktinformationen"
+
+#: framework/widgets/info-footer.php:9
+msgid "Widget display about us information in footer."
+msgstr "Widget zeigt über uns Informationen in der Fußzeile an."
+
+#: framework/widgets/info-footer.php:129
+msgid "Image"
+msgstr "Bild"
+
+#: framework/widgets/info-footer.php:143
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: framework/widgets/info-footer.php:145
+msgid "Action URL"
+msgstr "Aktions-URL"
+
+#: framework/widgets/info-footer.php:146
+msgid "Link Text"
+msgstr "Link Text"
+
+#: framework/widgets/info-footer.php:147
+msgid "Social Resource"
+msgstr "Soziale Ressource"
+
+#: framework/widgets/info-footer.php:149
+msgid "Theme config"
+msgstr "Theme-Konfiguration"
+
+#: framework/widgets/info-footer.php:150
+msgid "Custom"
+msgstr "Brauch"
+
+#: framework/widgets/info-footer.php:154
+msgid "Custom Social"
+msgstr "Brauch Soziale"
+
+#: framework/widgets/recent-comment.php:27
+msgid "Recent Comments"
+msgstr " Kürzlich Kommentare"
+
+#: framework/widgets/recent-comment.php:66
+msgid "on"
+msgstr "auf"
+
+#: framework/widgets/recent-post.php:26
+msgid "Recent Posts"
+msgstr "kürzliche Posts"
+
+#: framework/widgets/subscribe.php:12
+msgid "Inwave Subscribe"
+msgstr "Inwave Abonnieren"
+
+#: framework/widgets/subscribe.php:13
+msgid "Widget display subscribe."
+msgstr "Widget-Anzeige abonnieren"
+
+#: framework/widgets/subscribe.php:34
+msgid "Action Url"
+msgstr "Aktions-URL"
+
+#: framework/widgets/subscribe.php:74
+msgid "Submitting..."
+msgstr "Einreichen ..."
+
+#: framework/widgets/subscribe.php:75
+msgid "We have sent you a confirmation email"
+msgstr "Wir haben Ihnen eine Bestätigungs-E-Mail gesendet"
+
+#: framework/widgets/subscribe.php:76
+msgid "Please enter a value"
+msgstr "Bitte einen Wert eingeben"
+
+#: framework/widgets/subscribe.php:77
+msgid "An email address must contain a single @"
+msgstr "Eine E-Mail-Adresse muss ein einzelnes @ enthalten"
+
+#: framework/widgets/subscribe.php:78
+msgid ""
+"The domain portion of the email address is invalid (the portion after the "
+"@: )"
+msgstr ""
+" \n"
+"\n"
+"78/5000\n"
+"Der Domain-Teil der E-Mail-Adresse ist ungültig (der Teil nach dem @:)"
+
+#: framework/widgets/subscribe.php:79
+msgid ""
+"The username portion of the email address is invalid (the portion before the "
+"@: )"
+msgstr ""
+"Der Benutzername-Teil der E-Mail-Adresse ist ungültig (der Teil vor dem @:)"
+
+#: framework/widgets/subscribe.php:80
+msgid ""
+"This email address looks fake or invalid. Please enter a real email address"
+msgstr ""
+"Diese E-Mail-Adresse sieht gefälscht oder ungültig aus. Bitte geben Sie eine "
+"echte E-Mail-Adresse ein"
+
+#: framework/widgets/subscribe.php:89
+msgid "Email address"
+msgstr "E-Mail-Addresse"
+
+#: framework/widgets/subscribe.php:90
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: headers/header-default.php:143 headers/header-v2.php:180
+#: headers/header-v3.php:143 headers/header-v4.php:193
+#: headers/header-v5.php:171 headers/header-v5.php:227
+#: headers/header-v6.php:146 headers/header-v7.php:179
+msgid "register"
+msgstr "Registrieren"
+
+#: headers/header-default.php:145 headers/header-v2.php:182
+#: headers/header-v3.php:145 headers/header-v4.php:195
+#: headers/header-v5.php:168 headers/header-v5.php:224
+#: headers/header-v6.php:148 headers/header-v7.php:181
+msgid "login"
+msgstr "Anmeldung"
+
+#: headers/header-default.php:184 headers/header-default.php:185
+#: headers/header-v2.php:124 headers/header-v2.php:125
+#: headers/header-v3.php:180 headers/header-v3.php:181
+#: headers/header-v4.php:137 headers/header-v4.php:138
+#: headers/header-v5.php:117 headers/header-v5.php:118
+#: headers/header-v6.php:185 headers/header-v6.php:186
+#: headers/header-v7.php:123
+msgid "Post a job"
+msgstr "Posten Sie einen Job"
+
+#: headers/header-default.php:199 headers/header-default.php:200
+#: headers/header-v3.php:195 headers/header-v3.php:196
+#: headers/header-v6.php:200 headers/header-v6.php:201
+msgid "Buy A Package"
+msgstr "Kaufen Sie ein Paket"
+
+#: headers/header-default.php:216 headers/header-default.php:217
+#: headers/header-v2.php:140 headers/header-v2.php:141
+#: headers/header-v3.php:212 headers/header-v3.php:213
+#: headers/header-v4.php:153 headers/header-v4.php:154
+#: headers/header-v5.php:133 headers/header-v5.php:134
+#: headers/header-v6.php:217 headers/header-v6.php:218
+#: headers/header-v7.php:139
+msgid "Update a resume"
+msgstr "Aktualisieren Sie einen Lebenslauf"
+
+#: headers/header-default.php:302 headers/header-v3.php:290
+#: headers/header-v4.php:242 headers/header-v6.php:295 searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+# Enter keywords ...
+#: headers/header-default.php:302 headers/header-v3.php:290
+#: headers/header-v4.php:242 headers/header-v6.php:295
+msgctxt "placeholder"
+msgid "Enter  key words..."
+msgstr "Schlüsselwörter eingeben..."
+
+#: headers/header-v2.php:165 headers/header-v4.php:178
+#: headers/header-v7.php:164
+msgid "Hello"
+msgstr "Hallo"
+
+#: headers/header-v7.php:105
+msgid "Buy Theme"
+msgstr ""
+
+#: page-templates/full-width-page.php:27 page-templates/home-page.php:29
+#: page-templates/left-sidebar.php:43 page-templates/right-sidebar.php:43
+#: page-templates/search-map.php:28 page-templates/two-sidebar-page.php:53
+#: page.php:35
+#, php-format
+msgid "You must be logged in to view this page. <a href=\"%s\">Login here</a>"
+msgstr ""
+"Sie müssen angemeldet sein, um diese Seite sehen zu können. <a href=\"%s\"> "
+"Hier einloggen </a>"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Enter your keywords"
+msgstr "Geben Sie Ihre Keywords ein"
+
+# Shipping costs are calculated as soon as you have given your address.
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+"Versandkosten werden berechnet, sobald Sie Ihre Adresse angegeben haben."
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Es sind keine Versandarten verfügbar. Bitte überprüfen Sie Ihre Adresse, "
+"oder kontaktieren Sie uns, wenn Sie Hilfe benötigen."
+
+#: woocommerce/cart/cart-totals.php:18
+msgid "Cart Totals"
+msgstr "Einkaufswagensummen"
+
+#: woocommerce/cart/cart-totals.php:26 woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/cart/cart-totals.php:52
+msgid "Shipping"
+msgstr "Versand"
+
+#: woocommerce/cart/cart-totals.php:76 woocommerce/cart/cart.php:41
+#: woocommerce/order/order-details.php:42
+msgid "Total"
+msgstr "Gesamt"
+
+#: woocommerce/cart/cart-totals.php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(Steuern geschätzt für% s)"
+
+# Note: Shipping and taxes are estimated% s and will be updated at checkout based on your billing and shipping information.
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Hinweis: Versand und Steuern sind geschätzte% s und werden beim Checkout "
+"basierend auf Ihren Rechnungs- und Versandinformationen aktualisiert."
+
+#: woocommerce/cart/cart-totals.php:99
+msgid "Proceed to Checkout"
+msgstr "Zur Kasse"
+
+#: woocommerce/cart/cart.php:38 woocommerce/order/order-details.php:41
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/cart/cart.php:39
+msgid "Price"
+msgstr "Preis"
+
+#: woocommerce/cart/cart.php:40
+msgid "Quantity"
+msgstr "Menge"
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr "Im Rückstandsfall verfügbar"
+
+#: woocommerce/cart/cart.php:134
+msgid "Remove this item"
+msgstr "entferne diesen Gegenstand"
+
+#: woocommerce/cart/cart.php:156 woocommerce/checkout/form-coupon.php:31
+msgid "Coupon"
+msgstr "Gutschein"
+
+#: woocommerce/cart/cart.php:161 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+#: woocommerce/cart/cart.php:165 woocommerce/checkout/form-coupon.php:36
+#: woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr "Gutschein einlösen"
+
+#: woocommerce/cart/cart.php:168
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+#: woocommerce/cart/cross-sells.php:39
+msgid "You may be interested in&hellip;"
+msgstr "Das könnte Sie interessieren &hellip;"
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr "Keine Produkte im Einkaufswagen."
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "View Cart"
+msgstr "Warenkorb ansehen"
+
+#: woocommerce/cart/mini-cart.php:70
+msgid "Checkout"
+msgstr "Checkout"
+
+#: woocommerce/cart/shipping-calculator.php:19
+msgid "Calculate Shipping"
+msgstr "Berechnen Sie Versandkosten"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr "Wähle ein Land &hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:37
+#: woocommerce/cart/shipping-calculator.php:42
+#: woocommerce/cart/shipping-calculator.php:53
+msgid "State / county"
+msgstr "Staat / Landkreis"
+
+#: woocommerce/cart/shipping-calculator.php:43
+msgid "Select a state&hellip;"
+msgstr "Wähle einen Staat&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "City"
+msgstr "Stadt"
+
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "Postcode / Zip"
+msgstr "Postleitzahl"
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Update Totals"
+msgstr "Summen aktualisieren"
+
+#: woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr "Abrechnung & amp; Versand"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing Details"
+msgstr "Rechnungsdetails"
+
+#: woocommerce/checkout/form-billing.php:44
+msgid "Create an account?"
+msgstr "Ein Konto erstellen?"
+
+# Create an account by entering the following information. If you are a returning customer, please log in at the top of the page.
+#: woocommerce/checkout/form-billing.php:55
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Erstellen Sie ein Konto, indem Sie die folgenden Informationen eingeben. "
+"Wenn Sie ein wiederkehrender Kunde sind, loggen Sie sich bitte oben auf der "
+"Seite ein"
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "Go to shop cart if you need remove product"
+msgstr "Gehen Sie zum Warenkorb, wenn Sie das Produkt entfernen müssen"
+
+#: woocommerce/checkout/form-checkout.php:33
+msgid "You must be logged in to checkout."
+msgstr "Sie müssen zur Kasse angemeldet sein."
+
+#: woocommerce/checkout/form-checkout.php:60
+#: woocommerce/checkout/form-checkout.php:80
+msgid "Your order"
+msgstr "Deine Bestellung"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "Zurückkehrender Kunde?"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "Klicken Sie hier, um sich einzuloggen"
+
+# If you have purchased from us, please enter your data in the following fields.
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Wenn Sie schon einmal bei uns eingekauft haben, geben Sie bitte Ihre Daten "
+"in die folgenden Felder ein. Wenn Sie ein neuer Kunde sind, fahren Sie bitte "
+"mit Abrechnung fort &amp; Versandabschnitt."
+
+#: woocommerce/checkout/form-shipping.php:19
+#: woocommerce/order/order-details-customer.php:75
+msgid "Shipping address"
+msgstr "Lieferanschrift"
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "Ship to a different address?"
+msgstr "Zu einer anderen Adresse verschicken?"
+
+#: woocommerce/checkout/form-shipping.php:69
+msgid "Additional Information"
+msgstr "zusätzliche Information"
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Entschuldigung, es scheint, dass es für Ihren Bundesstaat keine verfügbaren "
+"Zahlungsmethoden gibt. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen "
+"oder alternative Arrangements treffen möchten."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Bitte geben Sie oben Ihre Daten ein, um die verfügbaren Zahlungsmethoden zu "
+"sehen."
+
+# Since your browser does not support JavaScript or disabled, please make sure you click the <em> Update Totals </em> button before ordering. If you do not, you may be charged more than the above amount.
+#: woocommerce/checkout/payment.php:52
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Da Ihr Browser kein JavaScript unterstützt oder deaktiviert ist, stellen Sie "
+"bitte sicher, dass Sie vor der Bestellung auf die Schaltfläche <em> Update "
+"Gesamtwerte </ em> klicken. Wenn Sie dies nicht tun, wird Ihnen "
+"möglicherweise mehr als der oben genannte Betrag in Rechnung gestellt."
+
+#: woocommerce/checkout/payment.php:53
+msgid "Update totals"
+msgstr "Summen aktualisieren"
+
+#: woocommerce/content-product.php:48
+msgid "Add cart"
+msgstr "Zum Einkaufswagen hinzufügen"
+
+#: woocommerce/content-product_row.php:43
+#: woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr "Sale!"
+
+#: woocommerce/global/form-login.php:30 woocommerce/global/form-login.php:56
+#: woocommerce/global/form-login.php:57
+msgid "Login"
+msgstr "Anmeldung"
+
+#: woocommerce/global/form-login.php:42
+msgid "Username or email"
+msgstr "Benutzername oder E-Mail-Adresse"
+
+#: woocommerce/global/form-login.php:46
+msgid "Password"
+msgstr "Passwort"
+
+#: woocommerce/global/form-login.php:62
+msgid "Remember me"
+msgstr "Erinnere dich an mich"
+
+#: woocommerce/global/form-login.php:66
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Menge"
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Zeige das einzelne Ergebnis"
+msgstr[1] "Alle% d Ergebnisse werden angezeigt"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Zeige das einzelne Ergebnis"
+msgstr[1] "Zeigen  %1$d&ndash;%2$d of %3$d  Ergebnis"
+
+# This has been given to you
+#: woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"Um Ihre Bestellung zu verfolgen, geben Sie bitte Ihre Bestell-ID in das Feld "
+"unten ein und drücken Sie den \"Track\" -Button. Dies wurde Ihnen auf Ihrer "
+"Quittung und in der Bestätigungs-E-Mail mitgeteilt, die Sie erhalten haben "
+"sollten."
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr "Auftrag ID"
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr "Gefunden in Ihrer Bestätigungs-E-Mail."
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Billing email"
+msgstr "Abrechnung per E-Mail"
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr "E-Mail, die Sie beim Checkout verwendet haben."
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr "verfolgen"
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr "Bestelle erneut"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Customer details"
+msgstr "Kundendetails"
+
+#: woocommerce/order/order-details-customer.php:32
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: woocommerce/order/order-details-customer.php:39
+msgid "Email:"
+msgstr "Email"
+
+#: woocommerce/order/order-details-customer.php:46
+msgid "Phone:"
+msgstr "Telefon"
+
+#: woocommerce/order/order-details-customer.php:63
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: woocommerce/order/order-details-customer.php:66
+#: woocommerce/order/order-details-customer.php:78
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr "Bestelldetails"
+
+#: woocommerce/order/tracking.php:27
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "Bestell #%1$s wurde auf %2$s gesetzt und ist derzeit %3$s. "
+
+#: woocommerce/order/tracking.php:35
+msgid "Order updates"
+msgstr "Updates bestellen"
+
+#: woocommerce/order/tracking.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s Überprüfung für% s"
+msgstr[1] "%s reviews for %s"
+
+#: woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr "Es gibt noch keine Bewertungen."
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr "Bewertung hinzufügen"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr "Schreiben Sie die erste Bewertung"
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse eine Antwort auf %s"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr "einreichen"
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Sie müssen <a href=\"%s\"> angemeldet </a> sein, um eine Bewertung abgeben "
+"zu können."
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr "Deine Bewertung"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr "Perfekt"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr "Gut"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr "Durchschnittlich"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr "Nicht so schlecht"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr "Sehr arm"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Nur angemeldete Kunden, die dieses Produkt gekauft haben, können eine "
+"Bewertung abgeben."
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategorie:"
+msgstr[1] "Kategorien:"
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etikett:"
+msgstr[1] "Etikett:"
+
+#: woocommerce/single-product/meta.php:36
+msgid "Share This Post"
+msgstr "Teile diesen Beitrag"
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr "Wartet Produktbild"
+
+#: woocommerce/single-product/related.php:41
+msgid "Related Products"
+msgstr "Ähnliche Produkte"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr "Ihre Bewertung wartet auf ihre Genehmigung"
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr "nachgewiesener Eigentümer"
+
+#: woocommerce/single-product/title.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Bewertet %s aus 5"
+
+#: woocommerce/single-product/title.php:36
+#, php-format
+msgid "out of %s5%s"
+msgstr "aus %s5%s"
+
+#: woocommerce/single-product/title.php:37
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "basierend auf %s  Kundenbewertung "
+msgstr[1] "basierend auf %s  Kundenbewertunge"
+
+#: woocommerce/single-product/title.php:41
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s Kundenrezension"
+msgstr[1] "%s Kundenrezensionen"
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr "Sie können auch mögen &hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "injob"
+msgstr "injob"
+
+#. Theme URI of the plugin/theme
+msgid "http://jobboard.inwavethemes.com"
+msgstr "http://jobboard.inwavethemes.com"
+
+#. Description of the plugin/theme
+msgid ""
+"injob is an advanced job board wordpress theme with a modern, clean, "
+"intuitive, and fully responsive design, that looks perfect on any size "
+"tablet or mobile screen."
+msgstr ""
+"Injob ist ein fortschrittliches Wordpress-Theme für Jobbörsen mit einem "
+"modernen, sauberen, intuitiven und vollständig ansprechenden Design, das auf "
+"Tabletts oder mobilen Bildschirmen jeder Größe perfekt aussieht."
+
+#. Author of the plugin/theme
+msgid "inwavethemes"
+msgstr "inwavethemes"
+
+#. Author URI of the plugin/theme
+msgid "http://inwavethemes.com"
+msgstr "http://inwavethemes.com"
+
+#~ msgid ""
+#~ "Save my name, email, and website in this browser for the next time I "
+#~ "comment."
+#~ msgstr ""
+#~ "Speichern Sie meinen Namen, E-Mail-Adresse und Website in diesem Browser "
+#~ "für das nächste Mal, wenn ich kommentiere."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Es scheint, wir können es &rsquo;t finde, wonach du &rsquo suchst. "
+#~ "Vielleicht kann das Suchen helfen."
+
+#~ msgid "Only used for header version 3, 4, 6."
+#~ msgstr "Wird nur für die Header-Version 3, 4, 6 verwendet."
+
+#~ msgid "Only used for header version 3, 6."
+#~ msgstr "Wird nur für die Header-Version 3, 6 verwendet."
+
+# it will always compile the color file
+#~ msgid ""
+#~ "Check this box to active develop theme mode. For example, it will always "
+#~ "complile the color file"
+#~ msgstr ""
+#~ "Aktivieren Sie dieses Kontrollkästchen, um den Designmodus aktiv zu "
+#~ "aktivieren. Zum Beispiel kompiliert es immer die Farbdatei"
+
+#~ msgid "Controls the link hover color of the breadcrumb."
+#~ msgstr "Steuert die Link-Hover-Farbe des Breadcrumbs."
+
+#~ msgid "Only used for header version 3, 4, 6 ."
+#~ msgstr "Wird nur für die Header-Version 3, 4, 6 verwendet."
+
+#~ msgid "Only used for header version 3, 6 ."
+#~ msgstr "Wird nur für die Header-Version 3, 6 verwendet."
+
+#~ msgid ""
+#~ "Please choose an image or insert an image url to use for the page title "
+#~ "background."
+#~ msgstr ""
+#~ "Bitte wählen Sie ein Bild oder fügen Sie eine Bild-URL ein, die als "
+#~ "Hintergrund für den Seitentitel verwendet werden soll."
+
+# Please choose a color to use for the page title background.
+#~ msgid "Please choose an color to use for the page title background."
+#~ msgstr "Please choose a color to use for the page title background."
+
+#~ msgid "Select Page Title background image size."
+#~ msgstr "Wählen Sie Seitentitel Hintergrundgröße."

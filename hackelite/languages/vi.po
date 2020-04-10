@@ -1,0 +1,3141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InJob\n"
+"POT-Creation-Date: 2018-07-05 14:42+0700\n"
+"PO-Revision-Date: 2018-10-07 10:32+0700\n"
+"Last-Translator: quyen <caoquyenis@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "Lỗi 404"
+
+#: 404.php:12
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "Chúng tôi rất tiếc, trang bạn đang tìm kiếm không tồn tại."
+
+#: 404.php:14
+msgid "You could go back to"
+msgstr "Bạn có thể quay lại"
+
+#: 404.php:14
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#: blocks/breadcrumbs.php:5
+#: blocks/page-heading.php:75
+#: woocommerce/global/breadcrumb.php:26
+msgid "Home"
+msgstr "Trang chủ"
+
+#: blocks/breadcrumbs.php:6
+#: blocks/page-heading.php:76
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: blocks/breadcrumbs.php:7
+#: blocks/page-heading.php:77
+#, php-format
+msgid "Archive for \"%s\""
+msgstr "Lưu trữ cho \"% s\""
+
+#: blocks/breadcrumbs.php:8
+#: blocks/page-heading.php:78
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Kết quả tìm kiếm  \"% s\""
+
+#: blocks/breadcrumbs.php:9
+#: blocks/page-heading.php:79
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Thẻ bài viết \"% s\""
+
+#: blocks/breadcrumbs.php:10
+#: blocks/page-heading.php:80
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Đăng bởi % s"
+
+#: blocks/breadcrumbs.php:11
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+#: blocks/breadcrumbs.php:151
+msgid "&nbsp;Page"
+msgstr "&nbsp;Trang"
+
+#: blocks/page-heading.php:27
+msgid "Find jobs"
+msgstr "Tìm việc"
+
+#: blocks/page-heading.php:30
+msgid "You are browsing: "
+msgstr "Bạn đang duyệt:"
+
+#: blocks/page-heading.php:81
+msgid "Oops! That page can&rsquo;t be found"
+msgstr "Rất tiếc! Không thể tìm thấy trang"
+
+#: blocks/paging.php:4
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: blocks/paging.php:5
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: blocks/panel-settings.php:9
+msgid "LAYOUT"
+msgstr "Bố cục"
+
+#: blocks/panel-settings.php:11
+msgid "WIDE"
+msgstr "Rộng"
+
+#: blocks/panel-settings.php:12
+msgid "BOXED"
+msgstr "Đóng khung"
+
+#: blocks/panel-settings.php:16
+msgid "SAMPLE COLOR"
+msgstr "Màu mẫu"
+
+#: blocks/panel-settings.php:28
+msgid "Please read our documentation file to know how to change colors as you want"
+msgstr "Vui lòng đọc tài liệu của chúng tôi để biết cách thay đổi màu như bạn muốn"
+
+#: blocks/panel-settings.php:33
+msgid "BACKGROUND COLOR"
+msgstr "MÀU NỀN"
+
+#: blocks/panel-settings.php:46
+msgid "BACKGROUND TEXTURE"
+msgstr "BỐI CẢNH NỀN"
+
+#: blocks/panel-settings.php:65
+msgid "LEFT TO RIGHT"
+msgstr "TRÁI QUA PHẢI"
+
+#: blocks/panel-settings.php:66
+msgid "RIGHT TO LEFT"
+msgstr "PHẢI QUA TRÁI"
+
+#: blocks/panel-settings.php:72
+msgid "Reset"
+msgstr "Khôi phục"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "Bình luận đã đóng."
+
+#: comments.php:33
+#, php-format
+msgid "<span>%d</span> Comment"
+msgid_plural "<span>%d</span> Comments"
+msgstr[0] "<span>%d</span> Comments"
+
+#: comments.php:38
+#: comments.php:54
+msgid "&larr; Older Comments"
+msgstr "& larr; Bình luận cũ hơn"
+
+#: comments.php:40
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn & rarr;"
+
+#: comments.php:69
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Các trường bắt buộc được đánh dấu% s"
+
+#: comments.php:71
+msgid "Name *"
+msgstr "Tên *"
+
+#: comments.php:72
+msgid "Email address *"
+msgstr "Địa chỉ email*"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:74
+msgid "Your comment *"
+msgstr "Bình luận của bạn *"
+
+# Save my name, email, and website in this browser for the next time comment.
+#: comments.php:82
+msgid "Save my name, email, and website in this browser for the next time comment."
+msgstr "Lưu tên, email và trang web của tôi trong trình duyệt này cho lần nhận xét tiếp theo."
+
+#: comments.php:96
+msgctxt "noun"
+msgid "Comment*"
+msgstr "Bình luận *"
+
+#: content-gallery.php:46
+#: content-image.php:30
+#: content-single.php:33
+#: content-video.php:41
+msgid "Sticky post"
+msgstr "Bài nổi bật"
+
+#: content-gallery.php:55
+#: content-image.php:39
+#: content-page.php:14
+#: content-single.php:42
+#: content-video.php:50
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-gallery.php:65
+#: content-image.php:49
+#: content-video.php:60
+msgid "by: "
+msgstr "Bởi:"
+
+#: content-gallery.php:70
+#: content-image.php:54
+#: content-video.php:65
+msgid "0 comment"
+msgstr "0 Bình luận"
+
+#: content-gallery.php:70
+#: content-image.php:54
+#: content-video.php:65
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: content-gallery.php:70
+#: content-image.php:54
+#: content-video.php:65
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: content-gallery.php:79
+#: content-image.php:63
+#: content-single.php:69
+#: content-video.php:74
+msgid "Share : "
+msgstr "Chia sẻ :"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: content-none.php:16
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\"> Bắt đầu tại đây </a>."
+
+#: content-none.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung  phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+# ???
+#: content-none.php:25
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp bạn."
+
+#: content-page.php:23
+#: framework/option-framework/inc/class.options_machine.php:909
+#: framework/option-framework/inc/class.options_machine.php:988
+#: framework/option-framework/inc/class.options_machine.php:1033
+#: framework/theme-function.php:114
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-single.php:53
+msgid "Tags:"
+msgstr "Thẻ:"
+
+#: content-single.php:61
+msgid "Next Article : "
+msgstr "Bài kế tiếp:"
+
+#: content-single.php:90
+msgid "Author: "
+msgstr "Nhà tuyển dụng:"
+
+#: framework/importer/importer.php:41
+msgid "Preparing"
+msgstr "Đang chuẩn bị"
+
+#: framework/importer/importer.php:42
+msgid "Importing media"
+msgstr "Nhập phương tiện"
+
+#: framework/importer/importer.php:43
+msgid "Importing posts"
+msgstr "Nhập bài đăng"
+
+#: framework/importer/importer.php:44
+#, fuzzy
+#| msgid "Importing widgets"
+msgid "Importing sliders"
+msgstr "Importing widgets"
+
+#: framework/importer/importer.php:45
+msgid "Importing widgets"
+msgstr "Nhập  widgets"
+
+#: framework/importer/importer.php:46
+msgid "Importing theme options"
+msgstr "Nhập tùy chọn chủ đề"
+
+#: framework/importer/importer.php:47
+msgid "Finish"
+msgstr "Hoàn thành"
+
+#: framework/importer/importer.php:196
+msgid "Cheers! The demo data has been imported successfully! Please reload this page to finish!"
+msgstr "Chúc mừng! Dữ liệu demo đã được nhập thành công! Vui lòng tải lại trang này để hoàn tất!"
+
+#: framework/inc/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr "Cài đặt Plugins được yêu cầu"
+
+#: framework/inc/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins "
+
+#: framework/inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin %s"
+
+#: framework/inc/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr "Có gì đó không đúng với API plugin "
+
+#: framework/inc/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Theme này yêu cầu các plugin sau:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Theme này đề xuất các plugin sau:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Các plugin sau cần được cập nhật lên phiên bản mới nhất của chúng để đảm bảo khả năng tương thích tối đa với theme này:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có bản cập nhật cho: %1$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin bắt buộc sau đây hiện không hoạt động:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin được đề xuất sau đây hiện không hoạt động:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr "Quay lại Required Plugins Installer"
+
+#: framework/inc/class-tgm-plugin-activation.php:391
+#: framework/inc/class-tgm-plugin-activation.php:793
+#: framework/inc/class-tgm-plugin-activation.php:867
+#: framework/inc/class-tgm-plugin-activation.php:2576
+#: framework/inc/class-tgm-plugin-activation.php:3634
+msgid "Return to the Dashboard"
+msgstr "Quay lại dashboard"
+
+#: framework/inc/class-tgm-plugin-activation.php:392
+#: framework/inc/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "Plugin đã được kích hoạt thành công."
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Các plugin sau đã được kích hoạt thành công:"
+
+#: framework/inc/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động. Plugin%1$s đã hoạt động."
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin chưa được kích hoạt. Cần có phiên bản% s cao hơn cho theme này. Vui lòng cập nhật plugin."
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin được yêu cầu hoặc được đề xuất để cài đặt, cập nhật hoặc kích hoạt."
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được trợ giúp."
+
+#: framework/inc/class-tgm-plugin-activation.php:544
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần cập nhật để tương thích với theme của bạn."
+
+#: framework/inc/class-tgm-plugin-activation.php:545
+msgid "Update Required"
+msgstr "Yêu cầu cập nhật"
+
+#: framework/inc/class-tgm-plugin-activation.php:788
+msgid "<p>Updated successfully!</p>"
+msgstr "<p> Đã cập nhật thành công! </ p>"
+
+#: framework/inc/class-tgm-plugin-activation.php:790
+#: framework/inc/class-tgm-plugin-activation.php:2936
+msgid "There was an error unzipping the file."
+msgstr "Đã xảy ra lỗi khi giải nén tệp"
+
+# ???
+#: framework/inc/class-tgm-plugin-activation.php:974
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa một thư mục có đường dẫn  mong muốn và việc đổi tên không hoạt động."
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ cung cấp plugin theo hướng dẫn của WordPress."
+
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin từ xa chứa nhiều tệp nhưng các tệp không nằm trong một thư mục."
+
+#: framework/inc/class-tgm-plugin-activation.php:1164
+#: framework/inc/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: framework/inc/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2316
+msgid "Required"
+msgstr "Yêu cầu"
+
+#: framework/inc/class-tgm-plugin-activation.php:2319
+msgid "Recommended"
+msgstr "Đề xuất"
+
+#: framework/inc/class-tgm-plugin-activation.php:2335
+msgid "WordPress Repository"
+msgstr "Kho lưu trữ WordPress"
+
+#: framework/inc/class-tgm-plugin-activation.php:2338
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: framework/inc/class-tgm-plugin-activation.php:2341
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Not Installed"
+msgstr "Không cài đặt được"
+
+#: framework/inc/class-tgm-plugin-activation.php:2362
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt được"
+
+#: framework/inc/class-tgm-plugin-activation.php:2364
+msgid "Active"
+msgstr "Hoạt động"
+
+#: framework/inc/class-tgm-plugin-activation.php:2370
+msgid "Required Update not Available"
+msgstr "Cập nhật bắt buộc không khả dụng"
+
+#: framework/inc/class-tgm-plugin-activation.php:2373
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: framework/inc/class-tgm-plugin-activation.php:2376
+msgid "Update recommended"
+msgstr "Đề xuất cập nhật"
+
+#: framework/inc/class-tgm-plugin-activation.php:2385
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2431
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để cài đặt <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2439
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2443
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Để kích hoạt <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2525
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Không xác định"
+
+#: framework/inc/class-tgm-plugin-activation.php:2533
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt"
+
+#: framework/inc/class-tgm-plugin-activation.php:2541
+msgid "Minimum required version:"
+msgstr "Phiên bản yêu cầu tối thiểu:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2553
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2576
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: framework/inc/class-tgm-plugin-activation.php:2590
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:2591
+msgid "Source"
+msgstr "Nguồn"
+
+#: framework/inc/class-tgm-plugin-activation.php:2592
+msgid "Type"
+msgstr "Phân loại"
+
+#: framework/inc/class-tgm-plugin-activation.php:2596
+msgid "Version"
+msgstr "Phiên bản "
+
+#: framework/inc/class-tgm-plugin-activation.php:2597
+msgid "Status"
+msgstr "Trạng thái"
+
+#: framework/inc/class-tgm-plugin-activation.php:2646
+#, php-format
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2651
+#, php-format
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2727
+msgid "Upgrade message from the plugin author:"
+msgstr "Tin nhắn nâng cấp từ tác giả của plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:2760
+msgid "Install"
+msgstr "Cài đặt"
+
+#: framework/inc/class-tgm-plugin-activation.php:2766
+msgid "Update"
+msgstr "Cập nhật"
+
+#: framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Activate"
+msgstr "Kích hoạt "
+
+#: framework/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động nào được thực hiện."
+
+#: framework/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động nào được thực hiện."
+
+#: framework/inc/class-tgm-plugin-activation.php:2843
+msgid "No plugins are available to be installed at this time."
+msgstr "Hiện không có plugin nào sẵn có để để cài đăt"
+
+#: framework/inc/class-tgm-plugin-activation.php:2845
+msgid "No plugins are available to be updated at this time."
+msgstr "Hiện không có plugin nào sẵn có để để cập nhật"
+
+#: framework/inc/class-tgm-plugin-activation.php:2965
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động nào được thực hiện."
+
+#: framework/inc/class-tgm-plugin-activation.php:2991
+msgid "No plugins are available to be activated at this time."
+msgstr "Hiện không có plugin nào sẵn có để để kích hoạt"
+
+#: framework/inc/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: framework/inc/class-tgm-plugin-activation.php:3552
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin%1$s (%2$d /%3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3555
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Có lỗi xảy ra khi cài đặt %1$s: <strong>%2$s </ strong>."
+
+#: framework/inc/class-tgm-plugin-activation.php:3557
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Việc cài đặt %1$s không thành công."
+
+#: framework/inc/class-tgm-plugin-activation.php:3561
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một lúc trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: framework/inc/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "Đã cài đặt và kích hoạt%1$s thành công."
+
+#: framework/inc/class-tgm-plugin-activation.php:3564
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã được hoàn thành."
+
+#: framework/inc/class-tgm-plugin-activation.php:3566
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt và kích hoạt Plugin %1$s (%2$d / %3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt bắt đầu. Quá trình này có thể mất một lúc trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: framework/inc/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s được cài đặt thành công."
+
+#: framework/inc/class-tgm-plugin-activation.php:3572
+msgid "All installations have been completed."
+msgstr "Tất cả các cài đặt đã được hoàn thành."
+
+#: framework/inc/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt Plugin%1$s (%2$d/ %3$d)"
+
+#: framework/inc/custom-nav.php:146
+#, php-format
+msgid "%s (Invalid)"
+msgstr "% s (Không hợp lệ)"
+
+#: framework/inc/custom-nav.php:150
+#, php-format
+msgid "%s (Pending)"
+msgstr "% s (Đang chờ xử lý)"
+
+#: framework/inc/custom-nav.php:174
+msgid "Move up"
+msgstr "Di chuyển lên"
+
+#: framework/inc/custom-nav.php:187
+msgid "Move down"
+msgstr "Di chuyển xuống"
+
+#: framework/inc/custom-nav.php:189
+#: framework/inc/custom-nav.php:191
+msgid "Edit Menu Item"
+msgstr "Chỉnh sửa mục menu"
+
+#: framework/inc/custom-nav.php:200
+msgid "URL"
+msgstr "URL"
+
+#: framework/inc/custom-nav.php:207
+msgid "Navigation Label"
+msgstr "Nhãn điều hướng"
+
+#: framework/inc/custom-nav.php:213
+msgid "Title Attribute"
+msgstr "Thuộc tính tiêu đề"
+
+#: framework/inc/custom-nav.php:220
+msgid "Open link in a new window/tab"
+msgstr "Mở đường dẫn trong cửa sổ / tab mới"
+
+#: framework/inc/custom-nav.php:225
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (Tùy chọn)"
+
+#: framework/inc/custom-nav.php:231
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: framework/inc/custom-nav.php:237
+#: framework/widgets/info-footer.php:126
+#: framework/widgets/subscribe.php:33
+msgid "Description"
+msgstr "Mô tả"
+
+#: framework/inc/custom-nav.php:239
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Mô tả sẽ được hiển thị trong menu nếu theme hiện tại hỗ trợ "
+
+#: framework/inc/custom-nav.php:247
+msgid "Input Icon"
+msgstr "Nhập biểu tượng"
+
+#: framework/inc/custom-nav.php:257
+#, php-format
+msgid "Original: %s"
+msgstr "Nguồn gốc: %s"
+
+#: framework/inc/custom-nav.php:270
+#: framework/option-framework/inc/class.options_machine.php:842
+#: framework/option-framework/inc/class.options_machine.php:922
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: framework/inc/custom-nav.php:271
+msgid "Cancel"
+msgstr "Hủy"
+
+#: framework/inc/helper.php:174
+msgid "No Slider"
+msgstr "No Slider"
+
+#: framework/option-framework/inc/class.options_machine.php:273
+msgid "Line height"
+msgstr "Chiều cao dòng"
+
+#: framework/option-framework/inc/class.options_machine.php:287
+msgid "Font family"
+msgstr "Phông chữ family"
+
+#: framework/option-framework/inc/class.options_machine.php:290
+msgid "Arial"
+msgstr "Arial"
+
+#: framework/option-framework/inc/class.options_machine.php:291
+msgid "Verdana"
+msgstr "Verdana"
+
+#: framework/option-framework/inc/class.options_machine.php:292
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: framework/option-framework/inc/class.options_machine.php:293
+msgid "Georgia"
+msgstr "Georgia"
+
+#: framework/option-framework/inc/class.options_machine.php:294
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: framework/option-framework/inc/class.options_machine.php:295
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: framework/option-framework/inc/class.options_machine.php:296
+msgid "Palatino"
+msgstr "Palatino"
+
+#: framework/option-framework/inc/class.options_machine.php:297
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: framework/option-framework/inc/class.options_machine.php:421
+msgid "System Requirements"
+msgstr "Yêu cầu hệ thống"
+
+#: framework/option-framework/inc/class.options_machine.php:469
+msgid "Add New Slide"
+msgstr "Thêm Slide"
+
+#: framework/option-framework/inc/class.options_machine.php:478
+msgid "Option"
+msgstr "Tùy chọn"
+
+#: framework/option-framework/inc/class.options_machine.php:479
+msgid "Add New Option"
+msgstr "Thêm tùy chọn"
+
+#: framework/option-framework/inc/class.options_machine.php:499
+msgid "Social"
+msgstr " Mạng xã hội"
+
+#: framework/option-framework/inc/class.options_machine.php:500
+msgid "Add New Social"
+msgstr "Thêm mạng xã hội mới"
+
+#: framework/option-framework/inc/class.options_machine.php:629
+msgid "Last Backup : "
+msgstr "Sao lưu lần cuối:"
+
+#: framework/option-framework/inc/class.options_machine.php:630
+#: framework/theme-option.php:939
+msgid "Backup Options"
+msgstr "Tùy chọn sao lưu"
+
+#: framework/option-framework/inc/class.options_machine.php:631
+msgid "Restore Options"
+msgstr "Tùy chọn khôi phục"
+
+#: framework/option-framework/inc/class.options_machine.php:645
+msgid "Import Options"
+msgstr "Tùy chọn nhập"
+
+#: framework/option-framework/inc/class.options_machine.php:839
+#: framework/option-framework/inc/class.options_machine.php:919
+msgid "Upload"
+msgstr "Tải lên "
+
+#: framework/option-framework/inc/class.options_machine.php:846
+msgid "Upgrade your version of WordPress for full media support"
+msgstr "Nâng cấp phiên bản WordPress của bạn để được hỗ trợ phương tiện đầy đủ"
+
+#: framework/option-framework/inc/class.options_machine.php:904
+msgid "Slide"
+msgstr "Trang trình bày"
+
+#: framework/option-framework/inc/class.options_machine.php:913
+#: framework/widgets/info-footer.php:125
+#: framework/widgets/subscribe.php:32
+msgid "Title"
+msgstr "Tựa đề"
+
+#: framework/option-framework/inc/class.options_machine.php:916
+msgid "Image URL"
+msgstr "URL ảnh"
+
+#: framework/option-framework/inc/class.options_machine.php:933
+msgid "Link URL (optional)"
+msgstr "URL đường dẫn (tùy chọn)"
+
+#: framework/option-framework/inc/class.options_machine.php:936
+msgid "Description (optional)"
+msgstr "Mô tả (tùy chọn)"
+
+#: framework/option-framework/inc/class.options_machine.php:939
+#: framework/option-framework/inc/class.options_machine.php:992
+#: framework/option-framework/inc/class.options_machine.php:1046
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: framework/option-framework/inc/class.options_machine.php:1068
+msgid "<span class=\"label1\">PHP Version: </span>"
+msgstr "<span class=\"label1\">PHP Version: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+#: framework/option-framework/inc/class.options_machine.php:1072
+#: framework/option-framework/inc/class.options_machine.php:1080
+#: framework/option-framework/inc/class.options_machine.php:1082
+#: framework/option-framework/inc/class.options_machine.php:1090
+#: framework/option-framework/inc/class.options_machine.php:1092
+#, php-format
+msgid "<span class=\"label2\">Currently: %s</span>"
+msgstr "<span class=\"label2\">Currently: %s</span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+msgid "Min: 5.3"
+msgstr "Min: 5.3"
+
+#: framework/option-framework/inc/class.options_machine.php:1078
+msgid "<span class=\"label1\">Maximum execution time: </span>"
+msgstr "<span class=\"label1\">Maximum execution time: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1080
+msgid "Min: 90"
+msgstr "Min: 90"
+
+#: framework/option-framework/inc/class.options_machine.php:1088
+msgid "<span class=\"label1\">Memory Limit: </span>"
+msgstr "<span class=\"label1\">Memory Limit: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1090
+msgid "Min: 128M"
+msgstr "Min: 128M"
+
+#: framework/option-framework/inc/class.options_machine.php:1098
+msgid "<span class=\"label1\">Uploads folder writable: </span>"
+msgstr "<span class=\"label1\">Uploads folder writable: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1108
+msgid "<span class=\"label1\">Connect InwaveThemes Server: </span>"
+msgstr "<span class=\"label1\">Connect InwaveThemes Server: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1118
+msgid "<span class=\"label1\">Start Session: </span>"
+msgstr "<span class=\"label1\">Start Session: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1124
+msgid "<span class=\"label2\">Failed to start session. Please check session save_path in your php setting</span>"
+msgstr "<span class=\"label2\">Failed to start session. Please check session save_path in your php setting</span>"
+
+#: framework/option-framework/inc/view.fontend_options.php:4
+msgid "Options Updated"
+msgstr "Tùy chọn được cập nhật"
+
+#: framework/option-framework/inc/view.fontend_options.php:8
+msgid "Options Reset"
+msgstr "Đặt lại tùy chọn"
+
+#: framework/option-framework/inc/view.fontend_options.php:12
+msgid "Error!"
+msgstr "Lỗi "
+
+#: framework/option-framework/inc/view.fontend_options.php:33
+msgid "Working..."
+msgstr "Đang hoạt động..."
+
+#: framework/option-framework/inc/view.fontend_options.php:36
+msgid "Save Change"
+msgstr "Lưu thay đổi"
+
+#: framework/option-framework/inc/view.fontend_options.php:56
+msgid "Imported successfully!"
+msgstr "Đã nhập thành công!"
+
+#: framework/theme-function.php:90
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: framework/theme-function.php:90
+msgid "(Edit)"
+msgstr "(Chỉnh sửa)"
+
+#: framework/theme-function.php:106
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid " %s ago"
+msgstr " %s trước đây"
+
+#: framework/theme-function.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Nhận xét của bạn đang chờ kiểm duyệt."
+
+#: framework/theme-function.php:114
+msgid "Reply"
+msgstr "Phản hồi"
+
+#: framework/theme-function.php:192
+#: framework/theme-function.php:241
+#: framework/theme-function.php:412
+msgctxt "title"
+msgid "Share on Facebook"
+msgstr "Chia sẻ trên Facebook"
+
+#: framework/theme-function.php:196
+#: framework/theme-function.php:249
+msgctxt "title"
+msgid "Share on Twitter"
+msgstr "Chia sẻ trên Twitter"
+
+#: framework/theme-function.php:200
+msgctxt "title"
+msgid "Share on Linkedin"
+msgstr "Chia sẻ trên LinkedIn"
+
+#: framework/theme-function.php:204
+#: framework/theme-function.php:245
+msgctxt "title"
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-function.php:208
+msgctxt "title"
+msgid "Share on Tumblr"
+msgstr "Chia sẻ trên Tumblr"
+
+#: framework/theme-function.php:212
+msgctxt "title"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-function.php:215
+msgctxt "title"
+msgid "I wanted you to see this site"
+msgstr "Tôi muốn bạn xem trang này"
+
+#: framework/theme-function.php:216
+msgctxt "title"
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-metabox.php:41
+msgid "Page Options"
+msgstr "Tùy chọn trang"
+
+#: framework/theme-metabox.php:48
+msgid "Main Color"
+msgstr "Màu chủ đạo"
+
+#: framework/theme-metabox.php:54
+msgid "Background Color Page"
+msgstr "Trang màu nền"
+
+#: framework/theme-metabox.php:60
+msgid "Select Revolution  Slider"
+msgstr "Chọn Revolution  Slider"
+
+#: framework/theme-metabox.php:67
+#: framework/theme-option.php:76
+msgid "Show preload"
+msgstr "Hiển thị tải trước"
+
+#: framework/theme-metabox.php:71
+#: framework/theme-metabox.php:109
+#: framework/theme-metabox.php:125
+#: framework/theme-metabox.php:177
+#: framework/theme-metabox.php:187
+#: framework/theme-metabox.php:197
+#: framework/theme-metabox.php:212
+#: framework/theme-metabox.php:222
+#: framework/theme-metabox.php:232
+#: framework/theme-metabox.php:242
+#: framework/theme-metabox.php:266
+#: framework/theme-metabox.php:319
+#: framework/theme-metabox.php:371
+msgid "Default"
+msgstr "Mặc định"
+
+#: framework/theme-metabox.php:72
+#: framework/theme-metabox.php:126
+#: framework/theme-metabox.php:178
+#: framework/theme-metabox.php:188
+#: framework/theme-metabox.php:198
+#: framework/theme-metabox.php:213
+#: framework/theme-metabox.php:223
+#: framework/theme-metabox.php:233
+#: framework/theme-metabox.php:243
+#: framework/theme-metabox.php:253
+#: framework/theme-metabox.php:267
+#: framework/theme-metabox.php:299
+#: framework/theme-metabox.php:320
+#: framework/theme-metabox.php:357
+#: framework/theme-metabox.php:372
+#: framework/theme-metabox.php:408
+#: framework/theme-metabox.php:435
+#: framework/theme-option.php:716
+#: framework/theme-option.php:777
+msgid "Yes"
+msgstr "Có"
+
+#: framework/theme-metabox.php:73
+#: framework/theme-metabox.php:127
+#: framework/theme-metabox.php:179
+#: framework/theme-metabox.php:189
+#: framework/theme-metabox.php:199
+#: framework/theme-metabox.php:214
+#: framework/theme-metabox.php:224
+#: framework/theme-metabox.php:234
+#: framework/theme-metabox.php:244
+#: framework/theme-metabox.php:252
+#: framework/theme-metabox.php:268
+#: framework/theme-metabox.php:298
+#: framework/theme-metabox.php:321
+#: framework/theme-metabox.php:358
+#: framework/theme-metabox.php:373
+#: framework/theme-metabox.php:409
+#: framework/theme-metabox.php:436
+#: framework/theme-option.php:717
+#: framework/theme-option.php:778
+msgid "No"
+msgstr "Không"
+
+#: framework/theme-metabox.php:77
+#: framework/theme-register.php:238
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: framework/theme-metabox.php:83
+msgid "Show Page For"
+msgstr "Hiển thị trang cho"
+
+#: framework/theme-metabox.php:88
+msgid "Anyone"
+msgstr "Bất kỳ ai"
+
+#: framework/theme-metabox.php:89
+msgid "Only Users Registered"
+msgstr "Chỉ người dùng đã đăng ký"
+
+#: framework/theme-metabox.php:93
+#: framework/theme-metabox.php:391
+msgid "Extra class"
+msgstr "Extra class"
+
+#: framework/theme-metabox.php:94
+#: framework/theme-metabox.php:392
+msgid "Add extra class for page content"
+msgstr "thêm extra class cho trang nội dung"
+
+#: framework/theme-metabox.php:100
+#: framework/theme-option.php:393
+msgid "Header Options"
+msgstr "Tùy chọn Header "
+
+#: framework/theme-metabox.php:105
+msgid "Header style"
+msgstr "Kiểu Header "
+
+#: framework/theme-metabox.php:110
+#: framework/theme-option.php:9
+msgid "None"
+msgstr "Không"
+
+#: framework/theme-metabox.php:111
+msgid "Header Style 1"
+msgstr "Kiểu Header  1"
+
+#: framework/theme-metabox.php:112
+msgid "Header Style 2"
+msgstr "Kiểu  Header  2"
+
+#: framework/theme-metabox.php:113
+msgid "Header Style 3"
+msgstr "Kiểu Header 3"
+
+#: framework/theme-metabox.php:114
+msgid "Header Style 4"
+msgstr "Kiểu Header 4"
+
+#: framework/theme-metabox.php:115
+msgid "Header Style 5"
+msgstr "Kiểu Header  5"
+
+#: framework/theme-metabox.php:116
+msgid "Header Style 6"
+msgstr "Kiểu Header  6"
+
+#: framework/theme-metabox.php:117
+#, fuzzy
+#| msgid "Header Style 1"
+msgid "Header Style 7"
+msgstr "Kiểu Header  1"
+
+#: framework/theme-metabox.php:121
+#: framework/theme-option.php:416
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: framework/theme-metabox.php:131
+msgid "Change logo"
+msgstr "Thay đổi logo"
+
+#: framework/theme-metabox.php:136
+msgid "Change logo sticky"
+msgstr "Đổi  logo sticky"
+
+#: framework/theme-metabox.php:141
+msgid "Change logo mobile"
+msgstr "Đổi logo di động"
+
+#: framework/theme-metabox.php:146
+#: framework/theme-option.php:467
+msgid "Background Color Header"
+msgstr "Màu nền Header "
+
+#: framework/theme-metabox.php:151
+#: framework/theme-option.php:473
+msgid "Opacity Background Color Header"
+msgstr "Màu nền trong suốt  Header "
+
+#: framework/theme-metabox.php:154
+#: framework/theme-metabox.php:165
+#: framework/theme-metabox.php:312
+msgid "Allow value from 0 to 1 (style 2)"
+msgstr ""
+
+#: framework/theme-metabox.php:157
+#: framework/theme-option.php:479
+msgid "Background Color Top Bar Header"
+msgstr "Màu nền Top Bar Header"
+
+#: framework/theme-metabox.php:162
+#: framework/theme-option.php:485
+msgid "Opacity Background Color Top Bar Header"
+msgstr "Màu nền Top Bar Header"
+
+#: framework/theme-metabox.php:168
+#: framework/theme-option.php:499
+msgid "Background Color Header Sticky"
+msgstr "Màu nền Header Sticky"
+
+#: framework/theme-metabox.php:173
+#: framework/theme-option.php:511
+msgid "Show login/register button"
+msgstr "Hiển thị button đăng việc làm"
+
+#: framework/theme-metabox.php:183
+#: framework/theme-option.php:517
+msgid "Show post a job button"
+msgstr "Hiển thị button đăng việc làm"
+
+#: framework/theme-metabox.php:193
+#: framework/theme-option.php:523
+msgid "Show Buy Package button"
+msgstr "Hiểm thị button Buy Package"
+
+#: framework/theme-metabox.php:203
+msgid "Buy Package URL"
+msgstr "Mua gói URL"
+
+#: framework/theme-metabox.php:208
+#: framework/theme-option.php:535
+msgid "Show search form button"
+msgstr "Hiển thị biểu mẫu tìm kiếm"
+
+#: framework/theme-metabox.php:218
+#: framework/theme-option.php:541
+msgid "Show Cart Button"
+msgstr "Hiển thị giỏ hàng"
+
+#: framework/theme-metabox.php:228
+#: framework/theme-option.php:547
+msgid "Show Notification"
+msgstr "Hiển thị thông báo mới"
+
+#: framework/theme-metabox.php:238
+#: framework/theme-option.php:564
+msgid "Show Social Header"
+msgstr "Hiển thị Social Header"
+
+#: framework/theme-metabox.php:248
+msgid "Show Search Form On Header"
+msgstr "Hiển thị tìm kiếm ở Header"
+
+#: framework/theme-metabox.php:257
+#: framework/theme-option.php:573
+msgid "Page Heading Options"
+msgstr "Tùy chọn tiêu đề trang"
+
+#: framework/theme-metabox.php:262
+#: framework/theme-option.php:65
+msgid "Show page heading"
+msgstr "Hiển thị tiêu đề trang"
+
+#: framework/theme-metabox.php:272
+msgid "Page heading background image"
+msgstr "Hình nền của tiêu đề trang"
+
+#: framework/theme-metabox.php:277
+msgid "Page heading background color"
+msgstr "Màu nền của tiêu đề trang"
+
+#: framework/theme-metabox.php:282
+#: framework/theme-option.php:576
+msgid "Page Heading Padding Top"
+msgstr "Page Heading Padding Top"
+
+#: framework/theme-metabox.php:285
+#: framework/theme-metabox.php:291
+#: framework/theme-option.php:577
+#: framework/theme-option.php:583
+msgid "In pixels, ex: 10px"
+msgstr "Bằng pixels, VD: 10px"
+
+#: framework/theme-metabox.php:288
+#: framework/theme-option.php:582
+msgid "Page Heading Padding Bottom"
+msgstr "Page Heading Padding Bottom"
+
+#: framework/theme-metabox.php:294
+msgid "Show Search Form On Page Heading"
+msgstr "Hiển thị biểu mẫu tìm kiếm trên tiêu đề trang"
+
+#: framework/theme-metabox.php:303
+msgid "Search Form background color"
+msgstr "Màu nền Breadcrumbs"
+
+#: framework/theme-metabox.php:306
+msgid "Only for Show Search Form at style 2"
+msgstr ""
+
+#: framework/theme-metabox.php:309
+msgid "Search Form background color opacity"
+msgstr "tùy chọn màu nền của tiêu đề trang."
+
+#: framework/theme-metabox.php:315
+msgid "Show page breadcrumb"
+msgstr "Hiển thị trang breadcrumb"
+
+#: framework/theme-metabox.php:325
+msgid "Sidebar Options"
+msgstr "Tùy chọn Sidebar"
+
+#: framework/theme-metabox.php:330
+#: framework/theme-metabox.php:413
+#: framework/theme-option.php:689
+#: framework/theme-option.php:754
+msgid "Sidebar Position"
+msgstr "Vị trí Sidebar"
+
+#: framework/theme-metabox.php:334
+#: framework/theme-metabox.php:380
+#: framework/theme-metabox.php:417
+#: framework/theme-metabox.php:434
+msgid "Default Theme Option"
+msgstr "Tùy chọn mặc định theme"
+
+#: framework/theme-metabox.php:335
+#: framework/theme-metabox.php:418
+#: framework/theme-option.php:695
+#: framework/theme-option.php:760
+msgid "Without Sidebar"
+msgstr "Không có Sidebar"
+
+#: framework/theme-metabox.php:336
+#: framework/theme-metabox.php:419
+#: framework/theme-option.php:696
+#: framework/theme-option.php:761
+msgid "Right"
+msgstr "Phải"
+
+#: framework/theme-metabox.php:337
+#: framework/theme-metabox.php:420
+#: framework/theme-option.php:697
+#: framework/theme-option.php:762
+msgid "Left"
+msgstr "trái"
+
+#: framework/theme-metabox.php:341
+#: framework/theme-metabox.php:424
+#: framework/theme-option.php:675
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: framework/theme-metabox.php:347
+msgid "Sidebar 2"
+msgstr "Sidebar 2"
+
+#: framework/theme-metabox.php:353
+#: framework/theme-metabox.php:430
+#: framework/theme-option.php:711
+#: framework/theme-option.php:772
+msgid "Sticky Sidebar"
+msgstr "Sticky Sidebar"
+
+#: framework/theme-metabox.php:362
+msgid "Footer Options"
+msgstr "Tùy chọn chân trang"
+
+#: framework/theme-metabox.php:367
+#: framework/theme-option.php:636
+msgid "Show Footer"
+msgstr "Hiển thị trang cho"
+
+#: framework/theme-metabox.php:384
+msgid "Post Options"
+msgstr "Tùy chọn bài đăng"
+
+#: framework/theme-metabox.php:398
+msgid "Heading image"
+msgstr "Hình ảnh tiêu đề"
+
+#: framework/theme-metabox.php:399
+msgid "If blank we will use the featured image."
+msgstr "Nếu để trống chúng tôi sẽ dùng ảnh nổi bật"
+
+#: framework/theme-metabox.php:404
+msgid "Show Featured Image"
+msgstr "Hiển thị ảnh nổi bật"
+
+#: framework/theme-option.php:57
+msgid "General setting"
+msgstr "Cài đặt chung"
+
+#: framework/theme-option.php:60
+msgid "Show demo setting panel"
+msgstr "Hiển thị bảng cài đặt demo"
+
+#: framework/theme-option.php:61
+msgid "Check this box to active the setting panel. This panel should be shown only in demo mode"
+msgstr "Chọn hộp này để kích hoạt bảng cài đặt. Bảng này chỉ được hiển thị ở chế độ demo"
+
+#: framework/theme-option.php:66
+msgid "Check this box to show or hide page heading"
+msgstr "Chọn hộp này để hiển thị hoặc ẩn tiêu đề trang"
+
+#: framework/theme-option.php:71
+msgid "Show breadcrumbs"
+msgstr "Hiển thị đường dẫn"
+
+#: framework/theme-option.php:72
+msgid "Check to display the breadcrumbs in general. Uncheck to hide them."
+msgstr "Chọn hiển thị đường dẫn nói chung. Bỏ chọn để ẩn."
+
+#: framework/theme-option.php:77
+msgid "Check to display the preload page."
+msgstr "Chọn để hiển thị trang tải trước."
+
+#: framework/theme-option.php:81
+msgid "Develop mode"
+msgstr "Chế độ nâng cấp"
+
+# compile
+#: framework/theme-option.php:82
+msgid "Check this box to active develop theme mode. For example, it will always compile the color file"
+msgstr "Chọn hộp này để kích hoạt chế độ theme nâng cấo. Ví dụ, nó sẽ luôn biên soạn tệp tin màu"
+
+#: framework/theme-option.php:87
+msgid "Layout"
+msgstr "Bố cục"
+
+# ???
+#: framework/theme-option.php:88
+msgid "Select boxed or wide layout."
+msgstr "Chọ đóng khung hoặc bố cục rộng."
+
+#: framework/theme-option.php:93
+msgid "Boxed"
+msgstr "Đóng khung"
+
+#: framework/theme-option.php:94
+msgid "Wide"
+msgstr "Chiều rộng"
+
+#: framework/theme-option.php:96
+msgid "Include WooCommerce libraries globally"
+msgstr ""
+
+#: framework/theme-option.php:97
+msgid "Load WooCommerce styles and scripts on all pages"
+msgstr ""
+
+#: framework/theme-option.php:102
+msgid "Please choose an image or insert an image url to use for the background."
+msgstr "Vui lòng chọn một hình ảnh hoặc chèn hình ảnh để sử dụng cho nền"
+
+#: framework/theme-option.php:109
+#: framework/theme-option.php:602
+msgid "Background Image Size"
+msgstr "Kích thước hình nền"
+
+#: framework/theme-option.php:110
+msgid "Select background image size."
+msgstr "Chọn kích thước hình nền."
+
+#: framework/theme-option.php:114
+#: framework/theme-option.php:608
+msgid "auto"
+msgstr "tự động"
+
+#: framework/theme-option.php:114
+#: framework/theme-option.php:609
+msgid "cover"
+msgstr "bìa"
+
+#: framework/theme-option.php:114
+#: framework/theme-option.php:610
+msgid "contain"
+msgstr "chứa"
+
+#: framework/theme-option.php:117
+#: framework/theme-option.php:614
+msgid "Background Repeat"
+msgstr "Hình nền lặp lại"
+
+#: framework/theme-option.php:118
+#: framework/theme-option.php:615
+msgid "Choose how the background image repeats."
+msgstr "Chọn cách hình nền lặp lại "
+
+#: framework/theme-option.php:122
+#: framework/theme-option.php:619
+msgid "repeat"
+msgstr "lặp lại"
+
+#: framework/theme-option.php:122
+#: framework/theme-option.php:619
+msgid "repeat-x"
+msgstr "lặp lại - x"
+
+#: framework/theme-option.php:122
+#: framework/theme-option.php:619
+msgid "repeat-y"
+msgstr "lặp lại - y"
+
+#: framework/theme-option.php:122
+#: framework/theme-option.php:619
+msgid "no-repeat"
+msgstr "không lặp lại"
+
+#: framework/theme-option.php:126
+msgid "Typography"
+msgstr "Typography"
+
+#: framework/theme-option.php:129
+msgid "Body Font Family"
+msgstr "Body Font Family"
+
+#: framework/theme-option.php:130
+msgid "Select a font family for body text"
+msgstr "Chọn phông chữ family cho trang web"
+
+#: framework/theme-option.php:135
+msgid "Body Font Settings"
+msgstr "Cài đặt Body Font "
+
+# ???
+#: framework/theme-option.php:136
+#: framework/theme-option.php:147
+#: framework/theme-option.php:158
+msgid "Adjust the settings below to load different character sets and types for fonts. More character sets and types equals to slower page load."
+msgstr "Chỉnh sửa cài đặt bên dưới để tải các bộ ký tự và loại phông chữ. Nhiều bộ ký tự và loại phông chữ đáp ứng được tốc độ tải trang chậm hơn"
+
+#: framework/theme-option.php:140
+msgid "Headings Font"
+msgstr "Font chữ tiêu đề"
+
+#: framework/theme-option.php:141
+msgid "Select a font family for headings"
+msgstr "Chọn một Font family cho tiêu đề"
+
+#: framework/theme-option.php:146
+msgid "Headings Font Settings"
+msgstr "Cài đặt font chữ tiêu đề"
+
+#: framework/theme-option.php:151
+msgid "Menu Font"
+msgstr "Font Menu"
+
+#: framework/theme-option.php:152
+msgid "Select a font family for navigation"
+msgstr "Chọn một font chữ Family cho điều hướng"
+
+#: framework/theme-option.php:157
+msgid "Menu Font Settings"
+msgstr "Cài đặt menu phông chữ"
+
+#: framework/theme-option.php:162
+msgid "Default Font Size"
+msgstr "Kích thước font chữ mặc định"
+
+#: framework/theme-option.php:163
+msgid "Default is 15px"
+msgstr "Mặc đinh là 15px"
+
+#: framework/theme-option.php:168
+msgid "Default Font Line Height"
+msgstr "Chiều cao dòng font chữ mặc định"
+
+#: framework/theme-option.php:169
+msgid "Default is 28px"
+msgstr "Mặc định là 28px"
+
+#: framework/theme-option.php:176
+msgid "Color presets"
+msgstr "Cài đặt trước màu"
+
+#: framework/theme-option.php:180
+msgid "Primary Color"
+msgstr "Màu gốc"
+
+#: framework/theme-option.php:181
+msgid "Controls several items, ex: link hovers, highlights, and more."
+msgstr "Kiểm soát một số mục, ví dụ: đường dẫn, điểm nổi bật và hơn thế nữa."
+
+#: framework/theme-option.php:185
+msgid "Content Background Color"
+msgstr "Màu nền của nội dung"
+
+#: framework/theme-option.php:186
+msgid "Controls the background color of the main content area."
+msgstr "tùy chọn màu nền của phần nội dung chính."
+
+#: framework/theme-option.php:190
+msgid "Body Background Color"
+msgstr "Màu nền phần thân"
+
+#: framework/theme-option.php:191
+msgid "Select a background color. Only show when you select General setting > layout > box."
+msgstr "Chọn màu nền. Chỉ hiển thị khi bạn chọn  General setting> layout>."
+
+#: framework/theme-option.php:195
+msgid "Body Text Color"
+msgstr "Văn bản phần thân"
+
+#: framework/theme-option.php:196
+msgid "Controls the text color of body font."
+msgstr "tùy chọn màu văn bản của  phần thân"
+
+#: framework/theme-option.php:200
+msgid "Link Color"
+msgstr "Màu của đường dẫn"
+
+#: framework/theme-option.php:201
+msgid "Controls the link color."
+msgstr "tùy chọn màu của đường dẫn"
+
+#: framework/theme-option.php:205
+msgid "Link Hover Color"
+msgstr "Màu khi di chuột vào đường dẫn"
+
+#: framework/theme-option.php:206
+msgid "Controls the link hover color."
+msgstr "tùy chọn màu khi di chuột vào đường dẫn."
+
+#: framework/theme-option.php:210
+msgid "Blockquote Color"
+msgstr "Màu của Blockquote "
+
+#: framework/theme-option.php:211
+msgid "Controls the color of blockquote."
+msgstr "Tùy chọn màu của blockquote."
+
+#: framework/theme-option.php:216
+#: framework/theme-option.php:256
+#: framework/theme-option.php:307
+#: framework/theme-option.php:361
+msgid "Color Scheme"
+msgstr "Lược đồ màu"
+
+#: framework/theme-option.php:219
+msgid "Page Title & Breadcrumb Color"
+msgstr "Tiêu đề trang và màu trang breadcrumb"
+
+#: framework/theme-option.php:223
+msgid "Page Title Color"
+msgstr "Màu tiêu đề trang"
+
+#: framework/theme-option.php:224
+msgid "Controls the text color of the page title."
+msgstr "tùy chọn màu văn bản của tiêu đề trang."
+
+#: framework/theme-option.php:228
+msgid "Page Title Background Color"
+msgstr "Màu nền của tiêu đề trang"
+
+#: framework/theme-option.php:229
+msgid "Controls background color of the page title."
+msgstr "tùy chọn màu nền của tiêu đề trang."
+
+#: framework/theme-option.php:233
+msgid "Breadcrumbs Background Color"
+msgstr "Màu nền Breadcrumbs"
+
+#: framework/theme-option.php:234
+msgid "Controls the background color of the breadcrumb."
+msgstr "tùy chọn màu nền của breadcrumb"
+
+#: framework/theme-option.php:238
+msgid "Breadcrumbs Text Color"
+msgstr "Màu văn bản của Breadcrumb"
+
+#: framework/theme-option.php:239
+msgid "Controls the text color of the breadcrumb."
+msgstr "Tùy chọn màu văn bản của breadcrumb"
+
+#: framework/theme-option.php:243
+msgid "Breadcrumbs Link Color"
+msgstr "Màu đường dẫn của Breadcrumbs"
+
+#: framework/theme-option.php:244
+msgid "Controls the link color of the breadcrumb."
+msgstr "tùy chọn màu đường dẫn của breadcrumb"
+
+#: framework/theme-option.php:248
+msgid "Breadcrumbs Link Hover Color"
+msgstr "Màu khi di chuột vào đường dẫn của Breadcrumbs"
+
+# control the color when user hovers on the links on the breadcrumb.
+#: framework/theme-option.php:249
+msgid "control the color when user hovers on the links on the breadcrumb."
+msgstr "Tùy chọn màu khi di chuột vào đường dẫn của breadcrumb."
+
+#: framework/theme-option.php:259
+msgid "Header Color"
+msgstr "Màu Header"
+
+#: framework/theme-option.php:263
+msgid "Top bar Color"
+msgstr "Màu Top Bar"
+
+#: framework/theme-option.php:264
+msgid "Select a color for the top bar text."
+msgstr "Chọn màu văn bản trên Top Bar"
+
+#: framework/theme-option.php:268
+msgid "Menu Link Color"
+msgstr "Màu menu đường dẫn"
+
+#: framework/theme-option.php:269
+msgid "Select a color for the header link."
+msgstr "Chọn màu cho header link"
+
+# ???
+#: framework/theme-option.php:273
+msgid "Menu Header Sticky Link Color"
+msgstr "Màu Menu Header gắn trên đường dẫn"
+
+#: framework/theme-option.php:274
+msgid "Select a color for the menu header sticky link hover."
+msgstr "chọn màu khi di chuột vào menu header gắn trên đường dẫn"
+
+#: framework/theme-option.php:278
+msgid "Menu Link Hover Color"
+msgstr "Màu liên kết khi hover"
+
+#: framework/theme-option.php:279
+msgid "Select a color for the header link hover."
+msgstr "Chọn màu liên kết trên header khi hover"
+
+#: framework/theme-option.php:283
+msgid "Sub Menu Link Color"
+msgstr "Màu liên kết của trình đơn phụ"
+
+#: framework/theme-option.php:284
+msgid "Select a color for the header sub link."
+msgstr "Chọn  màu cho header sub link."
+
+#: framework/theme-option.php:288
+msgid "Sub Menu Link Hover Color"
+msgstr "Màu khi di chuột vào Sub Menu Link "
+
+#: framework/theme-option.php:289
+msgid "Select a color for the header sub link hover."
+msgstr "Chọn màu cho header sub link khi di chuột"
+
+#: framework/theme-option.php:293
+msgid "Submenu Background Color"
+msgstr "Màu nền màu nền của sub menu"
+
+#: framework/theme-option.php:294
+msgid "Select a background color for submenu."
+msgstr "Chọn màu nền cho submenu"
+
+#: framework/theme-option.php:298
+msgid "SubMenu Border Color"
+msgstr "Màu viền  của submenu"
+
+#: framework/theme-option.php:299
+msgid "Select a border color for the submenu."
+msgstr "chọn màu viền cho submenu"
+
+#: framework/theme-option.php:310
+msgid "Footer Color"
+msgstr "Màu chân trang"
+
+#: framework/theme-option.php:315
+msgid "Footer Background Color"
+msgstr "Màu nền chân trang"
+
+#: framework/theme-option.php:316
+msgid "Select a color for the footer background."
+msgstr "Chọn màu nền chân trang"
+
+#: framework/theme-option.php:321
+msgid "Footer Border Color"
+msgstr "Màu viền chân trang"
+
+#: framework/theme-option.php:322
+msgid "Select a color for the footer border."
+msgstr "Chọn màu viền chân trang"
+
+#: framework/theme-option.php:328
+msgid "Footer Headings Color"
+msgstr "Màu tiêu đề chân trang"
+
+#: framework/theme-option.php:329
+msgid "Controls the text color of the footer heading font."
+msgstr "Chọn màu văn bản của tiêu đề chân trang"
+
+#: framework/theme-option.php:334
+msgid "Footer Text Color"
+msgstr "Màu văn bản chân trang"
+
+#: framework/theme-option.php:335
+msgid "Controls the text color of the footer."
+msgstr "Tùy chọn màu văn bản của chân trang"
+
+#: framework/theme-option.php:340
+msgid "Footer Link Color"
+msgstr "Màu liên kết chân trang"
+
+#: framework/theme-option.php:341
+msgid "Controls the text color of the footer link font."
+msgstr "Tùy chọn màu văn bản của liên kết chân trang"
+
+#: framework/theme-option.php:346
+msgid "Footer Link Hover Color"
+msgstr "Màu khi di chuột vào liên kết chân trang"
+
+#: framework/theme-option.php:347
+msgid "Controls the link hover color of the footer link."
+msgstr "tùy chọn màu khi di chuột vào liên kết chân trang"
+
+#: framework/theme-option.php:352
+msgid "Footer Link Border Color"
+msgstr "Màu viền liên kết chân trang"
+
+#: framework/theme-option.php:353
+msgid "Controls the link border color of the footer link."
+msgstr "Tùy chọn màu viền liên kết của liên kết chân trang"
+
+#: framework/theme-option.php:364
+msgid "Copyright Color"
+msgstr "Màu Copyright"
+
+#: framework/theme-option.php:368
+msgid "Copyright Background Color"
+msgstr "Màu nền của Copyright"
+
+#: framework/theme-option.php:369
+msgid "Controls the background color of the copyright section."
+msgstr "Tùy chọn màu nền của mục Copyright"
+
+#: framework/theme-option.php:373
+msgid "Copyright Text Color"
+msgstr "Màu văn bản của Copyright"
+
+#: framework/theme-option.php:374
+msgid "Controls the text color of the breadcrumb font."
+msgstr "Tùy chọn màu văn bản của breadcrumb font"
+
+#: framework/theme-option.php:378
+msgid "Copyright Link Color"
+msgstr "Màu liên kết Copyright"
+
+#: framework/theme-option.php:379
+msgid "Controls the link color of the breadcrumb font."
+msgstr "tùy chọn màu văn bản đường dẫn của breadcrumb font"
+
+#: framework/theme-option.php:383
+msgid "Copyright Link Hover Color"
+msgstr "Màu khi di chuột vào liên kết Copyright"
+
+#: framework/theme-option.php:384
+msgid "Controls the link hover color of the Copyright."
+msgstr "Tùy chin màu khi di chuột vào liên kết của Copyright"
+
+#: framework/theme-option.php:396
+#: framework/theme-option.php:570
+msgid "Header Info"
+msgstr "Thông tin Header"
+
+#: framework/theme-option.php:399
+msgid "Header Content Options"
+msgstr "Tùy chọn nội dung Header"
+
+#: framework/theme-option.php:402
+msgid "Select a Header Layout"
+msgstr "Chọn Header Layout"
+
+#: framework/theme-option.php:417
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr "Chọn để bật cố định header khi cuộn xuống, Không chọn để tắt"
+
+#: framework/theme-option.php:422
+msgid "Sticky Header On Mobile"
+msgstr "Stickey Header trên điện thoại"
+
+#: framework/theme-option.php:423
+msgid "Check to enable a fixed header when scrolling, uncheck to disable on Mobile."
+msgstr "Chọn để bật cố định header khi cuộn xuống, bỏ chọn để tắt trên di động"
+
+#: framework/theme-option.php:429
+msgid "Logo"
+msgstr "Logo"
+
+#: framework/theme-option.php:430
+msgid "Please choose an image file for your logo."
+msgstr "Chọn một ảnh làm logo của bạn"
+
+#: framework/theme-option.php:437
+msgid "Logo Sticky"
+msgstr "Logo Sticky"
+
+#: framework/theme-option.php:438
+msgid "Please choose an image file for your logo sticky."
+msgstr "Chọn ảnh làm logo sticky"
+
+#: framework/theme-option.php:445
+msgid "Logo Mobile"
+msgstr "Logo trên điện thoại"
+
+#: framework/theme-option.php:446
+msgid "Please choose an image file for your logo mobile."
+msgstr "Chọn ảnh làm logo trên điện thoại của bạn"
+
+#: framework/theme-option.php:452
+msgid "Link Logo"
+msgstr "Liên kết của Logo"
+
+#: framework/theme-option.php:453
+msgid "Default links point to the home page"
+msgstr "Mặc định sẽ liên kết tới trang chủ"
+
+#: framework/theme-option.php:460
+msgid "Background Image Header"
+msgstr "Ảnh nền header"
+
+#: framework/theme-option.php:461
+msgid "Please choose an image file for your background header."
+msgstr "Chọn ảnh để làm nền header"
+
+#: framework/theme-option.php:468
+msgid "Please choose an color for your background header."
+msgstr "Chọn màu nền cho header sticky"
+
+#: framework/theme-option.php:474
+#: framework/theme-option.php:486
+#: framework/theme-option.php:627
+msgid "Please enter the value from 0 to 1."
+msgstr "Vui lòng nhập giá trị"
+
+#: framework/theme-option.php:480
+msgid "Please choose an color for your background top b header."
+msgstr "Chọn màu nền cho header sticky"
+
+#: framework/theme-option.php:492
+msgid "Background Image Header Sticky"
+msgstr "Ảnh nền cho Header Sticky"
+
+#: framework/theme-option.php:493
+msgid "Please choose an image file for your background header sticky."
+msgstr "Chọn ảnh làm ảnh nền header sticky"
+
+#: framework/theme-option.php:500
+msgid "Please choose an color for your background header sticky."
+msgstr "Chọn màu nền cho header sticky"
+
+#: framework/theme-option.php:505
+msgid "Header contact"
+msgstr "Header liên hệ"
+
+#: framework/theme-option.php:506
+msgid "Enter information contact for default header."
+msgstr "Nhập thông tin liên hệ cho header mặc định"
+
+#: framework/theme-option.php:512
+msgid "Show or hidden Button Login and User register in Header."
+msgstr "Hiện hoặc ẩn"
+
+#: framework/theme-option.php:518
+msgid "Show or hidden post a job button in Header."
+msgstr "Hiển thị hay ẩn phím đăng việc làm trên Header"
+
+#: framework/theme-option.php:524
+msgid "Show or hidden Buy Package button in Header."
+msgstr "Hiện hay ẩn liên kết Mua gói dịch vụ ở Header"
+
+#: framework/theme-option.php:529
+msgid "Buy Package URL "
+msgstr "Liên kết mua gói dịch vụ"
+
+#: framework/theme-option.php:530
+msgid "You can leave blank OR set an url OR an ID of the element"
+msgstr "Để trống hoặc cài đặt một URL hoặc ID cho mỗi thành phần"
+
+#: framework/theme-option.php:536
+msgid "Show or hidden search form button in Header."
+msgstr "Hiện hay ẩn phím Search Form ở Header"
+
+#: framework/theme-option.php:542
+msgid "Show or hidden Cart button in Header."
+msgstr "Hiện hay ẩn phím Cart ở Header"
+
+#: framework/theme-option.php:548
+msgid "Show or hidden Notification in Header."
+msgstr "Hiện hay ẩn mạng xã hội ở Header"
+
+#: framework/theme-option.php:553
+msgid "Show Buy Theme Button"
+msgstr "Hiểm thị phím Buy Package"
+
+#: framework/theme-option.php:554
+msgid "Show or hidden Buy Theme button in Header."
+msgstr "Hiện hay ẩn phím Buy Package ở Header"
+
+#: framework/theme-option.php:559
+msgid "Buy Theme Button URL "
+msgstr ""
+
+#: framework/theme-option.php:565
+msgid "Show or hidden Social in Header."
+msgstr "Hiện hay ẩn mạng xã hội ở Header"
+
+#: framework/theme-option.php:588
+msgid "Page Heading Background Image"
+msgstr "Ảnh nền tiêu đề trang"
+
+# title = heading
+#: framework/theme-option.php:589
+msgid "Please choose an image or insert an image url to use for the page heading background."
+msgstr "Chọn một ảnh hoặc chèn URL ảnh cho nền tiêu đề trang"
+
+#: framework/theme-option.php:595
+msgid "Page Heading Background Color"
+msgstr "màu nền tiêu đề trang"
+
+# title = heading
+#: framework/theme-option.php:596
+msgid "Please choose an color to use for the page heading background."
+msgstr "Chọn màu để dùng cho màu nền tiêu đề trang"
+
+# tittle = heading
+#: framework/theme-option.php:603
+msgid "Select Page Heading background image size."
+msgstr "Chọn kích thước ảnh nền trang tiêu đề "
+
+#: framework/theme-option.php:621
+msgid "Search Form Background Color"
+msgstr "Màu nền Breadcrumbs"
+
+# title = heading
+#: framework/theme-option.php:622
+msgid "Please choose an color to use for the search form background of style 2."
+msgstr "Chọn màu để dùng cho màu nền tiêu đề trang"
+
+#: framework/theme-option.php:626
+msgid "Search Form Background Color Opacity"
+msgstr "Màu nền Breadcrumbs"
+
+#: framework/theme-option.php:633
+msgid "Footer options"
+msgstr "Tùy chọn chân trang"
+
+#: framework/theme-option.php:637
+msgid "Show or hidden footer."
+msgstr "Hiện hay ẩn mạng xã hội ở Header"
+
+#: framework/theme-option.php:641
+msgid "Footer style"
+msgstr "Kiểu cách chân trang"
+
+#: framework/theme-option.php:649
+msgid "Footer Default columns"
+msgstr "Cột mặc định chân trang"
+
+#: framework/theme-option.php:660
+msgid "Footer copyright"
+msgstr "Bản quyền ở chân trang web"
+
+#: framework/theme-option.php:661
+msgid "Please enter text copyright for footer."
+msgstr "Nhập văn bản cho copyright chân trang"
+
+#: framework/theme-option.php:663
+msgid "© <a href='#'>Inwavethemes</a> All rights reserved."
+msgstr "© <a href='#'> Injob.vn </a> Mọi quyền được bảo lưu."
+
+#: framework/theme-option.php:668
+#: framework/theme-option.php:671
+msgid "Custom Sidebar"
+msgstr "Custom Sidebar"
+
+#: framework/theme-option.php:672
+msgid "Custom sidebar"
+msgstr "Custom sidebar"
+
+#: framework/theme-option.php:676
+msgid "Add New Sidebar"
+msgstr "Thêm Sidebar"
+
+#: framework/theme-option.php:679
+msgid "Blog"
+msgstr "Bài viết"
+
+#: framework/theme-option.php:682
+#: framework/theme-option.php:685
+msgid "Blog Listing"
+msgstr "Danh sách bài viết"
+
+#: framework/theme-option.php:690
+#: framework/theme-option.php:755
+msgid "Select slide bar position"
+msgstr "Chọn vị trí sidebar"
+
+#: framework/theme-option.php:704
+#: framework/theme-option.php:765
+msgid "Sidebar Name"
+msgstr "Tên sidebar"
+
+#: framework/theme-option.php:705
+#: framework/theme-option.php:766
+msgid "Select slidebar"
+msgstr "Chon sidebar"
+
+#: framework/theme-option.php:719
+msgid "Show Categories"
+msgstr "Hiển thị danh mục"
+
+#: framework/theme-option.php:720
+msgid "Check the box to display the post categories."
+msgstr "Chọn để hiển thị danh mục bài đăng"
+
+#: framework/theme-option.php:725
+#: framework/theme-option.php:786
+msgid "Show Post Date"
+msgstr "Hiển thị ngày đăng"
+
+#: framework/theme-option.php:726
+#: framework/theme-option.php:787
+msgid "Check the box to display blog post date"
+msgstr "Chọn để hiển thì ngày đăng bài"
+
+#: framework/theme-option.php:730
+msgid "Show Post Author"
+msgstr "Hiển thị tác giả bài đăng"
+
+#: framework/theme-option.php:731
+msgid "Check the box to display blog post author"
+msgstr "Chọn để hiển thị tác giả bài đăng"
+
+#: framework/theme-option.php:735
+msgid "Show Post Comment"
+msgstr "Hiển thị nhận xét bài đăng"
+
+#: framework/theme-option.php:736
+msgid "Check the box to display blog post comment"
+msgstr "Chọn để hiển thị nhận xét bài đăng"
+
+#: framework/theme-option.php:741
+#: framework/theme-option.php:797
+msgid "Show Social Sharing"
+msgstr "Hiển thị Chia sẻ lên mạng xã hội"
+
+#: framework/theme-option.php:742
+#: framework/theme-option.php:798
+msgid "Check the box to display the social sharing"
+msgstr "Chọn để hiển thị social sharing"
+
+#: framework/theme-option.php:747
+#: framework/theme-option.php:750
+msgid "Blog Single Post"
+msgstr "Chi tiết bài viết"
+
+#: framework/theme-option.php:781
+msgid "Post Categories"
+msgstr "Danh mục bài viết"
+
+#: framework/theme-option.php:782
+msgid "Check the box to display the post categories"
+msgstr "Chọn để hiển thị danh mục bài viết"
+
+#: framework/theme-option.php:791
+msgid "Show Author Info"
+msgstr "Hiển thị thông tin tác giả"
+
+#: framework/theme-option.php:792
+msgid "Check the box to display the author info in the post"
+msgstr "Chọn để hiển thị thông tin tác giả bài đăng"
+
+#: framework/theme-option.php:803
+msgid "Show Tags"
+msgstr "Hiển thị gắn thẻ"
+
+#: framework/theme-option.php:804
+msgid "Check the box to display the post tags"
+msgstr "Chọn để hiển thị gắn thẻ  bài đăng"
+
+#: framework/theme-option.php:829
+msgid "Social Media"
+msgstr "Social Media"
+
+#: framework/theme-option.php:832
+#: framework/theme-option.php:835
+msgid "Social Sharing"
+msgstr "Social Sharing"
+
+#: framework/theme-option.php:837
+#: framework/theme-option.php:894
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/theme-option.php:838
+msgid "Check the box to show the facebook sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ  woocommerce and portfolio detail page trên facebook  trong bài "
+
+#: framework/theme-option.php:843
+#: framework/theme-option.php:899
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/theme-option.php:844
+msgid "Check the box to show the twitter sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên Twitter trong bài"
+
+#: framework/theme-option.php:849
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/theme-option.php:850
+msgid "Check the box to show the linkedin sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên LinkedIn trong bài "
+
+#: framework/theme-option.php:855
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-option.php:856
+msgid "Check the box to show the g+ sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên Google Plus trong bài "
+
+#: framework/theme-option.php:861
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: framework/theme-option.php:862
+msgid "Check the box to show the tumblr sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên Tumblr trong bài "
+
+#: framework/theme-option.php:867
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-option.php:868
+msgid "Check the box to show the pinterest sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên Pinterest trong bài "
+
+#: framework/theme-option.php:873
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-option.php:874
+msgid "Check the box to show the email sharing icon in blog, woocommerce and portfolio detail page."
+msgstr "Chọn để hiển thị biểu tượng chia sẻ woocommerce and portfolio detail page trên email trong bài "
+
+#: framework/theme-option.php:880
+#: framework/theme-option.php:883
+msgid "Social Link Configs"
+msgstr "Social Link Configs"
+
+#: framework/theme-option.php:886
+msgid "Social links"
+msgstr "Social links"
+
+#: framework/theme-option.php:887
+msgid "Add new social links. Awesome icon You can get at <a target='_blank' href='https://fortawesome.github.io/Font-Awesome/'>here</a>"
+msgstr "Thêm liên kết xã hội mới. Awesome icon.  Bạn có thể nhận <a target='_blank' href='https://fortawesome.github.io/Font-Awesome/'> tại đây </a>"
+
+#: framework/theme-option.php:904
+msgid "Google Plush"
+msgstr "Google Plush"
+
+#: framework/theme-option.php:912
+msgid "Map"
+msgstr "Map"
+
+#: framework/theme-option.php:915
+msgid "Google Map API"
+msgstr "Google Map API"
+
+#: framework/theme-option.php:916
+msgid "Use for process data from google service. Eg: map, photo, video... To get Google api, you can access via <a href=\"https://console.developers.google.com/\" target=\"_blank\">here</a>."
+msgstr "Sử dụng cho xử lý dữ liệu từ google. Ví dụ: bản đồ, ảnh, video ... Để nhận được api của Google, bạn có thể truy cập qua <a href=\"https://console.developers.google.com/\" target=\"_blank\"> tại đây </a>."
+
+#: framework/theme-option.php:921
+msgid "Map Styles"
+msgstr "Màu bản đồ"
+
+#: framework/theme-option.php:922
+msgid "Using for contact map. You can get <a href=\"https://snazzymaps.com\" target=\"_blank\">here</a>."
+msgstr "Sử dụng cho bản đồ ở trang Liên hệ. Bạn có thể thay đổi <a href=\"https://snazzymaps.com\" target=\"_blank\"> tại đây </a>."
+
+#: framework/theme-option.php:928
+msgid "Import Demo"
+msgstr "Nhập dữ liệu mẫu"
+
+#: framework/theme-option.php:931
+#: framework/theme-option.php:935
+msgid "Import Demo Content"
+msgstr "Nhập nội dung demo"
+
+#: framework/theme-option.php:932
+msgid "We recommend you to <a href='https://wordpress.org/plugins/wordpress-reset/' target='_blank'>reset data</a>  & clean wp-content/uploads before import to prevent duplicate content!"
+msgstr "Chúng tôi khuyên bạn nên <a href='https://wordpress.org/plugins/wordpress-reset/' target='_blank'> đặt lại dữ liệu </a> & xóa nội dung / nội dung tải lên trước khi nhập nội dung trùng lặp!"
+
+#: framework/theme-option.php:942
+msgid "Backup and Restore Options"
+msgstr "Tùy chọn sao lưu và khôi phục"
+
+#: framework/theme-option.php:946
+msgid "You can use the two buttons below to backup your current options, and then restore it back at a later time. This is useful if you want to experiment on the options but would like to keep the old settings in case you need it back."
+msgstr "Bạn có thể sử dung 2 phím dưới để sao lưu tùy chọn hiện tại và sau đó khôi phục nó sau. Điều này thực sự hữu ích nếu bạn muốn trải nghiệm tùy chon nhưng vẫn muốn giữ lại cài đặt cũ phòng khi cần sau này."
+
+#: framework/theme-option.php:949
+msgid "Transfer Theme Options Data"
+msgstr "Transfer Theme Options Data"
+
+#: framework/theme-option.php:953
+msgid "You can tranfer the saved options data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Options\"."
+msgstr "Bạn có thể chuyển dữ lieu tùy chọn đã lưu giữa nhưng cài đặt khác nhau bang cách copy văn bản bên trọng và đóng khhung nó, Để nhập data từ một cài đặt khác thay thay thế dữ kiệu đã đóng khung trước đó bằng lệnh cài đặt khác và nhấp vào \"Import Options\""
+
+#: framework/theme-plugin-load.php:31
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: framework/theme-plugin-load.php:42
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: framework/theme-plugin-load.php:52
+msgid "InWave Jobs"
+msgstr "Injob Jobs"
+
+#: framework/theme-plugin-load.php:62
+msgid "InWave Common for Jobs"
+msgstr "Injob Common for Jobs"
+
+#: framework/theme-plugin-load.php:72
+msgid "Contact form 7"
+msgstr "Contact form 7"
+
+#: framework/theme-plugin-load.php:77
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: framework/theme-plugin-load.php:82
+msgid "YITH Woocommerce Wishlist"
+msgstr "YITH Woocommerce Wishlist"
+
+#: framework/theme-register.php:10
+msgid "Sidebar Default"
+msgstr "Sidebar Default"
+
+#: framework/theme-register.php:21
+msgid "Sidebar Job Details"
+msgstr "Sidebar Job Details"
+
+#: framework/theme-register.php:31
+msgid "Sidebar Job Details V2"
+msgstr "Sidebar Job Details"
+
+#: framework/theme-register.php:41
+msgid "Sidebar Candidate Details"
+msgstr "Sidebar Candidate Details"
+
+#: framework/theme-register.php:51
+msgid "Sidebar Candidate Details V2"
+msgstr "Sidebar Candidate Details V2"
+
+#: framework/theme-register.php:61
+msgid "Sidebar Employer Details"
+msgstr "Sidebar Employer Details"
+
+#: framework/theme-register.php:71
+msgid "Sidebar Employer Details V2"
+msgstr "Sidebar Employer Details V2"
+
+#: framework/theme-register.php:81
+msgid "Sidebar Jobs 1"
+msgstr "Sidebar Jobs 1"
+
+#: framework/theme-register.php:90
+msgid "Sidebar Jobs 2"
+msgstr "Sidebar Jobs 2"
+
+#: framework/theme-register.php:99
+msgid "Sidebar Candidates 1"
+msgstr "Sidebar Candidates 1"
+
+#: framework/theme-register.php:108
+msgid "Sidebar Candidates 2"
+msgstr "Sidebar Candidates 2"
+
+#: framework/theme-register.php:117
+msgid "Sidebar Employers 1"
+msgstr "Sidebar Employers 1"
+
+#: framework/theme-register.php:126
+msgid "Sidebar Employers 2"
+msgstr "Upload Image"
+
+#: framework/theme-register.php:140
+msgid "Sidebar Product"
+msgstr "Sidebar Product"
+
+#: framework/theme-register.php:157
+msgid "Footer widget 4"
+msgstr "Footer widget 4"
+
+#: framework/theme-register.php:159
+#: framework/theme-register.php:173
+#: framework/theme-register.php:187
+#: framework/theme-register.php:201
+msgid "This is footer widget location"
+msgstr "Đây là vị trí Widget chân trang"
+
+#: framework/theme-register.php:171
+msgid "Footer widget 3"
+msgstr "Footer widget 3"
+
+#: framework/theme-register.php:185
+msgid "Footer widget 2"
+msgstr "Footer widget 2"
+
+#: framework/theme-register.php:199
+msgid "Footer widget 1"
+msgstr "Footer widget 1"
+
+#: framework/widgets/info-footer.php:8
+msgid "Inwave Contact Information"
+msgstr "Thông tin liên hệ Injob"
+
+#: framework/widgets/info-footer.php:9
+msgid "Widget display about us information in footer."
+msgstr "Widget hiển thị thông tin chúng tôi ở chân trang"
+
+#: framework/widgets/info-footer.php:129
+msgid "Image"
+msgstr "Ảnh"
+
+#: framework/widgets/info-footer.php:143
+msgid "Upload Image"
+msgstr "Tải ảnh lên"
+
+#: framework/widgets/info-footer.php:145
+msgid "Action URL"
+msgstr "Action URL"
+
+#: framework/widgets/info-footer.php:146
+msgid "Link Text"
+msgstr "Link Text"
+
+#: framework/widgets/info-footer.php:147
+msgid "Social Resource"
+msgstr "Social Resource"
+
+#: framework/widgets/info-footer.php:149
+msgid "Theme config"
+msgstr "Theme config"
+
+#: framework/widgets/info-footer.php:150
+msgid "Custom"
+msgstr "Custom"
+
+#: framework/widgets/info-footer.php:154
+msgid "Custom Social"
+msgstr "Custom Social"
+
+#: framework/widgets/recent-comment.php:27
+msgid "Recent Comments"
+msgstr "Nhận xét gần đây"
+
+#: framework/widgets/recent-comment.php:66
+msgid "on"
+msgstr "trên"
+
+#: framework/widgets/recent-post.php:26
+msgid "Recent Posts"
+msgstr "Bài đăng gần đây"
+
+#: framework/widgets/subscribe.php:12
+msgid "Inwave Subscribe"
+msgstr "Injob  Subscribe"
+
+#: framework/widgets/subscribe.php:13
+msgid "Widget display subscribe."
+msgstr "Widget display subscribe."
+
+#: framework/widgets/subscribe.php:34
+msgid "Action Url"
+msgstr "Action Url"
+
+#: framework/widgets/subscribe.php:74
+msgid "Submitting..."
+msgstr "Đang gửi"
+
+#: framework/widgets/subscribe.php:75
+msgid "We have sent you a confirmation email"
+msgstr "Chúng tôi đã gửi cho bạn email xác nhận"
+
+#: framework/widgets/subscribe.php:76
+msgid "Please enter a value"
+msgstr "Vui lòng nhập giá trị"
+
+#: framework/widgets/subscribe.php:77
+msgid "An email address must contain a single @"
+msgstr "Địa chỉ email phải có một @"
+
+#: framework/widgets/subscribe.php:78
+msgid "The domain portion of the email address is invalid (the portion after the @: )"
+msgstr "Phần tên miền của địa chỉ email không hợp lệ"
+
+#: framework/widgets/subscribe.php:79
+msgid "The username portion of the email address is invalid (the portion before the @: )"
+msgstr "Phần tên người dùng của địa chỉ email không hợp lệ (phần trước @ :)"
+
+#: framework/widgets/subscribe.php:80
+msgid "This email address looks fake or invalid. Please enter a real email address"
+msgstr "Địa chỉ email này có vẻ giả mạo hoặc không hợp lệ. Vui lòng nhập địa chỉ email thực"
+
+#: framework/widgets/subscribe.php:89
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: framework/widgets/subscribe.php:90
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+#: headers/header-default.php:143
+#: headers/header-v2.php:180
+#: headers/header-v3.php:143
+#: headers/header-v4.php:193
+#: headers/header-v5.php:171
+#: headers/header-v5.php:227
+#: headers/header-v6.php:146
+#: headers/header-v7.php:179
+msgid "register"
+msgstr "Đăng ký"
+
+#: headers/header-default.php:145
+#: headers/header-v2.php:182
+#: headers/header-v3.php:145
+#: headers/header-v4.php:195
+#: headers/header-v5.php:168
+#: headers/header-v5.php:224
+#: headers/header-v6.php:148
+#: headers/header-v7.php:181
+msgid "login"
+msgstr "Đăng nhập"
+
+#: headers/header-default.php:184
+#: headers/header-default.php:185
+#: headers/header-v2.php:124
+#: headers/header-v2.php:125
+#: headers/header-v3.php:180
+#: headers/header-v3.php:181
+#: headers/header-v4.php:137
+#: headers/header-v4.php:138
+#: headers/header-v5.php:117
+#: headers/header-v5.php:118
+#: headers/header-v6.php:185
+#: headers/header-v6.php:186
+#: headers/header-v7.php:123
+msgid "Post a job"
+msgstr "Đăng tuyển dụng"
+
+#: headers/header-default.php:199
+#: headers/header-default.php:200
+#: headers/header-v3.php:195
+#: headers/header-v3.php:196
+#: headers/header-v6.php:200
+#: headers/header-v6.php:201
+msgid "Buy A Package"
+msgstr "Mua gói dịch vụ"
+
+#: headers/header-default.php:216
+#: headers/header-default.php:217
+#: headers/header-v2.php:140
+#: headers/header-v2.php:141
+#: headers/header-v3.php:212
+#: headers/header-v3.php:213
+#: headers/header-v4.php:153
+#: headers/header-v4.php:154
+#: headers/header-v5.php:133
+#: headers/header-v5.php:134
+#: headers/header-v6.php:217
+#: headers/header-v6.php:218
+#: headers/header-v7.php:139
+msgid "Update a resume"
+msgstr "Cập nhật sơ yếu lý lịch"
+
+#: headers/header-default.php:302
+#: headers/header-v3.php:290
+#: headers/header-v4.php:242
+#: headers/header-v6.php:295
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: headers/header-default.php:302
+#: headers/header-v3.php:290
+#: headers/header-v4.php:242
+#: headers/header-v6.php:295
+msgctxt "placeholder"
+msgid "Enter  key words..."
+msgstr "Nhập các từ khóa ..."
+
+#: headers/header-v2.php:165
+#: headers/header-v4.php:178
+#: headers/header-v7.php:164
+msgid "Hello"
+msgstr "Xin chào"
+
+#: headers/header-v7.php:105
+msgid "Buy Theme"
+msgstr "Mua Theme"
+
+#: page-templates/full-width-page.php:27
+#: page-templates/home-page.php:29
+#: page-templates/left-sidebar.php:43
+#: page-templates/right-sidebar.php:43
+#: page-templates/search-map.php:28
+#: page-templates/two-sidebar-page.php:53
+#: page.php:35
+#, php-format
+msgid "You must be logged in to view this page. <a href=\"%s\">Login here</a>"
+msgstr "Vui lòng <a href=\"%s\"> Đăng nhập tại đây </a>"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Enter your keywords"
+msgstr "Nhập từ khóa của bạn"
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Chi phí vận chuyển sẽ được tính toán khi bạn cung cấp địa chỉ của bạn."
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr "Không có phương thức giao hàng nào. Vui lòng kiểm tra kỹ địa chỉ của bạn hoặc liên hệ với chúng tôi nếu bạn cần bất kỳ trợ giúp nào."
+
+#: woocommerce/cart/cart-totals.php:18
+msgid "Cart Totals"
+msgstr "Tổng số lượng giỏ hàng"
+
+#: woocommerce/cart/cart-totals.php:26
+#: woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart-totals.php:52
+msgid "Shipping"
+msgstr "Shipping"
+
+#: woocommerce/cart/cart-totals.php:76
+#: woocommerce/cart/cart.php:41
+#: woocommerce/order/order-details.php:42
+msgid "Total"
+msgstr "Tổng"
+
+#: woocommerce/cart/cart-totals.php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(thuế ước tính cho% s)"
+
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Lưu ý: Giao hàng và %s thuế được ước tính và sẽ được cập nhật trong quá trình thanh toán dựa trên thông tin thanh toán và giao hàng của bạn."
+
+#: woocommerce/cart/cart-totals.php:99
+msgid "Proceed to Checkout"
+msgstr "Tiếp tục thanh toán"
+
+#: woocommerce/cart/cart.php:38
+#: woocommerce/order/order-details.php:41
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: woocommerce/cart/cart.php:39
+msgid "Price"
+msgstr "Giá"
+
+#: woocommerce/cart/cart.php:40
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr "Có sẵn trên backorder"
+
+#: woocommerce/cart/cart.php:134
+msgid "Remove this item"
+msgstr "Xóa mục này"
+
+#: woocommerce/cart/cart.php:156
+#: woocommerce/checkout/form-coupon.php:31
+msgid "Coupon"
+msgstr "Giảm giá"
+
+#: woocommerce/cart/cart.php:161
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "Mã giảm giá"
+
+#: woocommerce/cart/cart.php:165
+#: woocommerce/checkout/form-coupon.php:36
+#: woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr "Sử dụng mã giảm giá"
+
+#: woocommerce/cart/cart.php:168
+msgid "Update Cart"
+msgstr "Cập nhật giỏ hàng"
+
+#: woocommerce/cart/cross-sells.php:39
+msgid "You may be interested in&hellip;"
+msgstr "Bạn có thể quan tâm & hellip;"
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr "Không có sản phẩm trong giỏ hàng."
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "View Cart"
+msgstr "Xem giỏ hàng"
+
+#: woocommerce/cart/mini-cart.php:70
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: woocommerce/cart/shipping-calculator.php:19
+msgid "Calculate Shipping"
+msgstr "Tính toán giao hàng"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr "Chọn quốc gia & hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:37
+#: woocommerce/cart/shipping-calculator.php:42
+#: woocommerce/cart/shipping-calculator.php:53
+msgid "State / county"
+msgstr "Quận huyện / quốc gia"
+
+#: woocommerce/cart/shipping-calculator.php:43
+msgid "Select a state&hellip;"
+msgstr "Chọn quận huyện & hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "City"
+msgstr "Thành phố"
+
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "Postcode / Zip"
+msgstr "Mã bưu điện / Zip"
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Update Totals"
+msgstr "Cập nhật số lượng"
+
+#: woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr "Billing &amp; Shipping"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing Details"
+msgstr "Chi tiết hóa đơn"
+
+#: woocommerce/checkout/form-billing.php:44
+msgid "Create an account?"
+msgstr "Tạo tài khoản?"
+
+#: woocommerce/checkout/form-billing.php:55
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr "Tạo một tài khoản bằng cách nhập thông tin bên dưới. Nếu bạn là khách hàng cũ, vui lòng đăng nhập ở đầu trang."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "Go to shop cart if you need remove product"
+msgstr "Vào giỏ hàng nếu bạn cần xóa sản phẩm"
+
+#: woocommerce/checkout/form-checkout.php:33
+msgid "You must be logged in to checkout."
+msgstr "Đăng nhập để thanh toán."
+
+#: woocommerce/checkout/form-checkout.php:60
+#: woocommerce/checkout/form-checkout.php:80
+msgid "Your order"
+msgstr "Đơn hàng của bạn"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "Tài khoản cũ?"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "Nhấn đê đăng nhập"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "Nếu bạn đã mua sắm với chúng tôi, vui lòng nhập chi tiết của bạn vào các ô bên dưới. Nếu bạn là khách hàng mới, vui lòng tiến hành Thanh toán & amp; và tiếp tục với mục giao hàng"
+
+#: woocommerce/checkout/form-shipping.php:19
+#: woocommerce/order/order-details-customer.php:75
+msgid "Shipping address"
+msgstr "Địa chỉ giao hàng"
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "Ship to a different address?"
+msgstr "Gửi đến địa chỉ khác?"
+
+#: woocommerce/checkout/form-shipping.php:69
+msgid "Additional Information"
+msgstr "Thông tin bổ sung"
+
+#: woocommerce/checkout/payment.php:43
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Xin lỗi, có vẻ như không có phương pháp nào có sẵn cho địa điểm của bạn. Vui lòng liên hệ với chúng tôi nếu bạn yêu cầu hoặc muốn sắp xếp thay thế."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Vui lòng điền thông tin của bạn ở trên để xem các phương thức thanh toán có sẵn."
+
+#: woocommerce/checkout/payment.php:52
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Vì trình duyệt của bạn không hỗ trợ JavaScript, hãy đảm bảo bạn nhấp vào nút <em> Cập nhật tổng cộng </ em> trước khi đặt hàng. Bạn có thể bị tính phí nhiều hơn số tiền đã nêu ở trên."
+
+#: woocommerce/checkout/payment.php:53
+msgid "Update totals"
+msgstr "Cập nhật số lượng"
+
+#: woocommerce/content-product.php:48
+msgid "Add cart"
+msgstr "Thêm"
+
+#: woocommerce/content-product_row.php:43
+#: woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr "Bán!"
+
+#: woocommerce/global/form-login.php:30
+#: woocommerce/global/form-login.php:56
+#: woocommerce/global/form-login.php:57
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: woocommerce/global/form-login.php:42
+msgid "Username or email"
+msgstr "Nhập tên người dùng hoặc email của bạn."
+
+#: woocommerce/global/form-login.php:46
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: woocommerce/global/form-login.php:62
+msgid "Remember me"
+msgstr "Ghi nhớ"
+
+#: woocommerce/global/form-login.php:66
+msgid "Lost your password?"
+msgstr "Mất mật khẩu?"
+
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Số lượng"
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Hiển thị tất cả % d kết quả"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Hiển thị %1$d - %2$d trong tổng số %3$d kết quả"
+
+#: woocommerce/order/form-tracking.php:29
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr "Để theo dõi đơn hàng của bạn, vui lòng nhập ID đặt hàng của bạn vào hộp bên dưới và nhấn nút \"Theo dõi\". Điều này đã được ghi rõ trên biên lai và trong email xác nhận "
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr "Mã đơn hàng"
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr "Đã tìm thấy trong email xác nhận đơn đặt hàng của bạn."
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Billing email"
+msgstr "Email thanh toán"
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr "Email bạn đã sử dụng trong khi thanh toán."
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr "Theo dõi"
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr "Đặt hàng lại"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Customer details"
+msgstr "Chi tiết khách hàng"
+
+#: woocommerce/order/order-details-customer.php:32
+msgid "Note:"
+msgstr "Ghi chú:"
+
+#: woocommerce/order/order-details-customer.php:39
+msgid "Email:"
+msgstr "Email"
+
+#: woocommerce/order/order-details-customer.php:46
+msgid "Phone:"
+msgstr "Số điện thoại:"
+
+#: woocommerce/order/order-details-customer.php:63
+msgid "Billing address"
+msgstr "Địa chỉ hóa đơn"
+
+#: woocommerce/order/order-details-customer.php:66
+#: woocommerce/order/order-details-customer.php:78
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr "Chi tiết đơn đặt hàng"
+
+#: woocommerce/order/tracking.php:27
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "Đơn đặt hàng số %1$s được đặt trên %2$s và hiện là %3$s."
+
+#: woocommerce/order/tracking.php:35
+msgid "Order updates"
+msgstr "Cập nhật đơn đặt hàng"
+
+#: woocommerce/order/tracking.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s đánh giá cho %s"
+
+#: woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr "Nhận xét"
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr "Chưa có đánh giá nào."
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr "Thêm đánh giá"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr "Hãy là người đầu tiên đánh giá"
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Để lại câu trả lời cho % s"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr "Gửi"
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "Bạn phải <a href=\"%s\"> đăng nhập </a> để đăng bài đánh giá."
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr "Xếp hạng của bạn"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr "Xếp hạng&hellip;"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr "Rất tốt"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr "Tốt"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr "Trung bình"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr "Tệ"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr "Rất tệ"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Chỉ khách hàng đã mua dịch vụ mới có thể nhận xét."
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Phân loại"
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Gắn thẻ"
+
+#: woocommerce/single-product/meta.php:36
+msgid "Share This Post"
+msgstr "Chia sẻ bài này"
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr "Đang đợi hình ảnh sản phẩm"
+
+#: woocommerce/single-product/related.php:41
+msgid "Related Products"
+msgstr "Sản phẩm liên quan"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr "Bài đánh giá của bạn đang chờ phê duyệt"
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr "xác minh"
+
+#: woocommerce/single-product/title.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Đã xếp hạng% s trong tổng số 5"
+
+#: woocommerce/single-product/title.php:36
+#, php-format
+msgid "out of %s5%s"
+msgstr "trong số% s5% s"
+
+#: woocommerce/single-product/title.php:37
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "dựa trên %s xếp hạng của khách hàng"
+
+#: woocommerce/single-product/title.php:41
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "% s đánh giá của khách hàng"
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr "Bạn cũng có thể thích & hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "injob"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://jobboard.inwavethemes.com"
+msgstr "https://injob.vn"
+
+#. Description of the plugin/theme
+msgid "injob is an advanced job board wordpress theme with a modern, clean, intuitive, and fully responsive design, that looks perfect on any size tablet or mobile screen."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "inwavethemes"
+msgstr "injob"
+
+#. Author URI of the plugin/theme
+msgid "http://inwavethemes.com"
+msgstr "https://injob.vn"
+
+#~ msgid "Show button login and user"
+#~ msgstr "Hiện hay ẩn phím Cart ở Header"
+
+#~ msgid "Show Search Form Style"
+#~ msgstr "Hiển thị nút biểu mẫu tìm kiếm"
+
+#~ msgid "Style 1"
+#~ msgstr "Kiểu Header  1"
+
+#~ msgid "Style 2"
+#~ msgstr "Kiểu  Header  2"
+
+#~ msgid "Only used for header version 3, 4, 6."
+#~ msgstr "Chỉ được dùng cho kiểu Header 3, 4, 6."
+
+#~ msgid "Only used for header version 3, 6."
+#~ msgstr "Chỉ dùng cho kiểu Header 3,6"
+
+#~ msgid "Only used for header version 3, 4, 6 ."
+#~ msgstr "Chỉ được dùng cho kiểu header 3,4,6"
+
+#~ msgid "Only used for header version 3, 6 ."
+#~ msgstr "Chỉ dùng cho kiểu header 3,6 "

@@ -1,0 +1,3260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InJob\n"
+"POT-Creation-Date: 2018-11-30 14:54+0700\n"
+"PO-Revision-Date: 2018-11-30 14:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404 "
+
+#: 404.php:12
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+"Hier is helaas niets, maar de rest van onze site staat geheel tot je "
+"beschikking!"
+
+#: 404.php:14
+msgid "You could go back to"
+msgstr "Je zou terug kunnen gaan naar"
+
+#: 404.php:14
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: blocks/breadcrumbs.php:5 blocks/page-heading.php:75
+#: woocommerce/global/breadcrumb.php:26
+msgid "Home"
+msgstr "Huis"
+
+#: blocks/breadcrumbs.php:6 blocks/page-heading.php:76
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: blocks/breadcrumbs.php:7 blocks/page-heading.php:77
+#, php-format
+msgid "Archive for \"%s\""
+msgstr "Archief voor \"%s\""
+
+#: blocks/breadcrumbs.php:8 blocks/page-heading.php:78
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Zoekresultaten voor ‘%s’"
+
+#: blocks/breadcrumbs.php:9 blocks/page-heading.php:79
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Berichten getagd met \"%s\""
+
+#: blocks/breadcrumbs.php:10 blocks/page-heading.php:80
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artikelen geplaatst door %s"
+
+#: blocks/breadcrumbs.php:11
+msgid "Error 404"
+msgstr "Foutmelding 404"
+
+#: blocks/breadcrumbs.php:151
+msgid "&nbsp;Page"
+msgstr "&nbsp;Pagina"
+
+#: blocks/page-heading.php:27
+msgid "Find jobs"
+msgstr "Vind banen"
+
+#: blocks/page-heading.php:30
+msgid "You are browsing: "
+msgstr "U bekijkt:"
+
+#: blocks/page-heading.php:81
+msgid "Oops! That page can&rsquo;t be found"
+msgstr "Oops! Die pagina kan ook worden gevonden"
+
+#: blocks/paging.php:4
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: blocks/paging.php:5
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: blocks/panel-settings.php:9
+msgid "LAYOUT"
+msgstr "LAYOUT"
+
+#: blocks/panel-settings.php:11
+msgid "WIDE"
+msgstr "BREED"
+
+#: blocks/panel-settings.php:12
+msgid "BOXED"
+msgstr "BOXED"
+
+#: blocks/panel-settings.php:16
+msgid "SAMPLE COLOR"
+msgstr "VOORBEELD KLEUR"
+
+#: blocks/panel-settings.php:28
+msgid ""
+"Please read our documentation file to know how to change colors as you want"
+msgstr ""
+"Lees ons documentatiebestand om te weten hoe u de kleuren kunt wijzigen "
+"zoals u wilt"
+
+#: blocks/panel-settings.php:33
+msgid "BACKGROUND COLOR"
+msgstr "VOORBEELD KLEUR"
+
+#: blocks/panel-settings.php:46
+msgid "BACKGROUND TEXTURE"
+msgstr "ACHTERGROND TEXTUUR"
+
+#: blocks/panel-settings.php:65
+msgid "LEFT TO RIGHT"
+msgstr "VAN LINKS NAAR RECHTS"
+
+#: blocks/panel-settings.php:66
+msgid "RIGHT TO LEFT"
+msgstr "RECHTS NAAR LINKS"
+
+#: blocks/panel-settings.php:72
+msgid "Reset"
+msgstr "Reset"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:33
+#, php-format
+msgid "<span>%d</span> Comment"
+msgid_plural "<span>%d</span> Comments"
+msgstr[0] "<span>%d</span> Commentaar"
+msgstr[1] "<span>%d</span> Opmerkingen"
+
+#: comments.php:38 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Eerdere Opmerkingen"
+
+#: comments.php:40 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere opmerkingen &rarr;"
+
+#: comments.php:69
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Verplichte velden zijn gemarkeerd %s"
+
+#: comments.php:71
+msgid "Name *"
+msgstr "Naam *"
+
+#: comments.php:72
+msgid "Email address *"
+msgstr "E-mailadres *"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:74
+msgid "Your comment *"
+msgstr "Jouw commentaar *"
+
+#: comments.php:82
+msgid ""
+"Save my name, email, and website in this browser for the next time comment."
+msgstr ""
+"Bewaar mijn naam, e-mailadres en website in deze browser voor de volgende "
+"keer dat ik een reactie geef."
+
+#: comments.php:96
+msgctxt "noun"
+msgid "Comment*"
+msgstr "Commentaar*"
+
+#: content-gallery.php:49 content-image.php:33 content-single.php:42
+#: content-video.php:44
+msgid "Sticky post"
+msgstr "Sticky bericht"
+
+#: content-gallery.php:59 content-image.php:43 content-page.php:14
+#: content-single.php:51 content-video.php:54
+msgid "Pages:"
+msgstr "Pagina"
+
+#: content-gallery.php:79 content-image.php:63 content-video.php:74
+msgid "by: "
+msgstr "door:"
+
+#: content-gallery.php:84 content-image.php:68 content-video.php:79
+msgid "0 comment"
+msgstr "0 opmerking"
+
+#: content-gallery.php:84 content-image.php:68 content-video.php:79
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-gallery.php:84 content-image.php:68 content-video.php:79
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: content-gallery.php:93 content-image.php:77 content-single.php:78
+#: content-video.php:88
+msgid "Share : "
+msgstr "Delen :"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om je eerste post te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar niets paste bij uw zoektermen. Probeer het opnieuw met een "
+"aantal verschillende zoekwoorden."
+
+#: content-none.php:25
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden waarnaar u op zoek bent. Misschien "
+"kan zoeken helpen."
+
+#: content-page.php:23
+#: framework/option-framework/inc/class.options_machine.php:909
+#: framework/option-framework/inc/class.options_machine.php:988
+#: framework/option-framework/inc/class.options_machine.php:1033
+#: framework/theme-function.php:114
+msgid "Edit"
+msgstr "Bewerk"
+
+#: content-single.php:62
+msgid "Tags:"
+msgstr "Tags"
+
+#: content-single.php:70
+msgid "Next Article : "
+msgstr "Volgend artikel:"
+
+#: content-single.php:109
+msgid "Author: "
+msgstr "Auteur:"
+
+#: framework/importer/importer.php:41
+msgid "Preparing"
+msgstr "Voorbereidingen treffen"
+
+#: framework/importer/importer.php:42
+msgid "Importing media"
+msgstr "Media importeren"
+
+#: framework/importer/importer.php:43
+msgid "Importing posts"
+msgstr "Posts importeren"
+
+#: framework/importer/importer.php:44
+msgid "Importing sliders"
+msgstr "Widgets importeren"
+
+#: framework/importer/importer.php:45
+msgid "Importing widgets"
+msgstr "Widgets importeren"
+
+#: framework/importer/importer.php:46
+msgid "Importing theme options"
+msgstr "Thema-opties importeren"
+
+#: framework/importer/importer.php:47
+msgid "Finish"
+msgstr "Af hebben"
+
+#: framework/importer/importer.php:197
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+"Proost! De demogegevens zijn succesvol geïmporteerd! Laad deze pagina "
+"opnieuw om te voltooien!"
+
+#: framework/inc/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr "Installeer Vereiste Plugins"
+
+#: framework/inc/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr "Installeer plug-ins"
+
+#: framework/inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin installeren: %s"
+
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Plug-in bijwerken: %s"
+
+#: framework/inc/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets misgegaan met de plugin-API."
+
+#: framework/inc/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Voor dit thema is de volgende plug-in vereist: %1$s."
+msgstr[1] "Voor dit thema zijn de volgende plug-ins vereist: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plug-in aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plug-ins aan: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plug-in moet worden bijgewerkt naar de nieuwste versie om "
+"maximale compatibiliteit met dit thema te garanderen: %1$s."
+msgstr[1] ""
+"De volgende plug-ins moeten worden bijgewerkt naar hun nieuwste versie om "
+"maximale compatibiliteit met dit thema te garanderen: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor de volgende plug-ins: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plug-in is momenteel inactief: %1$s."
+msgstr[1] "De volgende vereiste plug-ins zijn momenteel niet actief:%1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plug-in is momenteel inactief:%1$s."
+msgstr[1] "De volgende aanbevolen plug-ins zijn momenteel inactief: %1$s."
+
+#: framework/inc/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met het installeren van de plug-in"
+msgstr[1] "Begin met het installeren van plug-ins"
+
+#: framework/inc/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin met het bijwerken van de plug-in"
+msgstr[1] "Begin met het bijwerken van plug-ins"
+
+#: framework/inc/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met het activeren van de plug-in"
+msgstr[1] "Begin met het activeren van plug-ins"
+
+#: framework/inc/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr ""
+"Keer terug naar het vereiste installatieprogramma voor invoegtoepassingen"
+
+#: framework/inc/class-tgm-plugin-activation.php:391
+#: framework/inc/class-tgm-plugin-activation.php:793
+#: framework/inc/class-tgm-plugin-activation.php:867
+#: framework/inc/class-tgm-plugin-activation.php:2576
+#: framework/inc/class-tgm-plugin-activation.php:3634
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het Dashboard"
+
+#: framework/inc/class-tgm-plugin-activation.php:392
+#: framework/inc/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "Plugin is succesvol geactiveerd."
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plug-in is succesvol geactiveerd:"
+msgstr[1] "De volgende plug-ins zijn succesvol geactiveerd:"
+
+#: framework/inc/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin niet geactiveerd. Voor dit thema is een hogere versie van %s nodig. "
+"Werk de plug-in bij."
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plug-ins zijn geïnstalleerd en geactiveerd. %1$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr "Verwerp deze kennisgeving"
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn een of meer vereiste of aanbevolen plug-ins om te installeren, "
+"updaten of activeren."
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: framework/inc/class-tgm-plugin-activation.php:544
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Deze plug-in moet worden bijgewerkt om compatibel te zijn met uw thema."
+
+#: framework/inc/class-tgm-plugin-activation.php:545
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: framework/inc/class-tgm-plugin-activation.php:788
+msgid "<p>Updated successfully!</p>"
+msgstr "<p>Succesvol geupdatet!</p>"
+
+#: framework/inc/class-tgm-plugin-activation.php:790
+#: framework/inc/class-tgm-plugin-activation.php:2936
+msgid "There was an error unzipping the file."
+msgstr "Er is een fout opgetreden bij het uitpakken van het bestand."
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Het externe plugin-pakket bevat geen map met de gewenste slug en het "
+"hernoemen werkte niet."
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Neem contact op met de pluginprovider en vraag hen om hun plug-in te "
+"verpakken volgens de WordPress-richtlijnen."
+
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Het pakket voor externe plug-ins bestaat uit meer dan één bestand, maar de "
+"bestanden zijn niet verpakt in een map."
+
+#: framework/inc/class-tgm-plugin-activation.php:1164
+#: framework/inc/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: framework/inc/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2316
+msgid "Required"
+msgstr "Verplicht"
+
+#: framework/inc/class-tgm-plugin-activation.php:2319
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: framework/inc/class-tgm-plugin-activation.php:2335
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/inc/class-tgm-plugin-activation.php:2338
+msgid "External Source"
+msgstr "Externe bron"
+
+#: framework/inc/class-tgm-plugin-activation.php:2341
+msgid "Pre-Packaged"
+msgstr "Pre-Verpakte"
+
+#: framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: framework/inc/class-tgm-plugin-activation.php:2362
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: framework/inc/class-tgm-plugin-activation.php:2364
+msgid "Active"
+msgstr "Actief"
+
+#: framework/inc/class-tgm-plugin-activation.php:2370
+msgid "Required Update not Available"
+msgstr "Verplichte update niet beschikbaar"
+
+#: framework/inc/class-tgm-plugin-activation.php:2373
+msgid "Requires Update"
+msgstr "Update nodig"
+
+#: framework/inc/class-tgm-plugin-activation.php:2376
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: framework/inc/class-tgm-plugin-activation.php:2385
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "Installatie/Update status %1$s, %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2431
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Installeren <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2439
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2443
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Activeren <span class=\"count\">(%s)</span>"
+
+#: framework/inc/class-tgm-plugin-activation.php:2525
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: framework/inc/class-tgm-plugin-activation.php:2533
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2541
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2553
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2576
+msgid "No plugins to install, update or activate."
+msgstr "Geen plug-ins om te installeren, updaten of activeren."
+
+#: framework/inc/class-tgm-plugin-activation.php:2590
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/inc/class-tgm-plugin-activation.php:2591
+msgid "Source"
+msgstr "Bron"
+
+#: framework/inc/class-tgm-plugin-activation.php:2592
+msgid "Type"
+msgstr "Type"
+
+#: framework/inc/class-tgm-plugin-activation.php:2596
+msgid "Version"
+msgstr "Versie "
+
+#: framework/inc/class-tgm-plugin-activation.php:2597
+msgid "Status"
+msgstr "Staat"
+
+#: framework/inc/class-tgm-plugin-activation.php:2646
+#, php-format
+msgid "Install %2$s"
+msgstr "Installeren %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2651
+#, php-format
+msgid "Update %2$s"
+msgstr "Bijwerken %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activeren %2$s"
+
+#: framework/inc/class-tgm-plugin-activation.php:2727
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-bericht van de auteur van de plug-in:"
+
+#: framework/inc/class-tgm-plugin-activation.php:2760
+msgid "Install"
+msgstr "Installeren "
+
+#: framework/inc/class-tgm-plugin-activation.php:2766
+msgid "Update"
+msgstr "Bijwerken"
+
+#: framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Activate"
+msgstr "Activeren "
+
+#: framework/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Er zijn geen plug-ins geselecteerd om te worden geïnstalleerd. Geen actie "
+"ondernomen."
+
+#: framework/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Er zijn geen plug-ins geselecteerd om te worden bijgewerkt. Geen actie "
+"ondernomen."
+
+#: framework/inc/class-tgm-plugin-activation.php:2843
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+"Er zijn op dit moment geen plug-ins beschikbaar om te worden geïnstalleerd."
+
+#: framework/inc/class-tgm-plugin-activation.php:2845
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+"Er zijn op dit moment geen plug-ins beschikbaar om te worden bijgewerkt."
+
+#: framework/inc/class-tgm-plugin-activation.php:2965
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Er zijn geen plug-ins geselecteerd om te worden geactiveerd. Geen actie "
+"ondernomen"
+
+#: framework/inc/class-tgm-plugin-activation.php:2991
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+"Er zijn op dit moment geen plug-ins beschikbaar om te worden geactiveerd."
+
+#: framework/inc/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "Plugin-activering mislukt."
+
+#: framework/inc/class-tgm-plugin-activation.php:3552
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plug-in bijwerken %1$s (%2$d/%3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3555
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren %1$s: <strong>%2$s</"
+"strong>."
+
+#: framework/inc/class-tgm-plugin-activation.php:3557
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt"
+
+#: framework/inc/class-tgm-plugin-activation.php:3561
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie- en activeringsproces begint. Dit proces kan bij sommige "
+"hosts enige tijd duren, dus wees geduldig."
+
+#: framework/inc/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en geactiveerd."
+
+#: framework/inc/class-tgm-plugin-activation.php:3564
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#: framework/inc/class-tgm-plugin-activation.php:3566
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren en activeren %1$s (%2$d/%3$d)"
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces begint. Dit proces kan bij sommige hosts enige tijd "
+"duren, dus wees geduldig."
+
+#: framework/inc/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s succesvol geïnstalleerd."
+
+#: framework/inc/class-tgm-plugin-activation.php:3572
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#: framework/inc/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren %1$s (%2$d/%3$d)"
+
+#: framework/inc/custom-nav.php:146
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ongeldig)"
+
+#: framework/inc/custom-nav.php:150
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (In afwachting)"
+
+#: framework/inc/custom-nav.php:174
+msgid "Move up"
+msgstr "Ga naar boven"
+
+#: framework/inc/custom-nav.php:187
+msgid "Move down"
+msgstr "Naar beneden verplaatsen"
+
+#: framework/inc/custom-nav.php:189 framework/inc/custom-nav.php:191
+msgid "Edit Menu Item"
+msgstr "Bewerk menu-item"
+
+#: framework/inc/custom-nav.php:200
+msgid "URL"
+msgstr "URL"
+
+#: framework/inc/custom-nav.php:207
+msgid "Navigation Label"
+msgstr "Navigatielabel"
+
+#: framework/inc/custom-nav.php:213
+msgid "Title Attribute"
+msgstr "Titelkenmerk"
+
+#: framework/inc/custom-nav.php:220
+msgid "Open link in a new window/tab"
+msgstr "Link openen in een nieuw venster / tabblad"
+
+#: framework/inc/custom-nav.php:225
+msgid "CSS Classes (optional)"
+msgstr "CSS-klassen (optioneel)"
+
+#: framework/inc/custom-nav.php:231
+msgid "Link Relationship (XFN)"
+msgstr "Linkrelatie (XFN)"
+
+#: framework/inc/custom-nav.php:237 framework/widgets/info-footer.php:126
+#: framework/widgets/subscribe.php:33
+msgid "Description"
+msgstr "Beschrijving"
+
+#: framework/inc/custom-nav.php:239
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"De beschrijving wordt in het menu weergegeven als het huidige thema dit "
+"ondersteunt."
+
+#: framework/inc/custom-nav.php:247
+msgid "Input Icon"
+msgstr "Invoerpictogram"
+
+#: framework/inc/custom-nav.php:257
+#, php-format
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+#: framework/inc/custom-nav.php:270
+#: framework/option-framework/inc/class.options_machine.php:842
+#: framework/option-framework/inc/class.options_machine.php:922
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: framework/inc/custom-nav.php:271
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: framework/inc/helper.php:174
+msgid "No Slider"
+msgstr "Geen schuifregelaar"
+
+#: framework/option-framework/inc/class.options_machine.php:273
+msgid "Line height"
+msgstr "Lijnhoogte"
+
+#: framework/option-framework/inc/class.options_machine.php:287
+msgid "Font family"
+msgstr "Fontfamilie"
+
+#: framework/option-framework/inc/class.options_machine.php:290
+msgid "Arial"
+msgstr "Arial"
+
+#: framework/option-framework/inc/class.options_machine.php:291
+msgid "Verdana"
+msgstr "Verdana"
+
+#: framework/option-framework/inc/class.options_machine.php:292
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: framework/option-framework/inc/class.options_machine.php:293
+msgid "Georgia"
+msgstr "Georgia"
+
+#: framework/option-framework/inc/class.options_machine.php:294
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: framework/option-framework/inc/class.options_machine.php:295
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: framework/option-framework/inc/class.options_machine.php:296
+msgid "Palatino"
+msgstr "Palatino"
+
+#: framework/option-framework/inc/class.options_machine.php:297
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: framework/option-framework/inc/class.options_machine.php:421
+msgid "System Requirements"
+msgstr "Systeem vereisten"
+
+#: framework/option-framework/inc/class.options_machine.php:469
+msgid "Add New Slide"
+msgstr "Nieuwe dia toevoegen"
+
+#: framework/option-framework/inc/class.options_machine.php:478
+msgid "Option"
+msgstr "Keuze"
+
+#: framework/option-framework/inc/class.options_machine.php:479
+msgid "Add New Option"
+msgstr "Nieuwe optie toevoegen"
+
+#: framework/option-framework/inc/class.options_machine.php:499
+msgid "Social"
+msgstr "Sociaal"
+
+#: framework/option-framework/inc/class.options_machine.php:500
+msgid "Add New Social"
+msgstr "Voeg nieuw sociaal toe"
+
+#: framework/option-framework/inc/class.options_machine.php:629
+msgid "Last Backup : "
+msgstr "Laatste backup :"
+
+#: framework/option-framework/inc/class.options_machine.php:630
+#: framework/theme-option.php:939
+msgid "Backup Options"
+msgstr "Back-upopties"
+
+#: framework/option-framework/inc/class.options_machine.php:631
+msgid "Restore Options"
+msgstr "Herstel opties"
+
+#: framework/option-framework/inc/class.options_machine.php:645
+msgid "Import Options"
+msgstr "Import opties"
+
+#: framework/option-framework/inc/class.options_machine.php:839
+#: framework/option-framework/inc/class.options_machine.php:919
+msgid "Upload"
+msgstr "Uploaden"
+
+#: framework/option-framework/inc/class.options_machine.php:846
+msgid "Upgrade your version of WordPress for full media support"
+msgstr "Upgrade uw versie van WordPress voor volledige media-ondersteuning"
+
+#: framework/option-framework/inc/class.options_machine.php:904
+msgid "Slide"
+msgstr "Schuif"
+
+#: framework/option-framework/inc/class.options_machine.php:913
+#: framework/widgets/info-footer.php:125 framework/widgets/subscribe.php:32
+msgid "Title"
+msgstr "Titel"
+
+#: framework/option-framework/inc/class.options_machine.php:916
+msgid "Image URL"
+msgstr "Afbeelding URL"
+
+#: framework/option-framework/inc/class.options_machine.php:933
+msgid "Link URL (optional)"
+msgstr "Link-URL (optioneel)"
+
+#: framework/option-framework/inc/class.options_machine.php:936
+msgid "Description (optional)"
+msgstr "Beschrijving (optioneel)"
+
+#: framework/option-framework/inc/class.options_machine.php:939
+#: framework/option-framework/inc/class.options_machine.php:992
+#: framework/option-framework/inc/class.options_machine.php:1046
+msgid "Delete"
+msgstr "Verwijder"
+
+#: framework/option-framework/inc/class.options_machine.php:1068
+msgid "<span class=\"label1\">PHP Version: </span>"
+msgstr "<span class=\"label1\">PHP-versie: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+#: framework/option-framework/inc/class.options_machine.php:1072
+#: framework/option-framework/inc/class.options_machine.php:1080
+#: framework/option-framework/inc/class.options_machine.php:1082
+#: framework/option-framework/inc/class.options_machine.php:1090
+#: framework/option-framework/inc/class.options_machine.php:1092
+#, php-format
+msgid "<span class=\"label2\">Currently: %s</span>"
+msgstr "<span class=\"label2\">Momenteel: %s</span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1070
+msgid "Min: 5.3"
+msgstr "Min: 5.3"
+
+#: framework/option-framework/inc/class.options_machine.php:1078
+msgid "<span class=\"label1\">Maximum execution time: </span>"
+msgstr "<span class=\"label1\">Maximale uitvoeringstijd: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1080
+msgid "Min: 90"
+msgstr "Min: 90"
+
+#: framework/option-framework/inc/class.options_machine.php:1088
+msgid "<span class=\"label1\">Memory Limit: </span>"
+msgstr "<span class=\"label1\">Geheugenlimiet: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1090
+msgid "Min: 128M"
+msgstr "Min: 128M"
+
+#: framework/option-framework/inc/class.options_machine.php:1098
+msgid "<span class=\"label1\">Uploads folder writable: </span>"
+msgstr "<span class=\"label1\">Uploadmap schrijfbaar: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1108
+msgid "<span class=\"label1\">Connect InwaveThemes Server: </span>"
+msgstr "<span class=\"label1\">Connect InwaveThemes Server: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1118
+msgid "<span class=\"label1\">Start Session: </span>"
+msgstr "<span class=\"label1\">Start sessie: </span>"
+
+#: framework/option-framework/inc/class.options_machine.php:1124
+msgid ""
+"<span class=\"label2\">Failed to start session. Please check session "
+"save_path in your php setting</span>"
+msgstr ""
+"<span class=\"label2\">Kan sessie niet starten. Controleer session save_path "
+"in uw php-instelling </span>"
+
+#: framework/option-framework/inc/view.fontend_options.php:4
+msgid "Options Updated"
+msgstr "Opties bijgewerkt"
+
+#: framework/option-framework/inc/view.fontend_options.php:8
+msgid "Options Reset"
+msgstr "Opties Reset"
+
+#: framework/option-framework/inc/view.fontend_options.php:12
+msgid "Error!"
+msgstr "Fout!"
+
+#: framework/option-framework/inc/view.fontend_options.php:33
+msgid "Working..."
+msgstr "Werking"
+
+#: framework/option-framework/inc/view.fontend_options.php:36
+msgid "Save Change"
+msgstr "Wijziging opslaan"
+
+#: framework/option-framework/inc/view.fontend_options.php:56
+msgid "Imported successfully!"
+msgstr "Met succes geïmporteerd!"
+
+#: framework/theme-function.php:90
+msgid "Pingback:"
+msgstr "Pingback"
+
+#: framework/theme-function.php:90
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+#: framework/theme-function.php:106
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid " %s ago"
+msgstr " %s geleden"
+
+#: framework/theme-function.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Je opmerking moet nog beoordeeld worden."
+
+#: framework/theme-function.php:114
+msgid "Reply"
+msgstr "Antwoord"
+
+#: framework/theme-function.php:192 framework/theme-function.php:241
+#: framework/theme-function.php:412
+msgctxt "title"
+msgid "Share on Facebook"
+msgstr "Delen op Facebook"
+
+#: framework/theme-function.php:196 framework/theme-function.php:249
+msgctxt "title"
+msgid "Share on Twitter"
+msgstr "Delen op Twitter"
+
+#: framework/theme-function.php:200
+msgctxt "title"
+msgid "Share on Linkedin"
+msgstr "Deel via Linkedin"
+
+#: framework/theme-function.php:204 framework/theme-function.php:245
+msgctxt "title"
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-function.php:208
+msgctxt "title"
+msgid "Share on Tumblr"
+msgstr "Deel op Tumblr"
+
+#: framework/theme-function.php:212
+msgctxt "title"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-function.php:215
+msgctxt "title"
+msgid "I wanted you to see this site"
+msgstr "Ik wilde dat je deze site zou zien"
+
+#: framework/theme-function.php:216
+msgctxt "title"
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-metabox.php:41
+msgid "Page Options"
+msgstr "Pagina opties"
+
+#: framework/theme-metabox.php:48
+msgid "Main Color"
+msgstr "Hoofdkleur"
+
+#: framework/theme-metabox.php:54
+msgid "Background Color Page"
+msgstr "Pagina Achtergrondkleur"
+
+#: framework/theme-metabox.php:60
+msgid "Select Revolution  Slider"
+msgstr "Selecteer Revolution Slider"
+
+#: framework/theme-metabox.php:67 framework/theme-option.php:76
+msgid "Show preload"
+msgstr "Preload weergeven"
+
+#: framework/theme-metabox.php:71 framework/theme-metabox.php:109
+#: framework/theme-metabox.php:125 framework/theme-metabox.php:177
+#: framework/theme-metabox.php:187 framework/theme-metabox.php:197
+#: framework/theme-metabox.php:212 framework/theme-metabox.php:222
+#: framework/theme-metabox.php:232 framework/theme-metabox.php:242
+#: framework/theme-metabox.php:266 framework/theme-metabox.php:319
+#: framework/theme-metabox.php:371
+msgid "Default"
+msgstr "Standaard"
+
+#: framework/theme-metabox.php:72 framework/theme-metabox.php:126
+#: framework/theme-metabox.php:178 framework/theme-metabox.php:188
+#: framework/theme-metabox.php:198 framework/theme-metabox.php:213
+#: framework/theme-metabox.php:223 framework/theme-metabox.php:233
+#: framework/theme-metabox.php:243 framework/theme-metabox.php:253
+#: framework/theme-metabox.php:267 framework/theme-metabox.php:299
+#: framework/theme-metabox.php:320 framework/theme-metabox.php:357
+#: framework/theme-metabox.php:372 framework/theme-metabox.php:408
+#: framework/theme-metabox.php:435 framework/theme-option.php:716
+#: framework/theme-option.php:777
+msgid "Yes"
+msgstr "Ja"
+
+#: framework/theme-metabox.php:73 framework/theme-metabox.php:127
+#: framework/theme-metabox.php:179 framework/theme-metabox.php:189
+#: framework/theme-metabox.php:199 framework/theme-metabox.php:214
+#: framework/theme-metabox.php:224 framework/theme-metabox.php:234
+#: framework/theme-metabox.php:244 framework/theme-metabox.php:252
+#: framework/theme-metabox.php:268 framework/theme-metabox.php:298
+#: framework/theme-metabox.php:321 framework/theme-metabox.php:358
+#: framework/theme-metabox.php:373 framework/theme-metabox.php:409
+#: framework/theme-metabox.php:436 framework/theme-option.php:717
+#: framework/theme-option.php:778
+msgid "No"
+msgstr "Nee"
+
+#: framework/theme-metabox.php:77 framework/theme-register.php:239
+msgid "Primary Menu"
+msgstr "Eerste menu"
+
+#: framework/theme-metabox.php:83
+msgid "Show Page For"
+msgstr "Pagina tonen voor"
+
+#: framework/theme-metabox.php:88
+msgid "Anyone"
+msgstr "Iedereen"
+
+#: framework/theme-metabox.php:89
+msgid "Only Users Registered"
+msgstr "Alleen geregistreerde gebruikers"
+
+#: framework/theme-metabox.php:93 framework/theme-metabox.php:391
+msgid "Extra class"
+msgstr "Bijles"
+
+#: framework/theme-metabox.php:94 framework/theme-metabox.php:392
+msgid "Add extra class for page content"
+msgstr "Voeg extra klasse toe voor pagina-inhoud"
+
+#: framework/theme-metabox.php:100 framework/theme-option.php:393
+msgid "Header Options"
+msgstr "Header-opties"
+
+#: framework/theme-metabox.php:105
+msgid "Header style"
+msgstr "Headerstijl"
+
+#: framework/theme-metabox.php:110 framework/theme-option.php:9
+msgid "None"
+msgstr "Geen"
+
+#: framework/theme-metabox.php:111
+msgid "Header Style 1"
+msgstr "Headerstijl 1"
+
+#: framework/theme-metabox.php:112
+msgid "Header Style 2"
+msgstr "Headerstijl 2"
+
+#: framework/theme-metabox.php:113
+msgid "Header Style 3"
+msgstr "Headerstijl 3"
+
+#: framework/theme-metabox.php:114
+msgid "Header Style 4"
+msgstr "Headerstijl 4"
+
+#: framework/theme-metabox.php:115
+msgid "Header Style 5"
+msgstr "Headerstijl 5"
+
+#: framework/theme-metabox.php:116
+msgid "Header Style 6"
+msgstr "Headerstijl 6"
+
+#: framework/theme-metabox.php:117
+msgid "Header Style 7"
+msgstr "Headerstijl 7"
+
+#: framework/theme-metabox.php:121 framework/theme-option.php:416
+msgid "Sticky Header"
+msgstr "Kleverige kop"
+
+#: framework/theme-metabox.php:131
+msgid "Change logo"
+msgstr "Verander logo"
+
+#: framework/theme-metabox.php:136
+msgid "Change logo sticky"
+msgstr "Verander logo plakkerig"
+
+#: framework/theme-metabox.php:141
+msgid "Change logo mobile"
+msgstr "Verander logo mobiel"
+
+#: framework/theme-metabox.php:146 framework/theme-option.php:467
+msgid "Background Color Header"
+msgstr "Achtergrondkleur koptekst"
+
+#: framework/theme-metabox.php:151 framework/theme-option.php:473
+#, fuzzy
+#| msgid "Background Color Header"
+msgid "Opacity Background Color Header"
+msgstr "Achtergrondkleur koptekst"
+
+#: framework/theme-metabox.php:154 framework/theme-metabox.php:165
+#: framework/theme-metabox.php:312
+msgid "Allow value from 0 to 1 (style 2)"
+msgstr ""
+
+#: framework/theme-metabox.php:157 framework/theme-option.php:479
+msgid "Background Color Top Bar Header"
+msgstr "Achtergrondkleur Bovenbalk Header"
+
+#: framework/theme-metabox.php:162 framework/theme-option.php:485
+#, fuzzy
+#| msgid "Background Color Top Bar Header"
+msgid "Opacity Background Color Top Bar Header"
+msgstr "Achtergrondkleur Bovenbalk Header"
+
+#: framework/theme-metabox.php:168 framework/theme-option.php:499
+msgid "Background Color Header Sticky"
+msgstr "Achtergrondkleurkop Kleverig"
+
+#: framework/theme-metabox.php:173 framework/theme-option.php:511
+#, fuzzy
+#| msgid "Show post a job button"
+msgid "Show login/register button"
+msgstr "Toon bericht een opdrachtknop"
+
+#: framework/theme-metabox.php:183 framework/theme-option.php:517
+msgid "Show post a job button"
+msgstr "Toon bericht een opdrachtknop"
+
+#: framework/theme-metabox.php:193 framework/theme-option.php:523
+msgid "Show Buy Package button"
+msgstr "Toon Kooppakket-knop"
+
+#: framework/theme-metabox.php:203
+msgid "Buy Package URL"
+msgstr "Koop pakket-URL"
+
+#: framework/theme-metabox.php:208 framework/theme-option.php:535
+msgid "Show search form button"
+msgstr "Toon zoekformulier knop"
+
+#: framework/theme-metabox.php:218 framework/theme-option.php:541
+msgid "Show Cart Button"
+msgstr "Toon winkelwagen knop"
+
+#: framework/theme-metabox.php:228 framework/theme-option.php:547
+msgid "Show Notification"
+msgstr ""
+
+#: framework/theme-metabox.php:238 framework/theme-option.php:564
+msgid "Show Social Header"
+msgstr "Sociale header weergeven"
+
+#: framework/theme-metabox.php:248
+#, fuzzy
+#| msgid "Show Search Form On Page Heading"
+msgid "Show Search Form On Header"
+msgstr "Toon zoekformulier op pagina rubriek"
+
+#: framework/theme-metabox.php:257 framework/theme-option.php:573
+msgid "Page Heading Options"
+msgstr "Opties voor paginaopties"
+
+#: framework/theme-metabox.php:262 framework/theme-option.php:65
+msgid "Show page heading"
+msgstr "Toon paginakop"
+
+#: framework/theme-metabox.php:272
+msgid "Page heading background image"
+msgstr "Paginakop achtergrondafbeelding"
+
+#: framework/theme-metabox.php:277
+msgid "Page heading background color"
+msgstr "Paginakop achtergrondkleur"
+
+#: framework/theme-metabox.php:282 framework/theme-option.php:576
+msgid "Page Heading Padding Top"
+msgstr "Page Heading Padding Top"
+
+#: framework/theme-metabox.php:285 framework/theme-metabox.php:291
+#: framework/theme-option.php:577 framework/theme-option.php:583
+msgid "In pixels, ex: 10px"
+msgstr "In pixels, ex: 10 px"
+
+#: framework/theme-metabox.php:288 framework/theme-option.php:582
+msgid "Page Heading Padding Bottom"
+msgstr "Page Heading Padding Bottom"
+
+#: framework/theme-metabox.php:294
+msgid "Show Search Form On Page Heading"
+msgstr "Toon zoekformulier op pagina rubriek"
+
+#: framework/theme-metabox.php:303
+#, fuzzy
+#| msgid "Breadcrumbs Background Color"
+msgid "Search Form background color"
+msgstr "Breadcrumbs Achtergrondkleur"
+
+#: framework/theme-metabox.php:306
+msgid "Only for Show Search Form at style 2"
+msgstr ""
+
+#: framework/theme-metabox.php:309
+msgid "Search Form background color opacity"
+msgstr "Bepaalt de achtergrondkleur van de paginatitel."
+
+#: framework/theme-metabox.php:315
+msgid "Show page breadcrumb"
+msgstr "Toon pagina breadcrumb"
+
+#: framework/theme-metabox.php:325
+msgid "Sidebar Options"
+msgstr "Zijbalkopties"
+
+#: framework/theme-metabox.php:330 framework/theme-metabox.php:413
+#: framework/theme-option.php:689 framework/theme-option.php:754
+msgid "Sidebar Position"
+msgstr "Zijbalkpositie"
+
+#: framework/theme-metabox.php:334 framework/theme-metabox.php:380
+#: framework/theme-metabox.php:417 framework/theme-metabox.php:434
+msgid "Default Theme Option"
+msgstr "Standaardthemaoptie"
+
+#: framework/theme-metabox.php:335 framework/theme-metabox.php:418
+#: framework/theme-option.php:695 framework/theme-option.php:760
+msgid "Without Sidebar"
+msgstr "Zonder zijbalk"
+
+#: framework/theme-metabox.php:336 framework/theme-metabox.php:419
+#: framework/theme-option.php:696 framework/theme-option.php:761
+msgid "Right"
+msgstr "Rechts"
+
+#: framework/theme-metabox.php:337 framework/theme-metabox.php:420
+#: framework/theme-option.php:697 framework/theme-option.php:762
+msgid "Left"
+msgstr "Links"
+
+#: framework/theme-metabox.php:341 framework/theme-metabox.php:424
+#: framework/theme-option.php:675
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: framework/theme-metabox.php:347
+msgid "Sidebar 2"
+msgstr "Zijbalk 2"
+
+#: framework/theme-metabox.php:353 framework/theme-metabox.php:430
+#: framework/theme-option.php:711 framework/theme-option.php:772
+msgid "Sticky Sidebar"
+msgstr "Sticky Zijbalk"
+
+#: framework/theme-metabox.php:362
+#, fuzzy
+#| msgid "Footer options"
+msgid "Footer Options"
+msgstr "Voettekst opties"
+
+#: framework/theme-metabox.php:367 framework/theme-option.php:636
+#, fuzzy
+#| msgid "Show Page For"
+msgid "Show Footer"
+msgstr "Pagina tonen voor"
+
+#: framework/theme-metabox.php:384
+msgid "Post Options"
+msgstr "Post-opties"
+
+#: framework/theme-metabox.php:398
+msgid "Heading image"
+msgstr "Kop afbeelding"
+
+#: framework/theme-metabox.php:399
+msgid "If blank we will use the featured image."
+msgstr "Als dit leeg is, gebruiken we de uitgelichte afbeelding."
+
+#: framework/theme-metabox.php:404
+msgid "Show Featured Image"
+msgstr "Toon aanbevolen afbeelding"
+
+#: framework/theme-option.php:57
+msgid "General setting"
+msgstr "Algemene instelling"
+
+#: framework/theme-option.php:60
+msgid "Show demo setting panel"
+msgstr "Toon demo-instellingenpaneel"
+
+#: framework/theme-option.php:61
+msgid ""
+"Check this box to active the setting panel. This panel should be shown only "
+"in demo mode"
+msgstr ""
+"Vink dit vakje aan om het instellingenpaneel te activeren. Dit paneel zou "
+"alleen in demomodus getoond moeten worden"
+
+#: framework/theme-option.php:66
+msgid "Check this box to show or hide page heading"
+msgstr "Vink dit vakje aan om de paginakop te tonen of te verbergen"
+
+#: framework/theme-option.php:71
+msgid "Show breadcrumbs"
+msgstr "Toon breadcrumbs"
+
+#: framework/theme-option.php:72
+msgid "Check to display the breadcrumbs in general. Uncheck to hide them."
+msgstr ""
+"Vink aan om de breadcrumb in het algemeen weer te geven. Verwijder het "
+"vinkje om ze te verbergen."
+
+#: framework/theme-option.php:77
+msgid "Check to display the preload page."
+msgstr "Vink aan om de preload-pagina weer te geven."
+
+#: framework/theme-option.php:81
+msgid "Develop mode"
+msgstr "Ontwikkel modus"
+
+#: framework/theme-option.php:82
+#, fuzzy
+#| msgid ""
+#| "Check this box to active develop theme mode. For example, it will always "
+#| "complile the color file"
+msgid ""
+"Check this box to active develop theme mode. For example, it will always "
+"compile the color file"
+msgstr ""
+"Vink dit vakje aan om de themamodus actief te ontwikkelen. Het compileert "
+"bijvoorbeeld altijd het kleurenbestand"
+
+#: framework/theme-option.php:87
+msgid "Layout"
+msgstr "Layout"
+
+#: framework/theme-option.php:88
+msgid "Select boxed or wide layout."
+msgstr "Selecteer een ingesloten of brede lay-out."
+
+#: framework/theme-option.php:93
+msgid "Boxed"
+msgstr "Boksen"
+
+#: framework/theme-option.php:94
+msgid "Wide"
+msgstr "Breed"
+
+#: framework/theme-option.php:96
+msgid "Include WooCommerce libraries globally"
+msgstr ""
+
+#: framework/theme-option.php:97
+msgid "Load WooCommerce styles and scripts on all pages"
+msgstr ""
+
+#: framework/theme-option.php:102
+msgid ""
+"Please choose an image or insert an image url to use for the background."
+msgstr ""
+"Kies een afbeelding of voeg een afbeeldings-URL toe om te gebruiken voor de "
+"achtergrond."
+
+#: framework/theme-option.php:109 framework/theme-option.php:602
+msgid "Background Image Size"
+msgstr "Achtergrondafbeeldingsformaat"
+
+#: framework/theme-option.php:110
+msgid "Select background image size."
+msgstr "Selecteer de achtergrondafbeeldingsgrootte."
+
+#: framework/theme-option.php:114 framework/theme-option.php:608
+msgid "auto"
+msgstr "auto"
+
+#: framework/theme-option.php:114 framework/theme-option.php:609
+msgid "cover"
+msgstr "deksel"
+
+#: framework/theme-option.php:114 framework/theme-option.php:610
+msgid "contain"
+msgstr "bevatten"
+
+#: framework/theme-option.php:117 framework/theme-option.php:614
+msgid "Background Repeat"
+msgstr "Bachtergrond herhaling"
+
+#: framework/theme-option.php:118 framework/theme-option.php:615
+msgid "Choose how the background image repeats."
+msgstr "Kies hoe de achtergrondafbeelding wordt herhaald."
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat"
+msgstr "herhaling"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat-x"
+msgstr "herhaling -x"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "repeat-y"
+msgstr "herhaling - y"
+
+#: framework/theme-option.php:122 framework/theme-option.php:619
+msgid "no-repeat"
+msgstr "geen herhaling"
+
+#: framework/theme-option.php:126
+msgid "Typography"
+msgstr "Typografie"
+
+#: framework/theme-option.php:129
+msgid "Body Font Family"
+msgstr "Body Font Family"
+
+#: framework/theme-option.php:130
+msgid "Select a font family for body text"
+msgstr "Selecteer een lettertypefamilie voor hoofdtekst"
+
+#: framework/theme-option.php:135
+msgid "Body Font Settings"
+msgstr "Body Font-instellingen"
+
+#: framework/theme-option.php:136 framework/theme-option.php:147
+#: framework/theme-option.php:158
+msgid ""
+"Adjust the settings below to load different character sets and types for "
+"fonts. More character sets and types equals to slower page load."
+msgstr ""
+"Pas de onderstaande instellingen aan om verschillende tekensets en "
+"lettertypen voor lettertypen te laden. Meer tekensets en -typen staan voor "
+"een langzamere paginabelasting."
+
+#: framework/theme-option.php:140
+msgid "Headings Font"
+msgstr "Kopjes Lettertype"
+
+#: framework/theme-option.php:141
+msgid "Select a font family for headings"
+msgstr "Selecteer een lettertypefamilie voor koppen"
+
+#: framework/theme-option.php:146
+msgid "Headings Font Settings"
+msgstr "Kopjes Lettertype-instellingen"
+
+#: framework/theme-option.php:151
+msgid "Menu Font"
+msgstr "Menu lettertype"
+
+#: framework/theme-option.php:152
+msgid "Select a font family for navigation"
+msgstr "Selecteer een lettertypefamilie voor navigatie"
+
+#: framework/theme-option.php:157
+msgid "Menu Font Settings"
+msgstr "Menu Font-instellingen"
+
+#: framework/theme-option.php:162
+msgid "Default Font Size"
+msgstr "Standaard lettertypegrootte"
+
+#: framework/theme-option.php:163
+msgid "Default is 15px"
+msgstr "Standaard is 15px"
+
+#: framework/theme-option.php:168
+msgid "Default Font Line Height"
+msgstr "Standaard lettertype Lijnhoogte"
+
+#: framework/theme-option.php:169
+msgid "Default is 28px"
+msgstr "Standaard is 28 px"
+
+#: framework/theme-option.php:176
+msgid "Color presets"
+msgstr "Kleur presets"
+
+#: framework/theme-option.php:180
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: framework/theme-option.php:181
+msgid "Controls several items, ex: link hovers, highlights, and more."
+msgstr ""
+"Bestuurt verschillende items, bijv .: koppelingen, hoogtepunten en meer."
+
+#: framework/theme-option.php:185
+msgid "Content Background Color"
+msgstr "Inhoud Achtergrondkleur"
+
+#: framework/theme-option.php:186
+msgid "Controls the background color of the main content area."
+msgstr "Bepaalt de achtergrondkleur van het hoofdinhoudsgebied."
+
+#: framework/theme-option.php:190
+msgid "Body Background Color"
+msgstr "Lichaams achtergrondkleur"
+
+#: framework/theme-option.php:191
+msgid ""
+"Select a background color. Only show when you select General setting > "
+"layout > box."
+msgstr ""
+"Selecteer een achtergrondkleur. Wordt alleen weergegeven als u Algemene "
+"instelling > layout > selecteert."
+
+#: framework/theme-option.php:195
+msgid "Body Text Color"
+msgstr "Tekstkleur hoofdtekst"
+
+#: framework/theme-option.php:196
+msgid "Controls the text color of body font."
+msgstr "Bepaalt de tekstkleur van het hoofdlettertype."
+
+#: framework/theme-option.php:200
+msgid "Link Color"
+msgstr "Link kleur"
+
+#: framework/theme-option.php:201
+msgid "Controls the link color."
+msgstr "Bepaalt de verbindingskleur."
+
+#: framework/theme-option.php:205
+msgid "Link Hover Color"
+msgstr "Link Hover Color"
+
+#: framework/theme-option.php:206
+msgid "Controls the link hover color."
+msgstr "Hiermee bepaalt u de kleur van de link-zweeftekst."
+
+#: framework/theme-option.php:210
+msgid "Blockquote Color"
+msgstr "Blockquote kleur"
+
+#: framework/theme-option.php:211
+msgid "Controls the color of blockquote."
+msgstr "Bepaalt de kleur van blockquote."
+
+#: framework/theme-option.php:216 framework/theme-option.php:256
+#: framework/theme-option.php:307 framework/theme-option.php:361
+msgid "Color Scheme"
+msgstr "Kleurenschema"
+
+#: framework/theme-option.php:219
+msgid "Page Title & Breadcrumb Color"
+msgstr "Paginatitel & breadcrumb-kleur"
+
+#: framework/theme-option.php:223
+msgid "Page Title Color"
+msgstr "Paginatitel Kleur"
+
+#: framework/theme-option.php:224
+msgid "Controls the text color of the page title."
+msgstr "Bepaalt de tekstkleur van de paginatitel."
+
+#: framework/theme-option.php:228
+msgid "Page Title Background Color"
+msgstr "Paginatitel Achtergrondkleur"
+
+#: framework/theme-option.php:229
+msgid "Controls background color of the page title."
+msgstr "Bepaalt de achtergrondkleur van de paginatitel."
+
+#: framework/theme-option.php:233
+msgid "Breadcrumbs Background Color"
+msgstr "Breadcrumbs Achtergrondkleur"
+
+#: framework/theme-option.php:234
+msgid "Controls the background color of the breadcrumb."
+msgstr "Bepaalt de achtergrondkleur van het breadcrumb"
+
+#: framework/theme-option.php:238
+msgid "Breadcrumbs Text Color"
+msgstr "Breadcrumbs Tekstkleur"
+
+#: framework/theme-option.php:239
+msgid "Controls the text color of the breadcrumb."
+msgstr "Bepaalt de tekstkleur van het breadcrumb"
+
+#: framework/theme-option.php:243
+msgid "Breadcrumbs Link Color"
+msgstr "Breadcrumb Link-kleur"
+
+#: framework/theme-option.php:244
+msgid "Controls the link color of the breadcrumb."
+msgstr "Bepaalt de verbindingskleur van het breadcrumb."
+
+#: framework/theme-option.php:248
+msgid "Breadcrumbs Link Hover Color"
+msgstr "Breadcrumbs Link Hover Color"
+
+#: framework/theme-option.php:249
+msgid "control the color when user hovers on the links on the breadcrumb."
+msgstr "Hiermee bepaalt u de kleur van de link-zweeftekst van het breadcrumb."
+
+#: framework/theme-option.php:259
+msgid "Header Color"
+msgstr "Kop kleur"
+
+#: framework/theme-option.php:263
+msgid "Top bar Color"
+msgstr "Top balk Kleur"
+
+#: framework/theme-option.php:264
+msgid "Select a color for the top bar text."
+msgstr "Selecteer een kleur voor de tekst op de bovenste balk."
+
+#: framework/theme-option.php:268
+msgid "Menu Link Color"
+msgstr "Menu Link Kleur"
+
+#: framework/theme-option.php:269
+msgid "Select a color for the header link."
+msgstr "Selecteer een kleur voor de headerlink."
+
+#: framework/theme-option.php:273
+msgid "Menu Header Sticky Link Color"
+msgstr "Menubalk Kleverige koppelingskleur"
+
+#: framework/theme-option.php:274
+msgid "Select a color for the menu header sticky link hover."
+msgstr "Selecteer een kleur voor de stick-link hover van de menuboom."
+
+#: framework/theme-option.php:278
+msgid "Menu Link Hover Color"
+msgstr "Menu Link Hover Kleur"
+
+#: framework/theme-option.php:279
+msgid "Select a color for the header link hover."
+msgstr "Selecteer een kleur voor de zwevende hover van de hoes."
+
+#: framework/theme-option.php:283
+msgid "Sub Menu Link Color"
+msgstr "Submenu Linkkleur"
+
+#: framework/theme-option.php:284
+msgid "Select a color for the header sub link."
+msgstr "Selecteer een kleur voor de header-subkoppeling."
+
+#: framework/theme-option.php:288
+msgid "Sub Menu Link Hover Color"
+msgstr "Submenukoppeling Kleur zweven"
+
+#: framework/theme-option.php:289
+msgid "Select a color for the header sub link hover."
+msgstr "Selecteer een kleur voor de hover van de subpagina van de koptekst."
+
+#: framework/theme-option.php:293
+msgid "Submenu Background Color"
+msgstr "Submenu Achtergrondkleur"
+
+#: framework/theme-option.php:294
+msgid "Select a background color for submenu."
+msgstr "Selecteer een achtergrondkleur voor het submenu."
+
+#: framework/theme-option.php:298
+msgid "SubMenu Border Color"
+msgstr "SubMenu Border Color"
+
+#: framework/theme-option.php:299
+msgid "Select a border color for the submenu."
+msgstr "Selecteer een randkleur voor het submenu."
+
+#: framework/theme-option.php:310
+msgid "Footer Color"
+msgstr "Voettekleur"
+
+#: framework/theme-option.php:315
+msgid "Footer Background Color"
+msgstr "Voettekst achtergrondkleur"
+
+#: framework/theme-option.php:316
+msgid "Select a color for the footer background."
+msgstr "Selecteer een kleur voor de achtergrond van het voettekst."
+
+#: framework/theme-option.php:321
+msgid "Footer Border Color"
+msgstr "Voettekst Randkleur"
+
+#: framework/theme-option.php:322
+msgid "Select a color for the footer border."
+msgstr "Selecteer een kleur voor de voettekst."
+
+#: framework/theme-option.php:328
+msgid "Footer Headings Color"
+msgstr "Voettekst kleurt"
+
+#: framework/theme-option.php:329
+msgid "Controls the text color of the footer heading font."
+msgstr "Bepaalt de tekstkleur van het lettertype van het voettekstkopje."
+
+#: framework/theme-option.php:334
+msgid "Footer Text Color"
+msgstr "Tekstkleur voettekst"
+
+#: framework/theme-option.php:335
+msgid "Controls the text color of the footer."
+msgstr "Bepaalt de tekstkleur van de voettekst."
+
+#: framework/theme-option.php:340
+msgid "Footer Link Color"
+msgstr "Voettekst Kleur koppelen"
+
+#: framework/theme-option.php:341
+msgid "Controls the text color of the footer link font."
+msgstr "Bepaalt de tekstkleur van het lettertype van de voettekst."
+
+#: framework/theme-option.php:346
+msgid "Footer Link Hover Color"
+msgstr "Voettekst Link Hover Color"
+
+#: framework/theme-option.php:347
+msgid "Controls the link hover color of the footer link."
+msgstr "Bepaalt de link-hover-kleur van de footer-link."
+
+#: framework/theme-option.php:352
+msgid "Footer Link Border Color"
+msgstr "Voettekst Link Border Color"
+
+#: framework/theme-option.php:353
+msgid "Controls the link border color of the footer link."
+msgstr "Hiermee bepaalt u de kleur van de linkrand van de voettekstkoppeling."
+
+#: framework/theme-option.php:364
+msgid "Copyright Color"
+msgstr "Copyright kleur"
+
+#: framework/theme-option.php:368
+msgid "Copyright Background Color"
+msgstr "Copyright achtergrondkleur"
+
+#: framework/theme-option.php:369
+msgid "Controls the background color of the copyright section."
+msgstr "Bepaalt de achtergrondkleur van het auteursrechtgedeelte."
+
+#: framework/theme-option.php:373
+msgid "Copyright Text Color"
+msgstr "Tekstkleur auteursrecht"
+
+#: framework/theme-option.php:374
+msgid "Controls the text color of the breadcrumb font."
+msgstr "Bepaalt de tekstkleur van het breadcrumb-lettertype."
+
+#: framework/theme-option.php:378
+msgid "Copyright Link Color"
+msgstr "Copyright Link Kleur"
+
+#: framework/theme-option.php:379
+msgid "Controls the link color of the breadcrumb font."
+msgstr "Bepaalt de verbindingskleur van het breadcrumb-lettertype."
+
+#: framework/theme-option.php:383
+msgid "Copyright Link Hover Color"
+msgstr "Copyright Link Hover Color"
+
+#: framework/theme-option.php:384
+msgid "Controls the link hover color of the Copyright."
+msgstr "Bepaalt de kleur van de koppelingshover van het auteursrecht."
+
+#: framework/theme-option.php:396 framework/theme-option.php:570
+msgid "Header Info"
+msgstr "Header Info"
+
+#: framework/theme-option.php:399
+msgid "Header Content Options"
+msgstr "Opties header-inhoud"
+
+#: framework/theme-option.php:402
+msgid "Select a Header Layout"
+msgstr "Selecteer een koplay-out"
+
+#: framework/theme-option.php:417
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+"Vink aan om een vaste koptekst in te schakelen tijdens het scrollen, "
+"verwijder het vinkje om uit te schakelen."
+
+#: framework/theme-option.php:422
+msgid "Sticky Header On Mobile"
+msgstr "Kleverige kop op mobiel"
+
+#: framework/theme-option.php:423
+msgid ""
+"Check to enable a fixed header when scrolling, uncheck to disable on Mobile."
+msgstr ""
+"Vink aan om een vaste koptekst in te schakelen tijdens het scrollen, "
+"verwijder het vinkje bij uitschakelen op mobiel."
+
+#: framework/theme-option.php:429
+msgid "Logo"
+msgstr "Logo"
+
+#: framework/theme-option.php:430
+msgid "Please choose an image file for your logo."
+msgstr "Kies een afbeeldingsbestand voor uw logo."
+
+#: framework/theme-option.php:437
+msgid "Logo Sticky"
+msgstr "Logo Sticky"
+
+#: framework/theme-option.php:438
+msgid "Please choose an image file for your logo sticky."
+msgstr "Kies een afbeeldingsbestand voor uw logo kleverig."
+
+#: framework/theme-option.php:445
+msgid "Logo Mobile"
+msgstr "Logo Mobile"
+
+#: framework/theme-option.php:446
+msgid "Please choose an image file for your logo mobile."
+msgstr "Kies een afbeeldingsbestand voor uw logo mobiel."
+
+#: framework/theme-option.php:452
+#, fuzzy
+#| msgid "Link Color"
+msgid "Link Logo"
+msgstr "Link kleur"
+
+#: framework/theme-option.php:453
+msgid "Default links point to the home page"
+msgstr ""
+
+#: framework/theme-option.php:460
+msgid "Background Image Header"
+msgstr "Achtergrondafbeelding Header"
+
+#: framework/theme-option.php:461
+msgid "Please choose an image file for your background header."
+msgstr "Kies een afbeeldingsbestand voor uw achtergrondkop."
+
+#: framework/theme-option.php:468
+#, fuzzy
+#| msgid "Please choose an color for your background header sticky."
+msgid "Please choose an color for your background header."
+msgstr "Kies een kleur voor uw achtergrondkop kleverig."
+
+#: framework/theme-option.php:474 framework/theme-option.php:486
+#: framework/theme-option.php:627
+msgid "Please enter the value from 0 to 1."
+msgstr "Voer alstublieft een waarde in"
+
+#: framework/theme-option.php:480
+#, fuzzy
+#| msgid "Please choose an color for your background header sticky."
+msgid "Please choose an color for your background top b header."
+msgstr "Kies een kleur voor uw achtergrondkop kleverig."
+
+#: framework/theme-option.php:492
+msgid "Background Image Header Sticky"
+msgstr "Achtergrondkopregel Kleverig"
+
+#: framework/theme-option.php:493
+msgid "Please choose an image file for your background header sticky."
+msgstr "Kies een afbeeldingsbestand dat kleverig is voor uw achtergrondkop."
+
+#: framework/theme-option.php:500
+msgid "Please choose an color for your background header sticky."
+msgstr "Kies een kleur voor uw achtergrondkop kleverig."
+
+#: framework/theme-option.php:505
+msgid "Header contact"
+msgstr "Contact met de kop"
+
+#: framework/theme-option.php:506
+msgid "Enter information contact for default header."
+msgstr "Voer informatiecontact in voor standaardkopregel."
+
+#: framework/theme-option.php:512
+#, fuzzy
+#| msgid "Show or hidden Cart button in Header."
+msgid "Show or hidden Button Login and User register in Header."
+msgstr "Toon of verborgen winkelwagen knop in koptekst."
+
+#: framework/theme-option.php:518
+msgid "Show or hidden post a job button in Header."
+msgstr "Tonen of verborgen plaatsen van een opdrachtknop in koptekst."
+
+#: framework/theme-option.php:524
+msgid "Show or hidden Buy Package button in Header."
+msgstr "Toon of verborgen knop Pakket kopen in koptekst."
+
+#: framework/theme-option.php:529
+msgid "Buy Package URL "
+msgstr "Koop pakket-URL"
+
+#: framework/theme-option.php:530
+msgid "You can leave blank OR set an url OR an ID of the element"
+msgstr "U kunt blanco laten OF een URL OF ID van het element instellen"
+
+#: framework/theme-option.php:536
+msgid "Show or hidden search form button in Header."
+msgstr "Knop Verkenner weergeven of verbergen in koptekst."
+
+#: framework/theme-option.php:542
+msgid "Show or hidden Cart button in Header."
+msgstr "Toon of verborgen winkelwagen knop in koptekst."
+
+#: framework/theme-option.php:548
+#, fuzzy
+#| msgid "Show or hidden Social in Header."
+msgid "Show or hidden Notification in Header."
+msgstr "Sociaal tonen of verbergen in koptekst."
+
+#: framework/theme-option.php:553
+#, fuzzy
+#| msgid "Show Buy Package button"
+msgid "Show Buy Theme Button"
+msgstr "Toon Kooppakket-knop"
+
+#: framework/theme-option.php:554
+#, fuzzy
+#| msgid "Show or hidden Buy Package button in Header."
+msgid "Show or hidden Buy Theme button in Header."
+msgstr "Toon of verborgen knop Pakket kopen in koptekst."
+
+#: framework/theme-option.php:559
+msgid "Buy Theme Button URL "
+msgstr ""
+
+#: framework/theme-option.php:565
+msgid "Show or hidden Social in Header."
+msgstr "Sociaal tonen of verbergen in koptekst."
+
+#: framework/theme-option.php:588
+msgid "Page Heading Background Image"
+msgstr "Page Heading achtergrondafbeelding"
+
+#: framework/theme-option.php:589
+#, fuzzy
+#| msgid ""
+#| "Please choose an image or insert an image url to use for the page title "
+#| "background."
+msgid ""
+"Please choose an image or insert an image url to use for the page heading "
+"background."
+msgstr ""
+"Kies een afbeelding of voeg een afbeeldings-URL toe om te gebruiken voor de "
+"achtergrond van de paginatitel."
+
+#: framework/theme-option.php:595
+msgid "Page Heading Background Color"
+msgstr "Pagina Kopieer achtergrondkleur"
+
+#: framework/theme-option.php:596
+#, fuzzy
+#| msgid "Please choose an color to use for the page title background."
+msgid "Please choose an color to use for the page heading background."
+msgstr "Kies een kleur om te gebruiken voor de achtergrond van de paginatitel."
+
+#: framework/theme-option.php:603
+#, fuzzy
+#| msgid "Select Page Title background image size."
+msgid "Select Page Heading background image size."
+msgstr "Selecteer de achtergrondafbeeldingsgrootte van de paginatitel."
+
+#: framework/theme-option.php:621
+#, fuzzy
+#| msgid "Breadcrumbs Background Color"
+msgid "Search Form Background Color"
+msgstr "Breadcrumbs Achtergrondkleur"
+
+#: framework/theme-option.php:622
+#, fuzzy
+#| msgid "Please choose an color to use for the page title background."
+msgid ""
+"Please choose an color to use for the search form background of style 2."
+msgstr "Kies een kleur om te gebruiken voor de achtergrond van de paginatitel."
+
+#: framework/theme-option.php:626
+#, fuzzy
+#| msgid "Breadcrumbs Background Color"
+msgid "Search Form Background Color Opacity"
+msgstr "Breadcrumbs Achtergrondkleur"
+
+#: framework/theme-option.php:633
+msgid "Footer options"
+msgstr "Voettekst opties"
+
+#: framework/theme-option.php:637
+#, fuzzy
+#| msgid "Show or hidden Social in Header."
+msgid "Show or hidden footer."
+msgstr "Sociaal tonen of verbergen in koptekst."
+
+#: framework/theme-option.php:641
+msgid "Footer style"
+msgstr "Voettekststijl"
+
+#: framework/theme-option.php:649
+msgid "Footer Default columns"
+msgstr "Voettekst Standaardkolommen"
+
+#: framework/theme-option.php:660
+msgid "Footer copyright"
+msgstr "Voettekst copyright"
+
+#: framework/theme-option.php:661
+msgid "Please enter text copyright for footer."
+msgstr "Voer tekst copyright voor footer in."
+
+#: framework/theme-option.php:663
+msgid "© <a href='#'>Inwavethemes</a> All rights reserved."
+msgstr "© <a href='#'>Inwavethemes</a> Alle rechten voorbehouden."
+
+#: framework/theme-option.php:668 framework/theme-option.php:671
+msgid "Custom Sidebar"
+msgstr "Aangepaste zijbalk"
+
+#: framework/theme-option.php:672
+msgid "Custom sidebar"
+msgstr "Aangepaste zijbalk"
+
+#: framework/theme-option.php:676
+msgid "Add New Sidebar"
+msgstr "Nieuwe zijbalk toevoegen"
+
+#: framework/theme-option.php:679
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/theme-option.php:682 framework/theme-option.php:685
+msgid "Blog Listing"
+msgstr "Blogvermelding"
+
+#: framework/theme-option.php:690 framework/theme-option.php:755
+msgid "Select slide bar position"
+msgstr "Selecteer de positie van de schuifbalk"
+
+#: framework/theme-option.php:704 framework/theme-option.php:765
+msgid "Sidebar Name"
+msgstr "Zijbalknaam"
+
+#: framework/theme-option.php:705 framework/theme-option.php:766
+msgid "Select slidebar"
+msgstr "Selecteer schuifbalk"
+
+#: framework/theme-option.php:719
+msgid "Show Categories"
+msgstr "Toon categorieën"
+
+#: framework/theme-option.php:720
+msgid "Check the box to display the post categories."
+msgstr "Vink het vakje aan om de postcategorieën weer te geven."
+
+#: framework/theme-option.php:725 framework/theme-option.php:786
+msgid "Show Post Date"
+msgstr "Postdatum weergeven"
+
+#: framework/theme-option.php:726 framework/theme-option.php:787
+msgid "Check the box to display blog post date"
+msgstr "Vink het vakje aan om de datum van de blogpost weer te geven"
+
+#: framework/theme-option.php:730
+msgid "Show Post Author"
+msgstr "Post Auteur tonen"
+
+#: framework/theme-option.php:731
+msgid "Check the box to display blog post author"
+msgstr "Vink het vakje aan om de auteur van het blogbericht weer te geven"
+
+#: framework/theme-option.php:735
+msgid "Show Post Comment"
+msgstr "Toon commentaar plaatsen"
+
+#: framework/theme-option.php:736
+msgid "Check the box to display blog post comment"
+msgstr "Vink het vakje aan om commentaar op blogpost weer te geven"
+
+#: framework/theme-option.php:741 framework/theme-option.php:797
+msgid "Show Social Sharing"
+msgstr "Toon sociaal delen"
+
+#: framework/theme-option.php:742 framework/theme-option.php:798
+msgid "Check the box to display the social sharing"
+msgstr "Vink het vakje aan om social sharing weer te geven"
+
+#: framework/theme-option.php:747 framework/theme-option.php:750
+msgid "Blog Single Post"
+msgstr "Blog enkele bericht"
+
+#: framework/theme-option.php:781
+msgid "Post Categories"
+msgstr "Postcategorieën"
+
+#: framework/theme-option.php:782
+msgid "Check the box to display the post categories"
+msgstr "Vink het vakje aan om de postcategorieën weer te geven"
+
+#: framework/theme-option.php:791
+msgid "Show Author Info"
+msgstr "Toon auteurinformatie"
+
+#: framework/theme-option.php:792
+msgid "Check the box to display the author info in the post"
+msgstr ""
+"Vink het vakje aan om de auteursinformatie in het bericht weer te geven"
+
+#: framework/theme-option.php:803
+msgid "Show Tags"
+msgstr "Toon labels"
+
+#: framework/theme-option.php:804
+msgid "Check the box to display the post tags"
+msgstr "Vink het vakje aan om de berichttags weer te geven"
+
+#: framework/theme-option.php:829
+msgid "Social Media"
+msgstr "Sociale media"
+
+#: framework/theme-option.php:832 framework/theme-option.php:835
+msgid "Social Sharing"
+msgstr "Sociaal delen"
+
+#: framework/theme-option.php:837 framework/theme-option.php:894
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/theme-option.php:838
+msgid ""
+"Check the box to show the facebook sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor het delen van facebook te tonen op "
+"de blog-, woocommerce- en portfolio-detailpagina."
+
+#: framework/theme-option.php:843 framework/theme-option.php:899
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/theme-option.php:844
+msgid ""
+"Check the box to show the twitter sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor het delen van twitter weer te geven "
+"op de pagina met blogs, woocommerce en portfolio-informatie."
+
+#: framework/theme-option.php:849
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/theme-option.php:850
+msgid ""
+"Check the box to show the linkedin sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor het delen van linkedin op de blog-, "
+"woocommerce- en portfolio-detailpagina weer te geven."
+
+#: framework/theme-option.php:855
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/theme-option.php:856
+msgid ""
+"Check the box to show the g+ sharing icon in blog, woocommerce and portfolio "
+"detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor g + delen weer te geven op de "
+"pagina met blogs, woocommerce en portfolio-informatie."
+
+#: framework/theme-option.php:861
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: framework/theme-option.php:862
+msgid ""
+"Check the box to show the tumblr sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor tumblr delen weer te geven op de "
+"pagina met blogs, woocommerce en portfolio-informatie."
+
+#: framework/theme-option.php:867
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/theme-option.php:868
+msgid ""
+"Check the box to show the pinterest sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor pinterest delen op blog-, "
+"woocommerce- en portfolio-detailpagina weer te geven."
+
+#: framework/theme-option.php:873
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-option.php:874
+msgid ""
+"Check the box to show the email sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+"Vink het vakje aan om het pictogram voor het delen van e-mail te tonen op de "
+"blog-, woocommerce- en portfolio-detailpagina."
+
+#: framework/theme-option.php:880 framework/theme-option.php:883
+msgid "Social Link Configs"
+msgstr "Social Link Configs"
+
+#: framework/theme-option.php:886
+msgid "Social links"
+msgstr "Sociale links"
+
+#: framework/theme-option.php:887
+msgid ""
+"Add new social links. Awesome icon You can get at <a target='_blank' "
+"href='https://fortawesome.github.io/Font-Awesome/'>here</a>"
+msgstr ""
+"Voeg nieuwe sociale links toe. Awesome icon Je kunt er komen <a "
+"target='_blank' href='https://fortawesome.github.io/Font-Awesome/'>here</a>"
+
+#: framework/theme-option.php:904
+msgid "Google Plush"
+msgstr "Google Plus"
+
+#: framework/theme-option.php:912
+msgid "Map"
+msgstr "Kaart"
+
+#: framework/theme-option.php:915
+msgid "Google Map API"
+msgstr "Google Map API"
+
+#: framework/theme-option.php:916
+msgid ""
+"Use for process data from google service. Eg: map, photo, video... To get "
+"Google api, you can access via <a href=\"https://console.developers.google."
+"com/\" target=\"_blank\">here</a>."
+msgstr ""
+"Gebruik voor procesgegevens van Google-service. Bijv .: kaart, foto, "
+"video ... Om Google api te krijgen, hebt u toegang tot via <a href=\"https://"
+"console.developers.google.com/\" target=\"_blank\">here</a>."
+
+#: framework/theme-option.php:921
+msgid "Map Styles"
+msgstr "Kaartstijlen"
+
+#: framework/theme-option.php:922
+msgid ""
+"Using for contact map. You can get <a href=\"https://snazzymaps.com\" target="
+"\"_blank\">here</a>."
+msgstr ""
+"Gebruik voor contactkaart. Je kan krijgen <a href=\"https://snazzymaps.com\" "
+"target=\"_blank\">here</a>."
+
+#: framework/theme-option.php:928
+msgid "Import Demo"
+msgstr "Demo importeren"
+
+#: framework/theme-option.php:931 framework/theme-option.php:935
+msgid "Import Demo Content"
+msgstr "Demo-inhoud importeren"
+
+#: framework/theme-option.php:932
+msgid ""
+"We recommend you to <a href='https://wordpress.org/plugins/wordpress-reset/' "
+"target='_blank'>reset data</a>  & clean wp-content/uploads before import to "
+"prevent duplicate content!"
+msgstr ""
+"Wij raden u aan om <a href='https://wordpress.org/plugins/wordpress-reset/' "
+"target='_blank'>reset data</a>  & clean wp-content/uploadt vóór de import om "
+"dubbele inhoud te voorkomen!"
+
+#: framework/theme-option.php:942
+msgid "Backup and Restore Options"
+msgstr "Back-up en herstelopties"
+
+#: framework/theme-option.php:946
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"U kunt de twee onderstaande knoppen gebruiken om een back-up te maken van uw "
+"huidige opties en deze op een later tijdstip terug te zetten. Dit is handig "
+"als u wilt experimenteren met de opties, maar de oude instellingen wilt "
+"behouden voor het geval u deze terug nodig heeft."
+
+#: framework/theme-option.php:949
+msgid "Transfer Theme Options Data"
+msgstr "Gegevens over overdrachtsthema's overbrengen"
+
+#: framework/theme-option.php:953
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"U kunt de opgeslagen optiegegevens overzetten tussen verschillende "
+"installaties door de tekst in het tekstvak te kopiëren. Om gegevens van een "
+"andere installatie te importeren, vervangt u de gegevens in het tekstvak "
+"door die van een andere installatie en klikt u op \"Importopties\"."
+
+#: framework/theme-plugin-load.php:31
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: framework/theme-plugin-load.php:42
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: framework/theme-plugin-load.php:52
+msgid "InWave Jobs"
+msgstr "InWave Jobs"
+
+#: framework/theme-plugin-load.php:62
+msgid "InWave Common for Jobs"
+msgstr "InWave Common for Jobs"
+
+#: framework/theme-plugin-load.php:72
+msgid "Contact form 7"
+msgstr "Contact form 7"
+
+#: framework/theme-plugin-load.php:77
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: framework/theme-plugin-load.php:82
+msgid "YITH Woocommerce Wishlist"
+msgstr "YITH Woocommerce Wishlist"
+
+#: framework/theme-register.php:10
+msgid "Sidebar Default"
+msgstr "Standaard zijbalk"
+
+#: framework/theme-register.php:21
+msgid "Sidebar Job Details"
+msgstr "Sidebar-opdrachtdetails"
+
+#: framework/theme-register.php:31
+#, fuzzy
+#| msgid "Sidebar Job Details"
+msgid "Sidebar Job Details V2"
+msgstr "Sidebar-opdrachtdetails"
+
+#: framework/theme-register.php:41
+msgid "Sidebar Candidate Details"
+msgstr "Sidebar Candidate Details"
+
+#: framework/theme-register.php:51
+msgid "Sidebar Candidate Details V2"
+msgstr "Sidebar Candidate Details V2"
+
+#: framework/theme-register.php:61
+msgid "Sidebar Employer Details"
+msgstr "Sidebar-werkgeversdetails"
+
+#: framework/theme-register.php:71
+msgid "Sidebar Employer Details V2"
+msgstr "Sidebar Werkgever Details V2"
+
+#: framework/theme-register.php:81
+msgid "Sidebar Jobs 1"
+msgstr "Zijbalkjobs 1"
+
+#: framework/theme-register.php:90
+msgid "Sidebar Jobs 2"
+msgstr "Zijbalkjobs 2"
+
+#: framework/theme-register.php:99
+msgid "Sidebar Candidates 1"
+msgstr "Sidebar-kandidaten 1"
+
+#: framework/theme-register.php:108
+msgid "Sidebar Candidates 2"
+msgstr "Sidebar-kandidaten 2"
+
+#: framework/theme-register.php:117
+msgid "Sidebar Employers 1"
+msgstr "Sidebar-werkgevers 1"
+
+#: framework/theme-register.php:126
+msgid "Sidebar Employers 2"
+msgstr "Sidebar-werkgevers 2"
+
+#: framework/theme-register.php:140
+msgid "Sidebar Product"
+msgstr "Zijbalkproduct"
+
+#: framework/theme-register.php:157
+msgid "Footer widget 4"
+msgstr "Voettekst widget 4"
+
+#: framework/theme-register.php:159 framework/theme-register.php:173
+#: framework/theme-register.php:187 framework/theme-register.php:201
+msgid "This is footer widget location"
+msgstr "Dit is de locatie van voetteksten"
+
+#: framework/theme-register.php:171
+msgid "Footer widget 3"
+msgstr "Voettekst widget 3"
+
+#: framework/theme-register.php:185
+msgid "Footer widget 2"
+msgstr "Voettekst widget 2"
+
+#: framework/theme-register.php:199
+msgid "Footer widget 1"
+msgstr "Voettekst widget 1"
+
+#: framework/widgets/info-footer.php:8
+msgid "Inwave Contact Information"
+msgstr "Inwave contactinformatie"
+
+#: framework/widgets/info-footer.php:9
+msgid "Widget display about us information in footer."
+msgstr "Widget-weergave over ons informatie in voetnoot."
+
+#: framework/widgets/info-footer.php:129
+msgid "Image"
+msgstr "Beeld"
+
+#: framework/widgets/info-footer.php:143
+msgid "Upload Image"
+msgstr "Afbeelding uploaden"
+
+#: framework/widgets/info-footer.php:145
+msgid "Action URL"
+msgstr "Actie-URL"
+
+#: framework/widgets/info-footer.php:146
+msgid "Link Text"
+msgstr "Verbind tekst"
+
+#: framework/widgets/info-footer.php:147
+msgid "Social Resource"
+msgstr "Social Resource"
+
+#: framework/widgets/info-footer.php:149
+msgid "Theme config"
+msgstr "Thema-config"
+
+#: framework/widgets/info-footer.php:150
+msgid "Custom"
+msgstr "Gewoonte"
+
+#: framework/widgets/info-footer.php:154
+msgid "Custom Social"
+msgstr "Aangepast sociaal"
+
+#: framework/widgets/recent-comment.php:27
+msgid "Recent Comments"
+msgstr "Recent commentaar"
+
+#: framework/widgets/recent-comment.php:66
+msgid "on"
+msgstr "op"
+
+#: framework/widgets/recent-post.php:26
+msgid "Recent Posts"
+msgstr "Recente berichten"
+
+#: framework/widgets/subscribe.php:12
+msgid "Inwave Subscribe"
+msgstr "Inwave abonneren"
+
+#: framework/widgets/subscribe.php:13
+msgid "Widget display subscribe."
+msgstr "Widget-display abonneren."
+
+#: framework/widgets/subscribe.php:34
+msgid "Action Url"
+msgstr "Actie-URL"
+
+#: framework/widgets/subscribe.php:74
+msgid "Submitting..."
+msgstr "Het indienen van"
+
+#: framework/widgets/subscribe.php:75
+msgid "We have sent you a confirmation email"
+msgstr "We hebben je een bevestigingsmail gestuurd"
+
+#: framework/widgets/subscribe.php:76
+msgid "Please enter a value"
+msgstr "Voer alstublieft een waarde in"
+
+#: framework/widgets/subscribe.php:77
+msgid "An email address must contain a single @"
+msgstr "Een e-mailadres moet een single bevatten @"
+
+#: framework/widgets/subscribe.php:78
+msgid ""
+"The domain portion of the email address is invalid (the portion after the "
+"@: )"
+msgstr ""
+"Het domeingedeelte van het e-mailadres is ongeldig (het gedeelte na de @:)"
+
+#: framework/widgets/subscribe.php:79
+msgid ""
+"The username portion of the email address is invalid (the portion before the "
+"@: )"
+msgstr ""
+"Het gebruikersnaamgedeelte van het e-mailadres is ongeldig (het gedeelte "
+"vóór de @:)"
+
+#: framework/widgets/subscribe.php:80
+msgid ""
+"This email address looks fake or invalid. Please enter a real email address"
+msgstr ""
+"Dit e-mailadres ziet er nep of ongeldig uit. Voer alstublieft een echt e-"
+"mailadres in"
+
+#: framework/widgets/subscribe.php:89
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: framework/widgets/subscribe.php:90
+msgid "Subscribe"
+msgstr "Sbonneren"
+
+#: headers/header-default.php:143 headers/header-v2.php:180
+#: headers/header-v3.php:143 headers/header-v4.php:193
+#: headers/header-v5.php:171 headers/header-v5.php:227
+#: headers/header-v6.php:146 headers/header-v7.php:179
+msgid "register"
+msgstr "registreren"
+
+#: headers/header-default.php:145 headers/header-v2.php:182
+#: headers/header-v3.php:145 headers/header-v4.php:195
+#: headers/header-v5.php:168 headers/header-v5.php:224
+#: headers/header-v6.php:148 headers/header-v7.php:181
+msgid "login"
+msgstr "Log in"
+
+#: headers/header-default.php:184 headers/header-default.php:185
+#: headers/header-v2.php:124 headers/header-v2.php:125
+#: headers/header-v3.php:180 headers/header-v3.php:181
+#: headers/header-v4.php:137 headers/header-v4.php:138
+#: headers/header-v5.php:117 headers/header-v5.php:118
+#: headers/header-v6.php:185 headers/header-v6.php:186
+#: headers/header-v7.php:123
+msgid "Post a job"
+msgstr "Plaats een baan"
+
+#: headers/header-default.php:199 headers/header-default.php:200
+#: headers/header-v3.php:195 headers/header-v3.php:196
+#: headers/header-v6.php:200 headers/header-v6.php:201
+msgid "Buy A Package"
+msgstr "Koop een pakket"
+
+#: headers/header-default.php:216 headers/header-default.php:217
+#: headers/header-v2.php:140 headers/header-v2.php:141
+#: headers/header-v3.php:212 headers/header-v3.php:213
+#: headers/header-v4.php:153 headers/header-v4.php:154
+#: headers/header-v5.php:133 headers/header-v5.php:134
+#: headers/header-v6.php:217 headers/header-v6.php:218
+#: headers/header-v7.php:139
+msgid "Update a resume"
+msgstr "Update een cv"
+
+#: headers/header-default.php:302 headers/header-v3.php:290
+#: headers/header-v4.php:242 headers/header-v6.php:295 searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken:"
+
+#: headers/header-default.php:302 headers/header-v3.php:290
+#: headers/header-v4.php:242 headers/header-v6.php:295
+msgctxt "placeholder"
+msgid "Enter  key words..."
+msgstr "Voer sleutelwoorden in ..."
+
+#: headers/header-v2.php:165 headers/header-v4.php:178
+#: headers/header-v7.php:164
+msgid "Hello"
+msgstr "Hallo"
+
+#: headers/header-v7.php:105
+msgid "Buy Theme"
+msgstr ""
+
+#: page-templates/full-width-page.php:27 page-templates/home-page.php:29
+#: page-templates/left-sidebar.php:43 page-templates/right-sidebar.php:43
+#: page-templates/search-map.php:28 page-templates/two-sidebar-page.php:53
+#: page.php:35
+#, php-format
+msgid "You must be logged in to view this page. <a href=\"%s\">Login here</a>"
+msgstr ""
+"U moet zijn aangemeld om deze pagina te bekijken.<a href=\"%s\">Login here</"
+"a>"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Enter your keywords"
+msgstr "Voer uw zoekwoorden in"
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "De verzendkosten worden berekend zodra u uw adres hebt opgegeven."
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Er zijn geen verzendmethoden beschikbaar. Controleer uw adres of neem "
+"contact met ons op als u hulp nodig heeft."
+
+#: woocommerce/cart/cart-totals.php:18
+msgid "Cart Totals"
+msgstr "Totaal winkelwagen"
+
+#: woocommerce/cart/cart-totals.php:26 woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart-totals.php:52
+msgid "Shipping"
+msgstr "Verzenden"
+
+#: woocommerce/cart/cart-totals.php:76 woocommerce/cart/cart.php:41
+#: woocommerce/order/order-details.php:42
+msgid "Total"
+msgstr "Totaal"
+
+#: woocommerce/cart/cart-totals.php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(belastingen geschat voor %s)"
+
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Opmerking: Verzending en belastingen worden geschat op% s en worden tijdens "
+"het uitchecken bijgewerkt op basis van uw factuur- en verzendinformatie."
+
+#: woocommerce/cart/cart-totals.php:99
+msgid "Proceed to Checkout"
+msgstr "Ga naar de kassa"
+
+#: woocommerce/cart/cart.php:38 woocommerce/order/order-details.php:41
+msgid "Product"
+msgstr "Product"
+
+#: woocommerce/cart/cart.php:39
+msgid "Price"
+msgstr "Prijs"
+
+#: woocommerce/cart/cart.php:40
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: woocommerce/cart/cart.php:134
+msgid "Remove this item"
+msgstr "Verwijder dit item"
+
+#: woocommerce/cart/cart.php:156 woocommerce/checkout/form-coupon.php:31
+msgid "Coupon"
+msgstr "Coupon"
+
+#: woocommerce/cart/cart.php:161 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: woocommerce/cart/cart.php:165 woocommerce/checkout/form-coupon.php:36
+#: woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr "Bon gebruiken"
+
+#: woocommerce/cart/cart.php:168
+msgid "Update Cart"
+msgstr "Update winkelwagen"
+
+#: woocommerce/cart/cross-sells.php:39
+msgid "You may be interested in&hellip;"
+msgstr "Mogelijk bent u geïnteresseerd in & hellip;"
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr "Geen producten in de winkelwagen."
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "View Cart"
+msgstr "Bekijk winkelwagen"
+
+#: woocommerce/cart/mini-cart.php:70
+msgid "Checkout"
+msgstr "Uitchecken"
+
+#: woocommerce/cart/shipping-calculator.php:19
+msgid "Calculate Shipping"
+msgstr "Bereken verzending"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land & hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:37
+#: woocommerce/cart/shipping-calculator.php:42
+#: woocommerce/cart/shipping-calculator.php:53
+msgid "State / county"
+msgstr "Staat / Regio"
+
+#: woocommerce/cart/shipping-calculator.php:43
+msgid "Select a state&hellip;"
+msgstr "Selecteer een staat & hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "City"
+msgstr "Stad"
+
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "Postcode / Zip"
+msgstr "Postcode / Zip"
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Update Totals"
+msgstr "Totalen bijwerken"
+
+#: woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr "Facturering & amp; Verzenden"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing Details"
+msgstr "Factureringsgegevens"
+
+#: woocommerce/checkout/form-billing.php:44
+msgid "Create an account?"
+msgstr "Account aanmaken?"
+
+#: woocommerce/checkout/form-billing.php:55
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Maak een account door de onderstaande informatie in te voeren. Als u een "
+"terugkerende klant bent, logt u dan als eerste in op de pagina."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "Go to shop cart if you need remove product"
+msgstr "Ga naar de winkelmand als je het product wilt verwijderen"
+
+#: woocommerce/checkout/form-checkout.php:33
+msgid "You must be logged in to checkout."
+msgstr "Je moet ingelogd zijn om uit te checken."
+
+#: woocommerce/checkout/form-checkout.php:60
+#: woocommerce/checkout/form-checkout.php:80
+msgid "Your order"
+msgstr "Jouw bestelling"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "Terugkomende klant?"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "Klik hier om in te loggen"
+
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Als u al eerder met ons hebt gewinkeld, vul dan hieronder uw gegevens in. "
+"Als u een nieuwe klant bent, gaat u naar Facturering en amp; Verzending "
+"sectie."
+
+#: woocommerce/checkout/form-shipping.php:19
+#: woocommerce/order/order-details-customer.php:75
+msgid "Shipping address"
+msgstr "Verzendingsadres"
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "Ship to a different address?"
+msgstr "Verzend naar een ander adres?"
+
+#: woocommerce/checkout/form-shipping.php:69
+msgid "Additional Information"
+msgstr "Extra informatie"
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Sorry, het lijkt erop dat er geen beschikbare betaalmethoden zijn voor uw "
+"staat. Neem contact met ons op als u hulp nodig heeft of alternatieve "
+"regelingen wilt treffen."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Vul hierboven uw gegevens in om beschikbare betalingsmethoden te bekijken."
+
+#: woocommerce/checkout/payment.php:52
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Omdat uw browser geen JavaScript ondersteunt of is uitgeschakeld, moet u "
+"ervoor zorgen dat u op de knop <em> Update Totalen </ em> klikt voordat u uw "
+"bestelling plaatst. Mogelijk wordt u meer dan het hierboven vermelde bedrag "
+"in rekening gebracht als u dit nalaat."
+
+#: woocommerce/checkout/payment.php:53
+msgid "Update totals"
+msgstr "Totalen bijwerken"
+
+#: woocommerce/content-product.php:48
+msgid "Add cart"
+msgstr "Toevoegen aan winkelmandje"
+
+#: woocommerce/content-product_row.php:43
+#: woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr "Verkoop!"
+
+#: woocommerce/global/form-login.php:30 woocommerce/global/form-login.php:56
+#: woocommerce/global/form-login.php:57
+msgid "Login"
+msgstr "Log in"
+
+#: woocommerce/global/form-login.php:42
+msgid "Username or email"
+msgstr "Gebruikersnaam of email"
+
+#: woocommerce/global/form-login.php:46
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: woocommerce/global/form-login.php:62
+msgid "Remember me"
+msgstr "Onthoud me"
+
+#: woocommerce/global/form-login.php:66
+msgid "Lost your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Aantal stuks"
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Resultaat weergeven"
+msgstr[1] "Alle %d-resultaten weergeven"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Resultaat weergeven"
+msgstr[1] "Tonen%1$d&ndash;%2$d of %3$d uitslagen"
+
+#: woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"Om uw bestelling te volgen, voert u uw bestellings-ID in het onderstaande "
+"vak in en drukt u op de knop \"Volgen\". Dit werd u gegeven op uw "
+"ontvangstbewijs en in de bevestigings-e-mail die u had moeten ontvangen."
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr "Order ID"
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr "Te vinden in de bevestigingsmail van uw bestelling."
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Billing email"
+msgstr "Rekening e-mail"
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr "E-mail die u gebruikte tijdens het afrekenen."
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr "Spoor"
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr "Bestel opnieuw"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Customer details"
+msgstr "Klant details"
+
+#: woocommerce/order/order-details-customer.php:32
+msgid "Note:"
+msgstr "Notitie:"
+
+#: woocommerce/order/order-details-customer.php:39
+msgid "Email:"
+msgstr "E-mail"
+
+#: woocommerce/order/order-details-customer.php:46
+msgid "Phone:"
+msgstr "Telefoon:"
+
+#: woocommerce/order/order-details-customer.php:63
+msgid "Billing address"
+msgstr "Facturatie adres"
+
+#: woocommerce/order/order-details-customer.php:66
+#: woocommerce/order/order-details-customer.php:78
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr "Bestel Details"
+
+#: woocommerce/order/tracking.php:27
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "Bestellen #%1$s werd geplaatst op %2$s en is momenteel %3$s."
+
+#: woocommerce/order/tracking.php:35
+msgid "Order updates"
+msgstr "Bestel updates"
+
+#: woocommerce/order/tracking.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s review voor %s"
+msgstr[1] "%s beoordelingen voor %s"
+
+#: woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr "Er zijn nog geen beoordelingen."
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr "Voeg een beoordeling toe"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr "Wees de eerste om te beoordelen"
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laat een reactie achter %s"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr "Coorleggen"
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Dat moet je zijn<a href=\"%s\">logged in</a>om een beoordeling te plaatsen."
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr "Jouw waardering"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr "Perfecte"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr "Goed"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr "Gemiddelde"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr "Niet zo slecht"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr "Erg arm"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Alleen ingelogde klanten die dit product hebben gekocht, kunnen een "
+"beoordeling achterlaten."
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categorie:"
+msgstr[1] "Categorieën:"
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Tags:"
+
+#: woocommerce/single-product/meta.php:36
+msgid "Share This Post"
+msgstr "Deel dit bericht"
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr "In afwachting van productafbeelding"
+
+#: woocommerce/single-product/related.php:41
+msgid "Related Products"
+msgstr "Gerelateerde producten"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr "Uw beoordeling wacht op goedkeuring"
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr "geverifieerde eigenaar"
+
+#: woocommerce/single-product/title.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Beoordeeld %s uit van 5"
+
+#: woocommerce/single-product/title.php:36
+#, php-format
+msgid "out of %s5%s"
+msgstr "uit van %s5%s"
+
+#: woocommerce/single-product/title.php:37
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "Op basis van%s klantwaardering"
+msgstr[1] "Op basis van%s  klantwaardering"
+
+#: woocommerce/single-product/title.php:41
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s klantbeoordeling"
+msgstr[1] "%s klanten-reviews"
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr "Misschien vind je ook & hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "injob"
+msgstr "injob"
+
+#. Theme URI of the plugin/theme
+msgid "http://jobboard.inwavethemes.com"
+msgstr "http://jobboard.inwavethemes.com"
+
+#. Description of the plugin/theme
+msgid ""
+"injob is an advanced job board wordpress theme with a modern, clean, "
+"intuitive, and fully responsive design, that looks perfect on any size "
+"tablet or mobile screen."
+msgstr ""
+"injob is een geavanceerd WordPlan WordPress thema met een modern, schoon, "
+"intuïtief en volledig responsief ontwerp, dat er perfect uitziet op elk "
+"formaat tablet of mobiel scherm."
+
+#. Author of the plugin/theme
+msgid "inwavethemes"
+msgstr "inwavethemes"
+
+#. Author URI of the plugin/theme
+msgid "http://inwavethemes.com"
+msgstr "http://inwavethemes.com"
+
+#~ msgid "Only used for header version 3, 4, 6."
+#~ msgstr "Alleen gebruikt voor koptekstversie 3, 4, 6."
+
+#~ msgid "Only used for header version 3, 6."
+#~ msgstr "Alleen gebruikt voor koptekstversie 3, 6."
+
+#~ msgid "Only used for header version 3, 4, 6 ."
+#~ msgstr "Alleen gebruikt voor koptekstversie 3, 4, 6."
+
+#~ msgid "Only used for header version 3, 6 ."
+#~ msgstr "Alleen gebruikt voor koptekstversie 3, 6."
